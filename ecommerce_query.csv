@@ -1,0 +1,3127 @@
+"date","month","category","total_diskon","total_price","payment_method"
+"2024-01-01",Januari,Beauty,15,280.0,Credit Card
+"2024-01-01",Januari,Clothing,25,121.0,Credit Card
+"2024-01-01",Januari,Electronics,50,152.0,Credit Card
+"2024-01-01",Januari,Electronics,10,28.0,Debit Card
+"2024-01-01",Januari,Home & Kitchen,25,89.0,Debit Card
+"2024-01-01",Januari,Home & Kitchen,25,119.0,UPI
+"2024-01-01",Januari,Sports,15,162.0,Net Banking
+"2024-01-02",Januari,Beauty,30,623.0,Cash on Delivery
+"2024-01-02",Januari,Books,15,68.0,Credit Card
+"2024-01-02",Januari,Clothing,0,381.0,Cash on Delivery
+"2024-01-02",Januari,Clothing,20,869.0,Credit Card
+"2024-01-02",Januari,Clothing,10,289.0,Debit Card
+"2024-01-02",Januari,Electronics,30,194.0,Debit Card
+"2024-01-02",Januari,Electronics,0,281.0,UPI
+"2024-01-02",Januari,Home & Kitchen,15,285.0,Net Banking
+"2024-01-02",Januari,Sports,10,363.0,Credit Card
+"2024-01-02",Januari,Sports,30,328.0,Debit Card
+"2024-01-02",Januari,Sports,5,295.0,UPI
+"2024-01-02",Januari,Toys,50,225.0,Cash on Delivery
+"2024-01-02",Januari,Toys,10,25.0,Debit Card
+"2024-01-02",Januari,Toys,15,167.0,Net Banking
+"2024-01-03",Januari,Beauty,30,345.0,UPI
+"2024-01-03",Januari,Books,25,126.0,Cash on Delivery
+"2024-01-03",Januari,Clothing,5,150.0,Cash on Delivery
+"2024-01-03",Januari,Electronics,10,83.0,Cash on Delivery
+"2024-01-03",Januari,Electronics,0,446.0,UPI
+"2024-01-03",Januari,Sports,25,374.0,Credit Card
+"2024-01-03",Januari,Toys,25,601.0,Net Banking
+"2024-01-04",Januari,Beauty,30,323.0,UPI
+"2024-01-04",Januari,Books,0,298.0,Debit Card
+"2024-01-04",Januari,Clothing,50,149.0,Debit Card
+"2024-01-04",Januari,Electronics,50,126.0,Cash on Delivery
+"2024-01-04",Januari,Home & Kitchen,5,38.0,Cash on Delivery
+"2024-01-04",Januari,Home & Kitchen,0,136.0,Credit Card
+"2024-01-04",Januari,Home & Kitchen,25,287.0,Debit Card
+"2024-01-04",Januari,Sports,50,249.0,Cash on Delivery
+"2024-01-04",Januari,Sports,20,86.0,Credit Card
+"2024-01-04",Januari,Sports,0,221.0,Net Banking
+"2024-01-05",Januari,Books,50,159.0,Credit Card
+"2024-01-05",Januari,Books,20,347.0,UPI
+"2024-01-05",Januari,Clothing,30,107.0,Cash on Delivery
+"2024-01-05",Januari,Clothing,30,36.0,Debit Card
+"2024-01-05",Januari,Electronics,70,294.0,Credit Card
+"2024-01-05",Januari,Electronics,0,94.0,UPI
+"2024-01-05",Januari,Home & Kitchen,0,353.0,Debit Card
+"2024-01-05",Januari,Home & Kitchen,30,176.0,Net Banking
+"2024-01-05",Januari,Sports,5,300.0,Cash on Delivery
+"2024-01-05",Januari,Sports,30,26.0,Net Banking
+"2024-01-05",Januari,Toys,10,70.0,UPI
+"2024-01-06",Januari,Beauty,0,43.0,Credit Card
+"2024-01-06",Januari,Books,20,234.0,Debit Card
+"2024-01-06",Januari,Clothing,20,195.0,Credit Card
+"2024-01-06",Januari,Clothing,10,127.0,Net Banking
+"2024-01-06",Januari,Sports,10,120.0,Cash on Delivery
+"2024-01-06",Januari,Sports,25,324.0,UPI
+"2024-01-06",Januari,Toys,5,409.0,Cash on Delivery
+"2024-01-06",Januari,Toys,0,153.0,Credit Card
+"2024-01-07",Januari,Beauty,10,442.0,Cash on Delivery
+"2024-01-07",Januari,Beauty,40,367.0,Credit Card
+"2024-01-07",Januari,Beauty,25,373.0,Debit Card
+"2024-01-07",Januari,Beauty,50,101.0,UPI
+"2024-01-07",Januari,Clothing,20,350.0,Cash on Delivery
+"2024-01-07",Januari,Clothing,50,29.0,Credit Card
+"2024-01-07",Januari,Clothing,25,252.0,Net Banking
+"2024-01-07",Januari,Electronics,50,133.0,Credit Card
+"2024-01-07",Januari,Home & Kitchen,25,135.0,Net Banking
+"2024-01-07",Januari,Home & Kitchen,0,296.0,UPI
+"2024-01-07",Januari,Sports,50,187.0,Cash on Delivery
+"2024-01-07",Januari,Toys,25,68.0,UPI
+"2024-01-08",Januari,Beauty,30,268.0,Cash on Delivery
+"2024-01-08",Januari,Beauty,0,91.0,Credit Card
+"2024-01-08",Januari,Books,10,325.0,Net Banking
+"2024-01-08",Januari,Home & Kitchen,10,273.0,Cash on Delivery
+"2024-01-08",Januari,Home & Kitchen,50,40.0,Credit Card
+"2024-01-08",Januari,Home & Kitchen,10,320.0,UPI
+"2024-01-08",Januari,Sports,50,106.0,Net Banking
+"2024-01-08",Januari,Toys,50,220.0,Credit Card
+"2024-01-09",Januari,Beauty,30,793.0,Debit Card
+"2024-01-09",Januari,Books,0,172.0,Credit Card
+"2024-01-09",Januari,Clothing,10,150.0,Debit Card
+"2024-01-09",Januari,Electronics,15,263.0,Credit Card
+"2024-01-09",Januari,Electronics,0,124.0,Debit Card
+"2024-01-09",Januari,Electronics,25,365.0,Net Banking
+"2024-01-09",Januari,Home & Kitchen,20,40.0,Cash on Delivery
+"2024-01-09",Januari,Home & Kitchen,25,312.0,Debit Card
+"2024-01-09",Januari,Home & Kitchen,0,480.0,UPI
+"2024-01-09",Januari,Toys,30,485.0,Credit Card
+"2024-01-09",Januari,Toys,5,553.0,Net Banking
+"2024-01-09",Januari,Toys,25,109.0,UPI
+"2024-01-10",Januari,Beauty,20,134.0,Cash on Delivery
+"2024-01-10",Januari,Books,15,55.0,Cash on Delivery
+"2024-01-10",Januari,Books,25,119.0,UPI
+"2024-01-10",Januari,Clothing,10,307.0,Debit Card
+"2024-01-10",Januari,Electronics,5,15.0,Net Banking
+"2024-01-10",Januari,Toys,30,63.0,Cash on Delivery
+"2024-01-10",Januari,Toys,20,49.0,Credit Card
+"2024-01-10",Januari,Toys,35,402.0,Debit Card
+"2024-01-11",Januari,Beauty,30,172.0,UPI
+"2024-01-11",Januari,Books,15,90.0,Credit Card
+"2024-01-11",Januari,Books,5,422.0,Net Banking
+"2024-01-11",Januari,Books,30,462.0,UPI
+"2024-01-11",Januari,Electronics,15,25.0,Debit Card
+"2024-01-11",Januari,Home & Kitchen,65,570.0,Net Banking
+"2024-01-11",Januari,Sports,15,196.0,Credit Card
+"2024-01-11",Januari,Sports,0,309.0,Debit Card
+"2024-01-11",Januari,Toys,15,30.0,UPI
+"2024-01-12",Januari,Beauty,20,198.0,Cash on Delivery
+"2024-01-12",Januari,Clothing,45,310.0,Credit Card
+"2024-01-12",Januari,Clothing,30,139.0,UPI
+"2024-01-12",Januari,Home & Kitchen,0,383.0,Debit Card
+"2024-01-12",Januari,Sports,15,381.0,UPI
+"2024-01-12",Januari,Toys,20,395.0,Cash on Delivery
+"2024-01-13",Januari,Beauty,30,323.0,Cash on Delivery
+"2024-01-13",Januari,Beauty,10,337.0,Net Banking
+"2024-01-13",Januari,Books,50,97.0,Credit Card
+"2024-01-13",Januari,Electronics,25,112.0,Credit Card
+"2024-01-13",Januari,Home & Kitchen,15,161.0,Credit Card
+"2024-01-13",Januari,Home & Kitchen,15,237.0,Debit Card
+"2024-01-13",Januari,Home & Kitchen,25,44.0,Net Banking
+"2024-01-13",Januari,Sports,50,125.0,Debit Card
+"2024-01-13",Januari,Sports,15,82.0,Net Banking
+"2024-01-14",Januari,Beauty,50,55.0,Credit Card
+"2024-01-14",Januari,Beauty,50,200.0,Debit Card
+"2024-01-14",Januari,Beauty,50,12.0,Net Banking
+"2024-01-14",Januari,Beauty,0,39.0,UPI
+"2024-01-14",Januari,Books,75,534.0,Debit Card
+"2024-01-14",Januari,Clothing,25,377.0,Cash on Delivery
+"2024-01-14",Januari,Electronics,0,435.0,Credit Card
+"2024-01-14",Januari,Electronics,50,176.0,Debit Card
+"2024-01-14",Januari,Electronics,5,128.0,UPI
+"2024-01-14",Januari,Home & Kitchen,15,223.0,Cash on Delivery
+"2024-01-14",Januari,Home & Kitchen,20,292.0,Debit Card
+"2024-01-14",Januari,Home & Kitchen,10,172.0,UPI
+"2024-01-14",Januari,Sports,30,459.0,Credit Card
+"2024-01-14",Januari,Sports,30,75.0,UPI
+"2024-01-14",Januari,Toys,10,98.0,Debit Card
+"2024-01-15",Januari,Beauty,5,288.0,UPI
+"2024-01-15",Januari,Books,5,136.0,Credit Card
+"2024-01-15",Januari,Clothing,25,113.0,Cash on Delivery
+"2024-01-15",Januari,Clothing,0,153.0,Credit Card
+"2024-01-15",Januari,Clothing,20,163.0,Net Banking
+"2024-01-15",Januari,Electronics,25,307.0,UPI
+"2024-01-15",Januari,Home & Kitchen,0,214.0,Credit Card
+"2024-01-15",Januari,Sports,0,190.0,Debit Card
+"2024-01-15",Januari,Toys,25,18.0,Credit Card
+"2024-01-15",Januari,Toys,70,158.0,UPI
+"2024-01-16",Januari,Beauty,15,861.0,Cash on Delivery
+"2024-01-16",Januari,Beauty,25,108.0,Debit Card
+"2024-01-16",Januari,Electronics,10,399.0,Credit Card
+"2024-01-16",Januari,Electronics,5,86.0,Debit Card
+"2024-01-16",Januari,Home & Kitchen,25,266.0,Credit Card
+"2024-01-16",Januari,Home & Kitchen,5,373.0,Net Banking
+"2024-01-16",Januari,Sports,30,125.0,Cash on Delivery
+"2024-01-16",Januari,Sports,20,147.0,Net Banking
+"2024-01-17",Januari,Beauty,0,377.0,Debit Card
+"2024-01-17",Januari,Books,25,201.0,Cash on Delivery
+"2024-01-17",Januari,Clothing,0,457.0,Cash on Delivery
+"2024-01-17",Januari,Clothing,30,233.0,Credit Card
+"2024-01-17",Januari,Clothing,5,194.0,Debit Card
+"2024-01-17",Januari,Home & Kitchen,30,201.0,Cash on Delivery
+"2024-01-17",Januari,Home & Kitchen,0,101.0,Net Banking
+"2024-01-17",Januari,Sports,0,62.0,Credit Card
+"2024-01-17",Januari,Toys,45,106.0,Credit Card
+"2024-01-18",Januari,Beauty,30,145.0,Net Banking
+"2024-01-18",Januari,Books,30,339.0,Cash on Delivery
+"2024-01-18",Januari,Books,5,199.0,Credit Card
+"2024-01-18",Januari,Books,25,334.0,Net Banking
+"2024-01-18",Januari,Books,10,383.0,UPI
+"2024-01-18",Januari,Electronics,25,568.0,Net Banking
+"2024-01-18",Januari,Home & Kitchen,0,112.0,Net Banking
+"2024-01-18",Januari,Home & Kitchen,15,21.0,UPI
+"2024-01-18",Januari,Sports,30,97.0,Cash on Delivery
+"2024-01-18",Januari,Toys,0,359.0,Net Banking
+"2024-01-19",Januari,Beauty,50,103.0,Cash on Delivery
+"2024-01-19",Januari,Beauty,15,52.0,Credit Card
+"2024-01-19",Januari,Beauty,25,101.0,UPI
+"2024-01-19",Januari,Sports,15,124.0,Net Banking
+"2024-01-19",Januari,Toys,15,401.0,Credit Card
+"2024-01-19",Januari,Toys,35,677.0,Net Banking
+"2024-01-20",Januari,Beauty,10,363.0,Debit Card
+"2024-01-20",Januari,Beauty,10,180.0,Net Banking
+"2024-01-20",Januari,Books,0,126.0,Cash on Delivery
+"2024-01-20",Januari,Books,50,139.0,Net Banking
+"2024-01-20",Januari,Clothing,5,268.0,Net Banking
+"2024-01-20",Januari,Home & Kitchen,15,83.0,Cash on Delivery
+"2024-01-20",Januari,Sports,25,548.0,Cash on Delivery
+"2024-01-20",Januari,Toys,10,75.0,Debit Card
+"2024-01-21",Januari,Books,0,354.0,Debit Card
+"2024-01-21",Januari,Books,20,49.0,UPI
+"2024-01-21",Januari,Clothing,20,274.0,Debit Card
+"2024-01-21",Januari,Electronics,50,332.0,Cash on Delivery
+"2024-01-21",Januari,Electronics,45,190.0,Net Banking
+"2024-01-21",Januari,Home & Kitchen,25,59.0,Credit Card
+"2024-01-21",Januari,Home & Kitchen,50,203.0,UPI
+"2024-01-21",Januari,Sports,10,892.0,Debit Card
+"2024-01-21",Januari,Toys,15,409.0,Debit Card
+"2024-01-21",Januari,Toys,0,365.0,UPI
+"2024-01-22",Januari,Beauty,10,374.0,Cash on Delivery
+"2024-01-22",Januari,Beauty,15,325.0,Credit Card
+"2024-01-22",Januari,Books,5,217.0,Net Banking
+"2024-01-22",Januari,Clothing,15,314.0,Net Banking
+"2024-01-22",Januari,Home & Kitchen,10,322.0,Cash on Delivery
+"2024-01-22",Januari,Home & Kitchen,15,44.0,Net Banking
+"2024-01-22",Januari,Sports,50,216.0,Net Banking
+"2024-01-22",Januari,Sports,5,338.0,UPI
+"2024-01-22",Januari,Toys,55,243.0,Cash on Delivery
+"2024-01-23",Januari,Beauty,5,239.0,Credit Card
+"2024-01-23",Januari,Clothing,10,227.0,Cash on Delivery
+"2024-01-23",Januari,Electronics,30,276.0,Credit Card
+"2024-01-23",Januari,Home & Kitchen,50,45.0,Net Banking
+"2024-01-23",Januari,Toys,15,163.0,Net Banking
+"2024-01-24",Januari,Books,0,299.0,Credit Card
+"2024-01-24",Januari,Clothing,10,193.0,Cash on Delivery
+"2024-01-24",Januari,Clothing,5,64.0,UPI
+"2024-01-24",Januari,Electronics,15,60.0,Debit Card
+"2024-01-24",Januari,Electronics,10,265.0,Net Banking
+"2024-01-24",Januari,Home & Kitchen,15,295.0,Debit Card
+"2024-01-24",Januari,Sports,15,60.0,Credit Card
+"2024-01-24",Januari,Sports,20,265.0,Net Banking
+"2024-01-24",Januari,Toys,5,409.0,Cash on Delivery
+"2024-01-24",Januari,Toys,5,405.0,Credit Card
+"2024-01-24",Januari,Toys,10,14.0,Debit Card
+"2024-01-24",Januari,Toys,20,45.0,UPI
+"2024-01-25",Januari,Books,5,30.0,Cash on Delivery
+"2024-01-25",Januari,Books,15,305.0,Debit Card
+"2024-01-25",Januari,Clothing,15,104.0,UPI
+"2024-01-25",Januari,Sports,20,393.0,Debit Card
+"2024-01-26",Januari,Books,20,130.0,Debit Card
+"2024-01-26",Januari,Clothing,5,373.0,Cash on Delivery
+"2024-01-26",Januari,Clothing,5,458.0,Debit Card
+"2024-01-26",Januari,Electronics,10,396.0,Debit Card
+"2024-01-26",Januari,Electronics,10,185.0,Net Banking
+"2024-01-26",Januari,Home & Kitchen,20,167.0,Credit Card
+"2024-01-26",Januari,Sports,0,159.0,Cash on Delivery
+"2024-01-26",Januari,Sports,30,130.0,Credit Card
+"2024-01-26",Januari,Toys,30,153.0,Credit Card
+"2024-01-26",Januari,Toys,0,314.0,Debit Card
+"2024-01-26",Januari,Toys,5,255.0,Net Banking
+"2024-01-27",Januari,Beauty,0,116.0,Debit Card
+"2024-01-27",Januari,Beauty,40,208.0,UPI
+"2024-01-27",Januari,Books,5,350.0,Credit Card
+"2024-01-27",Januari,Books,5,16.0,Debit Card
+"2024-01-27",Januari,Clothing,15,404.0,Cash on Delivery
+"2024-01-27",Januari,Electronics,15,115.0,Cash on Delivery
+"2024-01-27",Januari,Electronics,30,310.0,Debit Card
+"2024-01-27",Januari,Home & Kitchen,50,31.0,Cash on Delivery
+"2024-01-27",Januari,Home & Kitchen,15,204.0,UPI
+"2024-01-27",Januari,Sports,25,656.0,Net Banking
+"2024-01-27",Januari,Toys,5,219.0,UPI
+"2024-01-28",Januari,Beauty,20,67.0,Cash on Delivery
+"2024-01-28",Januari,Beauty,30,295.0,Net Banking
+"2024-01-28",Januari,Books,50,451.0,UPI
+"2024-01-28",Januari,Clothing,5,285.0,Credit Card
+"2024-01-28",Januari,Clothing,10,81.0,Debit Card
+"2024-01-28",Januari,Clothing,20,139.0,Net Banking
+"2024-01-28",Januari,Electronics,30,178.0,UPI
+"2024-01-28",Januari,Home & Kitchen,5,294.0,Credit Card
+"2024-01-28",Januari,Home & Kitchen,60,327.0,Net Banking
+"2024-01-28",Januari,Toys,20,124.0,Credit Card
+"2024-01-28",Januari,Toys,10,52.0,Net Banking
+"2024-01-29",Januari,Beauty,40,388.0,Cash on Delivery
+"2024-01-29",Januari,Beauty,20,91.0,Credit Card
+"2024-01-29",Januari,Books,0,93.0,Cash on Delivery
+"2024-01-29",Januari,Books,40,429.0,Debit Card
+"2024-01-29",Januari,Clothing,15,357.0,Credit Card
+"2024-01-29",Januari,Clothing,30,346.0,Debit Card
+"2024-01-29",Januari,Clothing,0,186.0,Net Banking
+"2024-01-29",Januari,Electronics,55,527.0,Credit Card
+"2024-01-29",Januari,Electronics,25,242.0,Net Banking
+"2024-01-29",Januari,Home & Kitchen,25,148.0,Net Banking
+"2024-01-29",Januari,Sports,40,544.0,Cash on Delivery
+"2024-01-30",Januari,Beauty,5,210.0,Debit Card
+"2024-01-30",Januari,Books,25,186.0,Debit Card
+"2024-01-30",Januari,Books,20,232.0,UPI
+"2024-01-30",Januari,Clothing,20,328.0,Cash on Delivery
+"2024-01-30",Januari,Clothing,5,207.0,Credit Card
+"2024-01-30",Januari,Clothing,15,56.0,Debit Card
+"2024-01-30",Januari,Electronics,20,39.0,Credit Card
+"2024-01-30",Januari,Home & Kitchen,30,242.0,Cash on Delivery
+"2024-01-30",Januari,Home & Kitchen,20,145.0,Credit Card
+"2024-01-30",Januari,Home & Kitchen,10,227.0,Net Banking
+"2024-01-30",Januari,Sports,20,235.0,Cash on Delivery
+"2024-01-30",Januari,Sports,10,31.0,Debit Card
+"2024-01-30",Januari,Toys,0,25.0,Credit Card
+"2024-01-31",Januari,Beauty,10,334.0,Cash on Delivery
+"2024-01-31",Januari,Beauty,15,98.0,Credit Card
+"2024-01-31",Januari,Beauty,10,64.0,Debit Card
+"2024-01-31",Januari,Books,0,145.0,Cash on Delivery
+"2024-01-31",Januari,Books,10,208.0,Debit Card
+"2024-01-31",Januari,Clothing,10,227.0,Debit Card
+"2024-01-31",Januari,Clothing,5,120.0,Net Banking
+"2024-01-31",Januari,Electronics,50,212.0,Cash on Delivery
+"2024-01-31",Januari,Electronics,15,277.0,Net Banking
+"2024-01-31",Januari,Home & Kitchen,25,191.0,Credit Card
+"2024-01-31",Januari,Home & Kitchen,30,649.0,Net Banking
+"2024-01-31",Januari,Toys,30,625.0,UPI
+"2024-02-01",Februari,Beauty,30,229.0,Credit Card
+"2024-02-01",Februari,Books,5,436.0,Debit Card
+"2024-02-01",Februari,Clothing,25,110.0,Cash on Delivery
+"2024-02-01",Februari,Clothing,0,166.0,UPI
+"2024-02-01",Februari,Electronics,30,156.0,Credit Card
+"2024-02-01",Februari,Home & Kitchen,10,353.0,Credit Card
+"2024-02-01",Februari,Home & Kitchen,50,572.0,UPI
+"2024-02-01",Februari,Sports,30,204.0,UPI
+"2024-02-01",Februari,Toys,20,309.0,Cash on Delivery
+"2024-02-02",Februari,Books,10,318.0,UPI
+"2024-02-02",Februari,Clothing,0,390.0,Net Banking
+"2024-02-02",Februari,Electronics,60,526.0,UPI
+"2024-02-02",Februari,Sports,15,359.0,UPI
+"2024-02-02",Februari,Toys,25,233.0,Credit Card
+"2024-02-03",Februari,Beauty,15,367.0,Net Banking
+"2024-02-03",Februari,Home & Kitchen,50,124.0,Cash on Delivery
+"2024-02-03",Februari,Home & Kitchen,20,97.0,Credit Card
+"2024-02-03",Februari,Home & Kitchen,85,630.0,Debit Card
+"2024-02-03",Februari,Home & Kitchen,15,303.0,UPI
+"2024-02-03",Februari,Sports,25,244.0,Debit Card
+"2024-02-03",Februari,Sports,30,490.0,Net Banking
+"2024-02-03",Februari,Toys,10,358.0,Credit Card
+"2024-02-04",Februari,Beauty,10,197.0,Credit Card
+"2024-02-04",Februari,Beauty,20,340.0,Net Banking
+"2024-02-04",Februari,Books,20,122.0,Cash on Delivery
+"2024-02-04",Februari,Clothing,50,89.0,Credit Card
+"2024-02-04",Februari,Electronics,25,206.0,Cash on Delivery
+"2024-02-04",Februari,Electronics,15,140.0,Debit Card
+"2024-02-04",Februari,Home & Kitchen,10,193.0,Credit Card
+"2024-02-04",Februari,Sports,25,147.0,Cash on Delivery
+"2024-02-04",Februari,Sports,35,326.0,Net Banking
+"2024-02-05",Februari,Beauty,20,330.0,Debit Card
+"2024-02-05",Februari,Beauty,15,301.0,UPI
+"2024-02-05",Februari,Clothing,50,200.0,Debit Card
+"2024-02-05",Februari,Electronics,30,298.0,Credit Card
+"2024-02-05",Februari,Electronics,25,271.0,UPI
+"2024-02-05",Februari,Home & Kitchen,50,235.0,Cash on Delivery
+"2024-02-05",Februari,Home & Kitchen,0,261.0,Credit Card
+"2024-02-05",Februari,Home & Kitchen,35,339.0,UPI
+"2024-02-05",Februari,Sports,50,162.0,Debit Card
+"2024-02-05",Februari,Sports,20,176.0,UPI
+"2024-02-05",Februari,Toys,25,653.0,Cash on Delivery
+"2024-02-06",Februari,Books,30,141.0,Cash on Delivery
+"2024-02-06",Februari,Clothing,50,10.0,Net Banking
+"2024-02-06",Februari,Clothing,10,22.0,UPI
+"2024-02-06",Februari,Electronics,15,248.0,Debit Card
+"2024-02-06",Februari,Electronics,0,362.0,UPI
+"2024-02-06",Februari,Sports,5,464.0,UPI
+"2024-02-07",Februari,Beauty,30,197.0,UPI
+"2024-02-07",Februari,Clothing,10,415.0,Credit Card
+"2024-02-07",Februari,Home & Kitchen,60,889.0,Cash on Delivery
+"2024-02-07",Februari,Sports,40,422.0,Credit Card
+"2024-02-07",Februari,Sports,20,330.0,Debit Card
+"2024-02-07",Februari,Sports,50,16.0,UPI
+"2024-02-08",Februari,Beauty,20,377.0,UPI
+"2024-02-08",Februari,Books,0,407.0,Credit Card
+"2024-02-08",Februari,Electronics,35,491.0,Net Banking
+"2024-02-08",Februari,Home & Kitchen,30,190.0,Cash on Delivery
+"2024-02-08",Februari,Sports,130,289.0,Net Banking
+"2024-02-08",Februari,Sports,20,14.0,UPI
+"2024-02-09",Februari,Beauty,15,243.0,Cash on Delivery
+"2024-02-09",Februari,Books,50,247.0,Credit Card
+"2024-02-09",Februari,Books,10,164.0,Debit Card
+"2024-02-09",Februari,Books,50,212.0,UPI
+"2024-02-09",Februari,Clothing,35,406.0,Net Banking
+"2024-02-09",Februari,Clothing,0,466.0,UPI
+"2024-02-09",Februari,Electronics,15,231.0,Debit Card
+"2024-02-09",Februari,Home & Kitchen,30,534.0,Debit Card
+"2024-02-09",Februari,Sports,30,252.0,Debit Card
+"2024-02-09",Februari,Toys,10,306.0,Cash on Delivery
+"2024-02-10",Februari,Beauty,5,295.0,Cash on Delivery
+"2024-02-10",Februari,Beauty,10,134.0,Net Banking
+"2024-02-10",Februari,Books,0,187.0,Cash on Delivery
+"2024-02-10",Februari,Clothing,20,294.0,Cash on Delivery
+"2024-02-10",Februari,Clothing,30,165.0,Net Banking
+"2024-02-10",Februari,Clothing,0,329.0,UPI
+"2024-02-10",Februari,Electronics,0,144.0,Debit Card
+"2024-02-10",Februari,Electronics,15,274.0,UPI
+"2024-02-10",Februari,Home & Kitchen,20,254.0,Net Banking
+"2024-02-10",Februari,Toys,0,150.0,UPI
+"2024-02-11",Februari,Beauty,5,391.0,Cash on Delivery
+"2024-02-11",Februari,Beauty,5,415.0,Net Banking
+"2024-02-11",Februari,Beauty,15,320.0,UPI
+"2024-02-11",Februari,Books,30,31.0,Cash on Delivery
+"2024-02-11",Februari,Books,20,377.0,Net Banking
+"2024-02-11",Februari,Clothing,10,24.0,Credit Card
+"2024-02-11",Februari,Clothing,0,264.0,UPI
+"2024-02-11",Februari,Electronics,0,79.0,Cash on Delivery
+"2024-02-11",Februari,Electronics,5,339.0,Credit Card
+"2024-02-11",Februari,Electronics,25,208.0,Debit Card
+"2024-02-11",Februari,Home & Kitchen,0,419.0,UPI
+"2024-02-11",Februari,Toys,5,350.0,Credit Card
+"2024-02-11",Februari,Toys,25,242.0,UPI
+"2024-02-12",Februari,Beauty,30,131.0,Credit Card
+"2024-02-12",Februari,Beauty,0,403.0,Debit Card
+"2024-02-12",Februari,Books,20,150.0,Credit Card
+"2024-02-12",Februari,Electronics,50,187.0,Credit Card
+"2024-02-12",Februari,Home & Kitchen,15,55.0,UPI
+"2024-02-12",Februari,Sports,0,251.0,UPI
+"2024-02-13",Februari,Beauty,30,68.0,Debit Card
+"2024-02-13",Februari,Books,25,220.0,Credit Card
+"2024-02-13",Februari,Books,10,369.0,UPI
+"2024-02-13",Februari,Clothing,15,193.0,Credit Card
+"2024-02-13",Februari,Clothing,20,139.0,Debit Card
+"2024-02-13",Februari,Electronics,10,135.0,Debit Card
+"2024-02-13",Februari,Electronics,25,99.0,Net Banking
+"2024-02-13",Februari,Electronics,10,259.0,UPI
+"2024-02-13",Februari,Sports,15,380.0,Cash on Delivery
+"2024-02-13",Februari,Sports,5,421.0,Debit Card
+"2024-02-13",Februari,Toys,25,32.0,Cash on Delivery
+"2024-02-14",Februari,Books,0,90.0,Credit Card
+"2024-02-14",Februari,Clothing,15,418.0,UPI
+"2024-02-14",Februari,Home & Kitchen,10,250.0,Credit Card
+"2024-02-14",Februari,Sports,0,417.0,Cash on Delivery
+"2024-02-14",Februari,Sports,10,196.0,Debit Card
+"2024-02-14",Februari,Sports,20,377.0,Net Banking
+"2024-02-14",Februari,Toys,20,58.0,Debit Card
+"2024-02-14",Februari,Toys,25,246.0,UPI
+"2024-02-15",Februari,Beauty,25,622.0,Credit Card
+"2024-02-15",Februari,Books,30,223.0,Debit Card
+"2024-02-15",Februari,Books,25,178.0,UPI
+"2024-02-15",Februari,Clothing,50,128.0,Credit Card
+"2024-02-15",Februari,Clothing,35,365.0,Debit Card
+"2024-02-15",Februari,Electronics,30,145.0,UPI
+"2024-02-15",Februari,Home & Kitchen,50,115.0,UPI
+"2024-02-15",Februari,Toys,25,298.0,Cash on Delivery
+"2024-02-16",Februari,Beauty,15,356.0,Credit Card
+"2024-02-16",Februari,Beauty,50,244.0,Debit Card
+"2024-02-16",Februari,Electronics,15,395.0,Cash on Delivery
+"2024-02-16",Februari,Home & Kitchen,50,147.0,Net Banking
+"2024-02-16",Februari,Sports,30,227.0,Debit Card
+"2024-02-16",Februari,Toys,0,170.0,Credit Card
+"2024-02-17",Februari,Books,15,102.0,UPI
+"2024-02-17",Februari,Clothing,35,638.0,Cash on Delivery
+"2024-02-17",Februari,Clothing,15,323.0,Credit Card
+"2024-02-17",Februari,Clothing,15,174.0,Net Banking
+"2024-02-17",Februari,Sports,20,502.0,Cash on Delivery
+"2024-02-17",Februari,Sports,55,497.0,Debit Card
+"2024-02-17",Februari,Sports,5,380.0,Net Banking
+"2024-02-17",Februari,Sports,5,312.0,UPI
+"2024-02-18",Februari,Beauty,25,372.0,Cash on Delivery
+"2024-02-18",Februari,Books,55,458.0,Credit Card
+"2024-02-18",Februari,Books,20,166.0,UPI
+"2024-02-18",Februari,Clothing,25,326.0,Debit Card
+"2024-02-18",Februari,Clothing,0,333.0,Net Banking
+"2024-02-18",Februari,Electronics,20,332.0,UPI
+"2024-02-18",Februari,Sports,25,31.0,Debit Card
+"2024-02-18",Februari,Sports,30,138.0,UPI
+"2024-02-18",Februari,Toys,15,197.0,Credit Card
+"2024-02-18",Februari,Toys,30,591.0,Debit Card
+"2024-02-18",Februari,Toys,30,265.0,Net Banking
+"2024-02-19",Februari,Books,55,174.0,UPI
+"2024-02-19",Februari,Clothing,20,54.0,Debit Card
+"2024-02-19",Februari,Clothing,30,231.0,Net Banking
+"2024-02-19",Februari,Clothing,0,328.0,UPI
+"2024-02-19",Februari,Electronics,5,395.0,Cash on Delivery
+"2024-02-19",Februari,Electronics,10,431.0,Debit Card
+"2024-02-19",Februari,Electronics,30,307.0,UPI
+"2024-02-19",Februari,Home & Kitchen,30,70.0,Credit Card
+"2024-02-19",Februari,Home & Kitchen,20,214.0,Net Banking
+"2024-02-19",Februari,Toys,0,222.0,Cash on Delivery
+"2024-02-20",Februari,Beauty,20,317.0,Debit Card
+"2024-02-20",Februari,Beauty,30,434.0,UPI
+"2024-02-20",Februari,Clothing,35,434.0,Credit Card
+"2024-02-20",Februari,Clothing,30,111.0,Debit Card
+"2024-02-20",Februari,Clothing,25,87.0,Net Banking
+"2024-02-20",Februari,Clothing,15,411.0,UPI
+"2024-02-20",Februari,Electronics,55,150.0,Cash on Delivery
+"2024-02-20",Februari,Electronics,10,424.0,UPI
+"2024-02-20",Februari,Home & Kitchen,25,52.0,Cash on Delivery
+"2024-02-20",Februari,Home & Kitchen,15,626.0,Credit Card
+"2024-02-20",Februari,Sports,5,174.0,Cash on Delivery
+"2024-02-21",Februari,Beauty,20,15.0,Net Banking
+"2024-02-21",Februari,Books,50,86.0,Net Banking
+"2024-02-21",Februari,Clothing,25,38.0,Cash on Delivery
+"2024-02-21",Februari,Clothing,60,348.0,Net Banking
+"2024-02-21",Februari,Electronics,25,146.0,Net Banking
+"2024-02-21",Februari,Home & Kitchen,5,471.0,Cash on Delivery
+"2024-02-21",Februari,Home & Kitchen,15,178.0,Credit Card
+"2024-02-21",Februari,Sports,10,164.0,Debit Card
+"2024-02-21",Februari,Toys,15,330.0,Net Banking
+"2024-02-21",Februari,Toys,50,127.0,UPI
+"2024-02-22",Februari,Beauty,10,248.0,Cash on Delivery
+"2024-02-22",Februari,Beauty,0,317.0,Credit Card
+"2024-02-22",Februari,Beauty,50,209.0,UPI
+"2024-02-22",Februari,Books,5,399.0,Cash on Delivery
+"2024-02-22",Februari,Clothing,25,33.0,Net Banking
+"2024-02-22",Februari,Electronics,5,662.0,Credit Card
+"2024-02-22",Februari,Electronics,15,147.0,UPI
+"2024-02-22",Februari,Sports,15,398.0,UPI
+"2024-02-22",Februari,Toys,5,107.0,Credit Card
+"2024-02-23",Februari,Beauty,30,507.0,Net Banking
+"2024-02-23",Februari,Beauty,25,132.0,UPI
+"2024-02-23",Februari,Books,0,404.0,UPI
+"2024-02-23",Februari,Clothing,5,134.0,Credit Card
+"2024-02-23",Februari,Electronics,50,180.0,Debit Card
+"2024-02-23",Februari,Home & Kitchen,65,431.0,Cash on Delivery
+"2024-02-23",Februari,Sports,5,393.0,Debit Card
+"2024-02-24",Februari,Beauty,5,191.0,Credit Card
+"2024-02-24",Februari,Beauty,20,224.0,Net Banking
+"2024-02-24",Februari,Beauty,50,187.0,UPI
+"2024-02-24",Februari,Books,5,246.0,UPI
+"2024-02-24",Februari,Clothing,10,212.0,Debit Card
+"2024-02-24",Februari,Electronics,20,225.0,Net Banking
+"2024-02-24",Februari,Home & Kitchen,15,58.0,Credit Card
+"2024-02-24",Februari,Sports,0,377.0,UPI
+"2024-02-24",Februari,Toys,35,431.0,Debit Card
+"2024-02-25",Februari,Beauty,15,343.0,Debit Card
+"2024-02-25",Februari,Books,10,56.0,Cash on Delivery
+"2024-02-25",Februari,Books,15,221.0,Credit Card
+"2024-02-25",Februari,Clothing,30,286.0,Debit Card
+"2024-02-25",Februari,Electronics,50,200.0,Net Banking
+"2024-02-25",Februari,Electronics,0,423.0,UPI
+"2024-02-25",Februari,Home & Kitchen,10,391.0,Cash on Delivery
+"2024-02-25",Februari,Home & Kitchen,40,421.0,Credit Card
+"2024-02-25",Februari,Home & Kitchen,0,467.0,Debit Card
+"2024-02-25",Februari,Toys,10,47.0,Cash on Delivery
+"2024-02-25",Februari,Toys,15,338.0,Credit Card
+"2024-02-25",Februari,Toys,50,24.0,Debit Card
+"2024-02-26",Februari,Beauty,10,278.0,Debit Card
+"2024-02-26",Februari,Beauty,5,490.0,UPI
+"2024-02-26",Februari,Electronics,10,447.0,Cash on Delivery
+"2024-02-26",Februari,Electronics,10,263.0,Credit Card
+"2024-02-26",Februari,Sports,5,361.0,Credit Card
+"2024-02-26",Februari,Toys,10,400.0,Cash on Delivery
+"2024-02-26",Februari,Toys,15,71.0,Debit Card
+"2024-02-27",Februari,Beauty,50,186.0,Debit Card
+"2024-02-27",Februari,Beauty,20,233.0,Net Banking
+"2024-02-27",Februari,Clothing,10,272.0,Cash on Delivery
+"2024-02-27",Februari,Clothing,50,111.0,Credit Card
+"2024-02-27",Februari,Clothing,125,994.0,UPI
+"2024-02-27",Februari,Electronics,0,245.0,UPI
+"2024-02-27",Februari,Home & Kitchen,15,63.0,Cash on Delivery
+"2024-02-27",Februari,Home & Kitchen,10,154.0,Debit Card
+"2024-02-27",Februari,Sports,20,127.0,Cash on Delivery
+"2024-02-27",Februari,Toys,10,300.0,Debit Card
+"2024-02-28",Februari,Beauty,20,359.0,Credit Card
+"2024-02-28",Februari,Books,25,143.0,Cash on Delivery
+"2024-02-28",Februari,Books,15,227.0,Credit Card
+"2024-02-28",Februari,Books,5,251.0,Debit Card
+"2024-02-28",Februari,Books,15,344.0,Net Banking
+"2024-02-28",Februari,Books,20,79.0,UPI
+"2024-02-28",Februari,Electronics,5,237.0,Cash on Delivery
+"2024-02-28",Februari,Electronics,50,434.0,Credit Card
+"2024-02-28",Februari,Electronics,0,13.0,UPI
+"2024-02-28",Februari,Home & Kitchen,10,248.0,Cash on Delivery
+"2024-02-28",Februari,Sports,25,207.0,Net Banking
+"2024-02-28",Februari,Toys,10,103.0,Net Banking
+"2024-02-29",Februari,Beauty,55,500.0,Cash on Delivery
+"2024-02-29",Februari,Beauty,30,230.0,Net Banking
+"2024-02-29",Februari,Beauty,30,308.0,UPI
+"2024-02-29",Februari,Books,20,37.0,Cash on Delivery
+"2024-02-29",Februari,Books,30,52.0,Credit Card
+"2024-02-29",Februari,Books,15,201.0,Net Banking
+"2024-02-29",Februari,Electronics,0,385.0,UPI
+"2024-02-29",Februari,Home & Kitchen,30,261.0,Credit Card
+"2024-02-29",Februari,Home & Kitchen,60,273.0,Net Banking
+"2024-02-29",Februari,Toys,25,244.0,Cash on Delivery
+"2024-02-29",Februari,Toys,5,155.0,Credit Card
+"2024-03-01",Maret,Beauty,15,183.0,Credit Card
+"2024-03-01",Maret,Beauty,20,118.0,Debit Card
+"2024-03-01",Maret,Books,0,81.0,Cash on Delivery
+"2024-03-01",Maret,Clothing,50,471.0,Debit Card
+"2024-03-01",Maret,Clothing,15,265.0,Net Banking
+"2024-03-01",Maret,Electronics,20,303.0,Credit Card
+"2024-03-01",Maret,Electronics,50,51.0,Net Banking
+"2024-03-01",Maret,Home & Kitchen,30,105.0,Credit Card
+"2024-03-01",Maret,Home & Kitchen,5,243.0,Debit Card
+"2024-03-01",Maret,Home & Kitchen,10,308.0,Net Banking
+"2024-03-01",Maret,Sports,0,168.0,Cash on Delivery
+"2024-03-01",Maret,Toys,0,40.0,Credit Card
+"2024-03-02",Maret,Books,25,251.0,UPI
+"2024-03-02",Maret,Clothing,10,294.0,Cash on Delivery
+"2024-03-02",Maret,Electronics,10,388.0,Debit Card
+"2024-03-02",Maret,Electronics,5,446.0,Net Banking
+"2024-03-02",Maret,Home & Kitchen,35,484.0,Credit Card
+"2024-03-02",Maret,Home & Kitchen,20,132.0,Net Banking
+"2024-03-02",Maret,Sports,0,283.0,Credit Card
+"2024-03-02",Maret,Sports,5,365.0,UPI
+"2024-03-03",Maret,Books,60,408.0,Debit Card
+"2024-03-03",Maret,Books,5,56.0,Net Banking
+"2024-03-03",Maret,Clothing,15,254.0,Debit Card
+"2024-03-03",Maret,Electronics,25,123.0,Debit Card
+"2024-03-03",Maret,Sports,20,300.0,UPI
+"2024-03-03",Maret,Toys,0,136.0,Net Banking
+"2024-03-03",Maret,Toys,50,246.0,UPI
+"2024-03-04",Maret,Beauty,10,51.0,Credit Card
+"2024-03-04",Maret,Beauty,20,28.0,Debit Card
+"2024-03-04",Maret,Beauty,0,383.0,UPI
+"2024-03-04",Maret,Books,20,198.0,Debit Card
+"2024-03-04",Maret,Books,0,168.0,UPI
+"2024-03-04",Maret,Electronics,20,239.0,Debit Card
+"2024-03-04",Maret,Electronics,25,106.0,UPI
+"2024-03-04",Maret,Home & Kitchen,10,389.0,Credit Card
+"2024-03-04",Maret,Sports,80,327.0,Debit Card
+"2024-03-04",Maret,Toys,50,42.0,Net Banking
+"2024-03-05",Maret,Books,20,371.0,Cash on Delivery
+"2024-03-05",Maret,Books,10,238.0,Credit Card
+"2024-03-05",Maret,Books,50,90.0,Debit Card
+"2024-03-05",Maret,Books,20,10.0,UPI
+"2024-03-05",Maret,Clothing,65,533.0,Cash on Delivery
+"2024-03-05",Maret,Clothing,10,27.0,Debit Card
+"2024-03-05",Maret,Electronics,30,234.0,Debit Card
+"2024-03-05",Maret,Home & Kitchen,10,374.0,Cash on Delivery
+"2024-03-05",Maret,Sports,20,187.0,Cash on Delivery
+"2024-03-05",Maret,Sports,0,431.0,Debit Card
+"2024-03-05",Maret,Toys,50,93.0,Credit Card
+"2024-03-05",Maret,Toys,15,80.0,UPI
+"2024-03-06",Maret,Beauty,15,391.0,Cash on Delivery
+"2024-03-06",Maret,Beauty,15,335.0,Net Banking
+"2024-03-06",Maret,Clothing,5,325.0,Debit Card
+"2024-03-06",Maret,Home & Kitchen,50,85.0,Credit Card
+"2024-03-06",Maret,Home & Kitchen,50,127.0,UPI
+"2024-03-06",Maret,Toys,25,131.0,Cash on Delivery
+"2024-03-06",Maret,Toys,0,205.0,UPI
+"2024-03-07",Maret,Clothing,70,231.0,Cash on Delivery
+"2024-03-07",Maret,Clothing,30,234.0,Credit Card
+"2024-03-07",Maret,Clothing,50,169.0,Debit Card
+"2024-03-07",Maret,Clothing,5,360.0,Net Banking
+"2024-03-07",Maret,Electronics,20,246.0,Credit Card
+"2024-03-07",Maret,Electronics,50,133.0,Net Banking
+"2024-03-07",Maret,Sports,25,356.0,Cash on Delivery
+"2024-03-07",Maret,Toys,10,105.0,Debit Card
+"2024-03-07",Maret,Toys,30,289.0,Net Banking
+"2024-03-08",Maret,Books,20,152.0,Credit Card
+"2024-03-08",Maret,Books,0,117.0,Net Banking
+"2024-03-08",Maret,Electronics,25,145.0,Net Banking
+"2024-03-08",Maret,Electronics,10,346.0,UPI
+"2024-03-08",Maret,Home & Kitchen,55,839.0,Credit Card
+"2024-03-08",Maret,Home & Kitchen,5,133.0,UPI
+"2024-03-08",Maret,Sports,20,314.0,Cash on Delivery
+"2024-03-08",Maret,Sports,20,22.0,Debit Card
+"2024-03-08",Maret,Toys,20,386.0,Cash on Delivery
+"2024-03-09",Maret,Books,30,311.0,Credit Card
+"2024-03-09",Maret,Clothing,20,458.0,Credit Card
+"2024-03-09",Maret,Electronics,75,49.0,Cash on Delivery
+"2024-03-09",Maret,Electronics,50,167.0,Net Banking
+"2024-03-09",Maret,Home & Kitchen,5,455.0,Cash on Delivery
+"2024-03-09",Maret,Home & Kitchen,10,439.0,Credit Card
+"2024-03-09",Maret,Sports,80,466.0,Credit Card
+"2024-03-09",Maret,Sports,30,235.0,UPI
+"2024-03-09",Maret,Toys,20,221.0,Net Banking
+"2024-03-09",Maret,Toys,0,131.0,UPI
+"2024-03-10",Maret,Beauty,0,338.0,Net Banking
+"2024-03-10",Maret,Beauty,60,243.0,UPI
+"2024-03-10",Maret,Books,25,432.0,Credit Card
+"2024-03-10",Maret,Books,5,466.0,Debit Card
+"2024-03-10",Maret,Books,25,11.0,Net Banking
+"2024-03-10",Maret,Clothing,0,472.0,Debit Card
+"2024-03-10",Maret,Clothing,5,408.0,UPI
+"2024-03-10",Maret,Electronics,5,472.0,Cash on Delivery
+"2024-03-10",Maret,Electronics,5,218.0,Net Banking
+"2024-03-10",Maret,Home & Kitchen,10,148.0,Credit Card
+"2024-03-10",Maret,Home & Kitchen,50,16.0,UPI
+"2024-03-10",Maret,Sports,20,81.0,Cash on Delivery
+"2024-03-10",Maret,Sports,25,258.0,Credit Card
+"2024-03-10",Maret,Toys,50,8.0,Cash on Delivery
+"2024-03-10",Maret,Toys,5,379.0,Debit Card
+"2024-03-10",Maret,Toys,25,79.0,Net Banking
+"2024-03-11",Maret,Beauty,50,85.0,Credit Card
+"2024-03-11",Maret,Beauty,20,248.0,Net Banking
+"2024-03-11",Maret,Books,30,264.0,Cash on Delivery
+"2024-03-11",Maret,Clothing,5,51.0,Credit Card
+"2024-03-11",Maret,Clothing,15,35.0,Net Banking
+"2024-03-11",Maret,Electronics,20,146.0,Cash on Delivery
+"2024-03-11",Maret,Electronics,0,308.0,Credit Card
+"2024-03-11",Maret,Electronics,20,74.0,Net Banking
+"2024-03-11",Maret,Home & Kitchen,15,297.0,Credit Card
+"2024-03-11",Maret,Home & Kitchen,5,355.0,Net Banking
+"2024-03-11",Maret,Sports,20,133.0,Cash on Delivery
+"2024-03-11",Maret,Sports,5,174.0,Debit Card
+"2024-03-11",Maret,Sports,5,246.0,Net Banking
+"2024-03-11",Maret,Toys,5,347.0,Credit Card
+"2024-03-11",Maret,Toys,10,51.0,UPI
+"2024-03-12",Maret,Books,0,177.0,Credit Card
+"2024-03-12",Maret,Clothing,20,163.0,UPI
+"2024-03-12",Maret,Electronics,110,316.0,Credit Card
+"2024-03-12",Maret,Electronics,25,153.0,UPI
+"2024-03-12",Maret,Home & Kitchen,10,138.0,Net Banking
+"2024-03-12",Maret,Sports,40,220.0,UPI
+"2024-03-12",Maret,Toys,25,161.0,Credit Card
+"2024-03-12",Maret,Toys,50,250.0,Net Banking
+"2024-03-13",Maret,Beauty,45,422.0,Cash on Delivery
+"2024-03-13",Maret,Clothing,20,341.0,Debit Card
+"2024-03-13",Maret,Electronics,30,30.0,Cash on Delivery
+"2024-03-13",Maret,Home & Kitchen,50,140.0,Credit Card
+"2024-03-13",Maret,Home & Kitchen,50,240.0,Net Banking
+"2024-03-13",Maret,Toys,15,189.0,Cash on Delivery
+"2024-03-13",Maret,Toys,15,424.0,Credit Card
+"2024-03-13",Maret,Toys,5,80.0,UPI
+"2024-03-14",Maret,Beauty,35,54.0,Net Banking
+"2024-03-14",Maret,Beauty,0,459.0,UPI
+"2024-03-14",Maret,Books,15,188.0,Cash on Delivery
+"2024-03-14",Maret,Books,15,37.0,Debit Card
+"2024-03-14",Maret,Clothing,30,152.0,Cash on Delivery
+"2024-03-14",Maret,Clothing,15,345.0,UPI
+"2024-03-14",Maret,Sports,25,13.0,Debit Card
+"2024-03-14",Maret,Sports,20,308.0,UPI
+"2024-03-14",Maret,Toys,50,221.0,Credit Card
+"2024-03-14",Maret,Toys,0,146.0,Debit Card
+"2024-03-14",Maret,Toys,0,445.0,UPI
+"2024-03-15",Maret,Beauty,0,428.0,Credit Card
+"2024-03-15",Maret,Books,30,280.0,UPI
+"2024-03-15",Maret,Clothing,50,11.0,Debit Card
+"2024-03-15",Maret,Electronics,30,11.0,Credit Card
+"2024-03-15",Maret,Sports,30,30.0,Debit Card
+"2024-03-15",Maret,Sports,0,320.0,UPI
+"2024-03-16",Maret,Clothing,10,322.0,Credit Card
+"2024-03-16",Maret,Electronics,50,179.0,UPI
+"2024-03-16",Maret,Home & Kitchen,25,348.0,Credit Card
+"2024-03-16",Maret,Sports,20,155.0,Credit Card
+"2024-03-16",Maret,Sports,15,256.0,UPI
+"2024-03-16",Maret,Toys,30,124.0,Net Banking
+"2024-03-17",Maret,Books,10,286.0,Credit Card
+"2024-03-17",Maret,Books,30,55.0,Net Banking
+"2024-03-17",Maret,Clothing,20,77.0,Credit Card
+"2024-03-17",Maret,Clothing,50,123.0,Net Banking
+"2024-03-17",Maret,Electronics,15,39.0,Net Banking
+"2024-03-17",Maret,Home & Kitchen,0,169.0,Debit Card
+"2024-03-17",Maret,Sports,0,28.0,Credit Card
+"2024-03-17",Maret,Sports,0,493.0,Net Banking
+"2024-03-17",Maret,Sports,15,706.0,UPI
+"2024-03-18",Maret,Beauty,20,326.0,Net Banking
+"2024-03-18",Maret,Books,30,235.0,Debit Card
+"2024-03-18",Maret,Books,5,178.0,Net Banking
+"2024-03-18",Maret,Clothing,25,306.0,Cash on Delivery
+"2024-03-18",Maret,Clothing,10,45.0,Net Banking
+"2024-03-18",Maret,Home & Kitchen,30,103.0,UPI
+"2024-03-18",Maret,Toys,0,263.0,Credit Card
+"2024-03-19",Maret,Beauty,10,306.0,Credit Card
+"2024-03-19",Maret,Beauty,15,376.0,Debit Card
+"2024-03-19",Maret,Books,25,164.0,UPI
+"2024-03-19",Maret,Clothing,10,291.0,Debit Card
+"2024-03-19",Maret,Clothing,25,648.0,Net Banking
+"2024-03-19",Maret,Clothing,50,46.0,UPI
+"2024-03-19",Maret,Electronics,10,733.0,Credit Card
+"2024-03-19",Maret,Electronics,20,27.0,Debit Card
+"2024-03-19",Maret,Electronics,30,397.0,Net Banking
+"2024-03-19",Maret,Home & Kitchen,15,9.0,Credit Card
+"2024-03-19",Maret,Sports,15,368.0,Credit Card
+"2024-03-19",Maret,Sports,20,212.0,Debit Card
+"2024-03-19",Maret,Toys,5,217.0,Debit Card
+"2024-03-20",Maret,Beauty,50,20.0,Cash on Delivery
+"2024-03-20",Maret,Beauty,25,276.0,Debit Card
+"2024-03-20",Maret,Beauty,15,187.0,Net Banking
+"2024-03-20",Maret,Books,30,328.0,Debit Card
+"2024-03-20",Maret,Clothing,25,57.0,Cash on Delivery
+"2024-03-20",Maret,Clothing,5,171.0,Debit Card
+"2024-03-20",Maret,Electronics,15,169.0,Debit Card
+"2024-03-20",Maret,Home & Kitchen,5,338.0,Debit Card
+"2024-03-20",Maret,Sports,25,173.0,Debit Card
+"2024-03-21",Maret,Beauty,20,58.0,UPI
+"2024-03-21",Maret,Books,35,235.0,Net Banking
+"2024-03-21",Maret,Clothing,10,153.0,Cash on Delivery
+"2024-03-21",Maret,Clothing,50,211.0,Credit Card
+"2024-03-21",Maret,Clothing,75,289.0,Debit Card
+"2024-03-21",Maret,Electronics,20,322.0,Net Banking
+"2024-03-21",Maret,Home & Kitchen,25,239.0,Cash on Delivery
+"2024-03-21",Maret,Home & Kitchen,0,450.0,Credit Card
+"2024-03-21",Maret,Home & Kitchen,25,363.0,Net Banking
+"2024-03-21",Maret,Sports,10,417.0,Credit Card
+"2024-03-21",Maret,Sports,15,65.0,Debit Card
+"2024-03-21",Maret,Sports,25,45.0,UPI
+"2024-03-21",Maret,Toys,15,324.0,Cash on Delivery
+"2024-03-21",Maret,Toys,5,187.0,Net Banking
+"2024-03-22",Maret,Beauty,100,142.0,Debit Card
+"2024-03-22",Maret,Beauty,20,335.0,Net Banking
+"2024-03-22",Maret,Books,20,738.0,Cash on Delivery
+"2024-03-22",Maret,Clothing,15,368.0,Cash on Delivery
+"2024-03-22",Maret,Electronics,5,158.0,Credit Card
+"2024-03-22",Maret,Toys,20,285.0,Debit Card
+"2024-03-23",Maret,Beauty,60,416.0,Cash on Delivery
+"2024-03-23",Maret,Books,50,209.0,Cash on Delivery
+"2024-03-23",Maret,Books,5,144.0,Credit Card
+"2024-03-23",Maret,Books,5,371.0,Debit Card
+"2024-03-23",Maret,Clothing,70,132.0,Cash on Delivery
+"2024-03-23",Maret,Clothing,30,266.0,Net Banking
+"2024-03-23",Maret,Toys,20,798.0,Net Banking
+"2024-03-23",Maret,Toys,20,10.0,UPI
+"2024-03-24",Maret,Beauty,10,197.0,Cash on Delivery
+"2024-03-24",Maret,Beauty,30,177.0,Net Banking
+"2024-03-24",Maret,Books,10,97.0,Net Banking
+"2024-03-24",Maret,Clothing,10,278.0,Cash on Delivery
+"2024-03-24",Maret,Clothing,30,315.0,Debit Card
+"2024-03-24",Maret,Clothing,0,390.0,Net Banking
+"2024-03-24",Maret,Electronics,20,149.0,Cash on Delivery
+"2024-03-24",Maret,Home & Kitchen,20,173.0,Credit Card
+"2024-03-24",Maret,Home & Kitchen,15,415.0,Net Banking
+"2024-03-24",Maret,Home & Kitchen,50,203.0,UPI
+"2024-03-25",Maret,Beauty,5,335.0,Credit Card
+"2024-03-25",Maret,Books,5,205.0,Credit Card
+"2024-03-25",Maret,Clothing,10,196.0,Credit Card
+"2024-03-25",Maret,Electronics,5,209.0,Cash on Delivery
+"2024-03-25",Maret,Electronics,5,32.0,Debit Card
+"2024-03-25",Maret,Home & Kitchen,20,47.0,Cash on Delivery
+"2024-03-25",Maret,Home & Kitchen,10,300.0,Debit Card
+"2024-03-25",Maret,Sports,0,316.0,Debit Card
+"2024-03-25",Maret,Toys,10,127.0,Debit Card
+"2024-03-26",Maret,Beauty,15,422.0,Cash on Delivery
+"2024-03-26",Maret,Beauty,30,21.0,Debit Card
+"2024-03-26",Maret,Beauty,50,249.0,UPI
+"2024-03-26",Maret,Books,15,125.0,Net Banking
+"2024-03-26",Maret,Electronics,0,12.0,Net Banking
+"2024-03-26",Maret,Sports,30,251.0,Cash on Delivery
+"2024-03-26",Maret,Sports,0,398.0,Debit Card
+"2024-03-26",Maret,Sports,5,343.0,UPI
+"2024-03-27",Maret,Beauty,70,224.0,Debit Card
+"2024-03-27",Maret,Beauty,25,259.0,UPI
+"2024-03-27",Maret,Clothing,55,464.0,Net Banking
+"2024-03-27",Maret,Electronics,30,151.0,Credit Card
+"2024-03-27",Maret,Toys,30,199.0,Credit Card
+"2024-03-27",Maret,Toys,50,13.0,Net Banking
+"2024-03-28",Maret,Beauty,10,529.0,Cash on Delivery
+"2024-03-28",Maret,Beauty,0,339.0,UPI
+"2024-03-28",Maret,Books,25,243.0,Cash on Delivery
+"2024-03-28",Maret,Clothing,50,537.0,UPI
+"2024-03-28",Maret,Electronics,50,16.0,Cash on Delivery
+"2024-03-28",Maret,Electronics,0,99.0,Net Banking
+"2024-03-28",Maret,Home & Kitchen,25,296.0,Net Banking
+"2024-03-28",Maret,Home & Kitchen,25,316.0,UPI
+"2024-03-28",Maret,Sports,25,207.0,Credit Card
+"2024-03-28",Maret,Sports,20,302.0,Net Banking
+"2024-03-28",Maret,Sports,5,459.0,UPI
+"2024-03-28",Maret,Toys,15,116.0,Credit Card
+"2024-03-29",Maret,Beauty,20,339.0,Cash on Delivery
+"2024-03-29",Maret,Beauty,25,88.0,Debit Card
+"2024-03-29",Maret,Beauty,5,429.0,Net Banking
+"2024-03-29",Maret,Books,0,60.0,Credit Card
+"2024-03-29",Maret,Clothing,0,378.0,Cash on Delivery
+"2024-03-29",Maret,Clothing,60,234.0,Net Banking
+"2024-03-29",Maret,Electronics,15,45.0,Cash on Delivery
+"2024-03-29",Maret,Electronics,30,287.0,Net Banking
+"2024-03-29",Maret,Home & Kitchen,20,378.0,Cash on Delivery
+"2024-03-29",Maret,Home & Kitchen,5,212.0,UPI
+"2024-03-29",Maret,Sports,35,465.0,Credit Card
+"2024-03-29",Maret,Sports,15,262.0,Debit Card
+"2024-03-29",Maret,Sports,50,584.0,Net Banking
+"2024-03-29",Maret,Toys,35,198.0,UPI
+"2024-03-30",Maret,Beauty,5,166.0,Cash on Delivery
+"2024-03-30",Maret,Beauty,55,546.0,Net Banking
+"2024-03-30",Maret,Books,15,332.0,Debit Card
+"2024-03-30",Maret,Clothing,15,219.0,UPI
+"2024-03-30",Maret,Electronics,15,372.0,Debit Card
+"2024-03-30",Maret,Home & Kitchen,20,136.0,Net Banking
+"2024-03-30",Maret,Home & Kitchen,50,121.0,UPI
+"2024-03-30",Maret,Sports,10,304.0,UPI
+"2024-03-30",Maret,Toys,80,303.0,Credit Card
+"2024-03-30",Maret,Toys,15,291.0,Debit Card
+"2024-03-31",Maret,Beauty,20,140.0,Credit Card
+"2024-03-31",Maret,Beauty,20,189.0,Net Banking
+"2024-03-31",Maret,Beauty,15,228.0,UPI
+"2024-03-31",Maret,Books,15,182.0,UPI
+"2024-03-31",Maret,Clothing,5,191.0,Cash on Delivery
+"2024-03-31",Maret,Clothing,45,516.0,Credit Card
+"2024-03-31",Maret,Electronics,10,118.0,Debit Card
+"2024-03-31",Maret,Sports,30,98.0,Cash on Delivery
+"2024-03-31",Maret,Toys,15,86.0,Cash on Delivery
+"2024-03-31",Maret,Toys,50,73.0,Debit Card
+"2024-04-01",April,Beauty,20,67.0,Net Banking
+"2024-04-01",April,Books,20,305.0,Credit Card
+"2024-04-01",April,Home & Kitchen,0,361.0,Debit Card
+"2024-04-01",April,Home & Kitchen,30,241.0,Net Banking
+"2024-04-01",April,Toys,50,881.0,Cash on Delivery
+"2024-04-01",April,Toys,10,51.0,Debit Card
+"2024-04-01",April,Toys,25,130.0,UPI
+"2024-04-02",April,Beauty,0,418.0,Cash on Delivery
+"2024-04-02",April,Clothing,40,315.0,Credit Card
+"2024-04-02",April,Clothing,15,364.0,Net Banking
+"2024-04-02",April,Clothing,0,394.0,UPI
+"2024-04-02",April,Electronics,10,187.0,Credit Card
+"2024-04-02",April,Electronics,15,192.0,Debit Card
+"2024-04-02",April,Electronics,10,22.0,UPI
+"2024-04-02",April,Home & Kitchen,15,220.0,Net Banking
+"2024-04-02",April,Home & Kitchen,25,282.0,UPI
+"2024-04-02",April,Toys,20,122.0,Debit Card
+"2024-04-03",April,Beauty,25,24.0,UPI
+"2024-04-03",April,Clothing,25,289.0,Net Banking
+"2024-04-03",April,Home & Kitchen,10,258.0,Debit Card
+"2024-04-03",April,Home & Kitchen,20,331.0,Net Banking
+"2024-04-03",April,Sports,10,395.0,Cash on Delivery
+"2024-04-03",April,Sports,55,502.0,UPI
+"2024-04-03",April,Toys,5,160.0,Net Banking
+"2024-04-03",April,Toys,50,215.0,UPI
+"2024-04-04",April,Books,15,13.0,Cash on Delivery
+"2024-04-04",April,Clothing,65,240.0,Debit Card
+"2024-04-04",April,Electronics,20,150.0,Credit Card
+"2024-04-04",April,Electronics,25,199.0,Net Banking
+"2024-04-04",April,Electronics,25,81.0,UPI
+"2024-04-04",April,Home & Kitchen,25,384.0,Debit Card
+"2024-04-04",April,Sports,20,190.0,Credit Card
+"2024-04-04",April,Sports,5,18.0,Debit Card
+"2024-04-04",April,Toys,25,172.0,Credit Card
+"2024-04-04",April,Toys,0,316.0,Debit Card
+"2024-04-04",April,Toys,80,444.0,Net Banking
+"2024-04-05",April,Beauty,5,20.0,Net Banking
+"2024-04-05",April,Books,15,55.0,Debit Card
+"2024-04-05",April,Clothing,20,208.0,Cash on Delivery
+"2024-04-05",April,Clothing,20,819.0,Credit Card
+"2024-04-05",April,Clothing,50,184.0,Debit Card
+"2024-04-05",April,Clothing,20,95.0,Net Banking
+"2024-04-05",April,Electronics,20,341.0,Credit Card
+"2024-04-05",April,Electronics,15,339.0,Net Banking
+"2024-04-05",April,Electronics,0,254.0,UPI
+"2024-04-05",April,Home & Kitchen,10,99.0,Cash on Delivery
+"2024-04-05",April,Home & Kitchen,25,12.0,Credit Card
+"2024-04-05",April,Home & Kitchen,20,363.0,Debit Card
+"2024-04-05",April,Sports,30,263.0,Cash on Delivery
+"2024-04-05",April,Sports,50,179.0,Debit Card
+"2024-04-06",April,Beauty,10,55.0,Credit Card
+"2024-04-06",April,Beauty,5,256.0,Debit Card
+"2024-04-06",April,Beauty,30,147.0,UPI
+"2024-04-06",April,Books,25,53.0,Net Banking
+"2024-04-06",April,Clothing,30,194.0,UPI
+"2024-04-06",April,Electronics,5,240.0,Debit Card
+"2024-04-06",April,Electronics,10,412.0,UPI
+"2024-04-06",April,Home & Kitchen,15,394.0,Debit Card
+"2024-04-06",April,Toys,25,71.0,Net Banking
+"2024-04-07",April,Beauty,0,454.0,Cash on Delivery
+"2024-04-07",April,Beauty,10,163.0,Credit Card
+"2024-04-07",April,Beauty,25,28.0,UPI
+"2024-04-07",April,Books,30,314.0,Debit Card
+"2024-04-07",April,Clothing,25,315.0,Cash on Delivery
+"2024-04-07",April,Clothing,5,58.0,Credit Card
+"2024-04-07",April,Home & Kitchen,0,52.0,Cash on Delivery
+"2024-04-07",April,Home & Kitchen,5,409.0,Net Banking
+"2024-04-07",April,Sports,20,475.0,Cash on Delivery
+"2024-04-07",April,Sports,0,396.0,Credit Card
+"2024-04-07",April,Sports,50,241.0,Debit Card
+"2024-04-07",April,Sports,30,329.0,UPI
+"2024-04-08",April,Books,55,134.0,Cash on Delivery
+"2024-04-08",April,Clothing,30,379.0,Net Banking
+"2024-04-08",April,Clothing,50,94.0,UPI
+"2024-04-08",April,Home & Kitchen,0,230.0,Cash on Delivery
+"2024-04-08",April,Home & Kitchen,5,109.0,Credit Card
+"2024-04-08",April,Sports,55,543.0,Credit Card
+"2024-04-08",April,Sports,25,227.0,UPI
+"2024-04-08",April,Toys,30,524.0,Cash on Delivery
+"2024-04-08",April,Toys,0,227.0,Debit Card
+"2024-04-09",April,Beauty,55,79.0,Debit Card
+"2024-04-09",April,Beauty,50,232.0,Net Banking
+"2024-04-09",April,Beauty,50,91.0,UPI
+"2024-04-09",April,Books,10,247.0,Net Banking
+"2024-04-09",April,Books,20,45.0,UPI
+"2024-04-09",April,Electronics,15,357.0,Credit Card
+"2024-04-09",April,Electronics,60,171.0,Net Banking
+"2024-04-09",April,Home & Kitchen,20,345.0,UPI
+"2024-04-10",April,Beauty,25,84.0,Credit Card
+"2024-04-10",April,Books,20,212.0,Credit Card
+"2024-04-10",April,Books,10,449.0,UPI
+"2024-04-10",April,Clothing,5,319.0,Credit Card
+"2024-04-10",April,Clothing,20,230.0,Debit Card
+"2024-04-10",April,Clothing,30,169.0,UPI
+"2024-04-10",April,Electronics,25,173.0,Debit Card
+"2024-04-10",April,Sports,30,488.0,Cash on Delivery
+"2024-04-10",April,Sports,5,38.0,Net Banking
+"2024-04-11",April,Books,5,113.0,Net Banking
+"2024-04-11",April,Clothing,20,270.0,UPI
+"2024-04-11",April,Home & Kitchen,5,162.0,Credit Card
+"2024-04-11",April,Home & Kitchen,20,85.0,UPI
+"2024-04-11",April,Sports,35,393.0,Cash on Delivery
+"2024-04-11",April,Sports,20,72.0,Credit Card
+"2024-04-11",April,Sports,5,91.0,Debit Card
+"2024-04-11",April,Sports,15,281.0,Net Banking
+"2024-04-11",April,Toys,5,262.0,Net Banking
+"2024-04-12",April,Beauty,0,470.0,Credit Card
+"2024-04-12",April,Books,30,117.0,Net Banking
+"2024-04-12",April,Books,0,725.0,UPI
+"2024-04-12",April,Clothing,30,155.0,Cash on Delivery
+"2024-04-12",April,Clothing,10,361.0,Credit Card
+"2024-04-12",April,Clothing,30,108.0,Debit Card
+"2024-04-12",April,Electronics,25,45.0,Cash on Delivery
+"2024-04-12",April,Electronics,20,255.0,Net Banking
+"2024-04-12",April,Home & Kitchen,35,652.0,Cash on Delivery
+"2024-04-12",April,Sports,0,10.0,Cash on Delivery
+"2024-04-12",April,Toys,20,58.0,Debit Card
+"2024-04-13",April,Beauty,30,199.0,UPI
+"2024-04-13",April,Books,5,11.0,UPI
+"2024-04-13",April,Clothing,25,366.0,Cash on Delivery
+"2024-04-13",April,Home & Kitchen,0,209.0,Cash on Delivery
+"2024-04-13",April,Home & Kitchen,15,247.0,Credit Card
+"2024-04-13",April,Home & Kitchen,15,93.0,UPI
+"2024-04-13",April,Sports,50,192.0,Net Banking
+"2024-04-13",April,Toys,25,189.0,Net Banking
+"2024-04-14",April,Beauty,15,212.0,Debit Card
+"2024-04-14",April,Beauty,5,450.0,Net Banking
+"2024-04-14",April,Books,0,161.0,Credit Card
+"2024-04-14",April,Books,30,87.0,Net Banking
+"2024-04-14",April,Clothing,5,268.0,Cash on Delivery
+"2024-04-14",April,Clothing,15,121.0,UPI
+"2024-04-14",April,Electronics,20,200.0,Debit Card
+"2024-04-14",April,Home & Kitchen,25,8.0,Cash on Delivery
+"2024-04-14",April,Home & Kitchen,0,214.0,Credit Card
+"2024-04-14",April,Home & Kitchen,50,163.0,Debit Card
+"2024-04-14",April,Home & Kitchen,30,165.0,UPI
+"2024-04-14",April,Sports,30,216.0,Cash on Delivery
+"2024-04-14",April,Sports,20,381.0,Credit Card
+"2024-04-14",April,Sports,50,244.0,Net Banking
+"2024-04-14",April,Toys,30,263.0,Net Banking
+"2024-04-15",April,Beauty,30,186.0,UPI
+"2024-04-15",April,Clothing,65,329.0,Cash on Delivery
+"2024-04-15",April,Home & Kitchen,55,431.0,Cash on Delivery
+"2024-04-15",April,Home & Kitchen,25,505.0,Credit Card
+"2024-04-15",April,Sports,50,245.0,Cash on Delivery
+"2024-04-15",April,Sports,50,187.0,Credit Card
+"2024-04-15",April,Sports,30,265.0,UPI
+"2024-04-16",April,Beauty,20,57.0,Cash on Delivery
+"2024-04-16",April,Beauty,0,125.0,Credit Card
+"2024-04-16",April,Beauty,10,300.0,Debit Card
+"2024-04-16",April,Beauty,0,437.0,Net Banking
+"2024-04-16",April,Books,20,630.0,Credit Card
+"2024-04-16",April,Books,25,425.0,Debit Card
+"2024-04-16",April,Books,10,348.0,UPI
+"2024-04-16",April,Clothing,20,324.0,Net Banking
+"2024-04-16",April,Clothing,5,14.0,UPI
+"2024-04-16",April,Home & Kitchen,15,189.0,Debit Card
+"2024-04-16",April,Sports,55,616.0,Cash on Delivery
+"2024-04-16",April,Sports,10,336.0,Credit Card
+"2024-04-16",April,Sports,5,307.0,Net Banking
+"2024-04-16",April,Toys,10,369.0,Credit Card
+"2024-04-16",April,Toys,50,27.0,UPI
+"2024-04-17",April,Beauty,20,456.0,Credit Card
+"2024-04-17",April,Beauty,30,241.0,Debit Card
+"2024-04-17",April,Books,0,46.0,UPI
+"2024-04-17",April,Clothing,25,179.0,Cash on Delivery
+"2024-04-17",April,Clothing,15,272.0,Credit Card
+"2024-04-17",April,Electronics,10,26.0,Debit Card
+"2024-04-17",April,Home & Kitchen,15,118.0,Credit Card
+"2024-04-17",April,Sports,5,135.0,Net Banking
+"2024-04-18",April,Beauty,5,278.0,UPI
+"2024-04-18",April,Books,10,94.0,Debit Card
+"2024-04-18",April,Books,10,43.0,Net Banking
+"2024-04-18",April,Clothing,20,104.0,Cash on Delivery
+"2024-04-18",April,Clothing,0,417.0,Credit Card
+"2024-04-18",April,Clothing,55,652.0,Net Banking
+"2024-04-18",April,Clothing,30,222.0,UPI
+"2024-04-18",April,Electronics,50,138.0,Cash on Delivery
+"2024-04-18",April,Electronics,50,111.0,Debit Card
+"2024-04-18",April,Home & Kitchen,15,199.0,Credit Card
+"2024-04-18",April,Home & Kitchen,0,19.0,UPI
+"2024-04-18",April,Sports,50,98.0,Cash on Delivery
+"2024-04-18",April,Sports,20,350.0,Debit Card
+"2024-04-18",April,Toys,30,325.0,Credit Card
+"2024-04-19",April,Beauty,50,13.0,Cash on Delivery
+"2024-04-19",April,Beauty,25,130.0,Credit Card
+"2024-04-19",April,Books,30,26.0,Credit Card
+"2024-04-19",April,Clothing,30,254.0,Debit Card
+"2024-04-19",April,Electronics,5,254.0,Cash on Delivery
+"2024-04-19",April,Electronics,25,121.0,Credit Card
+"2024-04-19",April,Electronics,0,472.0,Debit Card
+"2024-04-19",April,Electronics,50,233.0,Net Banking
+"2024-04-19",April,Home & Kitchen,25,72.0,Debit Card
+"2024-04-19",April,Home & Kitchen,35,558.0,Net Banking
+"2024-04-19",April,Toys,30,400.0,Credit Card
+"2024-04-19",April,Toys,50,31.0,Net Banking
+"2024-04-19",April,Toys,10,342.0,UPI
+"2024-04-20",April,Books,20,369.0,Credit Card
+"2024-04-20",April,Clothing,25,176.0,Cash on Delivery
+"2024-04-20",April,Clothing,25,370.0,Debit Card
+"2024-04-20",April,Electronics,0,300.0,Cash on Delivery
+"2024-04-20",April,Home & Kitchen,0,965.0,Debit Card
+"2024-04-21",April,Beauty,5,123.0,Debit Card
+"2024-04-21",April,Books,20,113.0,Cash on Delivery
+"2024-04-21",April,Books,20,368.0,Net Banking
+"2024-04-21",April,Books,25,452.0,UPI
+"2024-04-21",April,Clothing,25,214.0,Cash on Delivery
+"2024-04-21",April,Clothing,15,81.0,Debit Card
+"2024-04-21",April,Clothing,30,601.0,UPI
+"2024-04-21",April,Electronics,20,292.0,Cash on Delivery
+"2024-04-21",April,Electronics,5,145.0,Credit Card
+"2024-04-21",April,Sports,20,231.0,Credit Card
+"2024-04-21",April,Sports,25,218.0,Net Banking
+"2024-04-21",April,Sports,30,175.0,UPI
+"2024-04-21",April,Toys,10,178.0,Debit Card
+"2024-04-21",April,Toys,10,432.0,UPI
+"2024-04-22",April,Beauty,5,246.0,UPI
+"2024-04-22",April,Books,15,49.0,Credit Card
+"2024-04-22",April,Clothing,10,406.0,Credit Card
+"2024-04-22",April,Clothing,20,292.0,Debit Card
+"2024-04-22",April,Clothing,15,187.0,UPI
+"2024-04-22",April,Electronics,15,84.0,Debit Card
+"2024-04-22",April,Electronics,50,76.0,UPI
+"2024-04-22",April,Home & Kitchen,50,66.0,Net Banking
+"2024-04-22",April,Home & Kitchen,15,20.0,UPI
+"2024-04-22",April,Toys,10,351.0,Debit Card
+"2024-04-22",April,Toys,55,365.0,Net Banking
+"2024-04-23",April,Books,25,199.0,Credit Card
+"2024-04-23",April,Books,30,285.0,UPI
+"2024-04-23",April,Clothing,20,48.0,UPI
+"2024-04-23",April,Electronics,30,183.0,Credit Card
+"2024-04-23",April,Home & Kitchen,10,229.0,Cash on Delivery
+"2024-04-23",April,Sports,15,420.0,Debit Card
+"2024-04-23",April,Toys,0,353.0,Cash on Delivery
+"2024-04-23",April,Toys,5,469.0,Credit Card
+"2024-04-23",April,Toys,55,159.0,Net Banking
+"2024-04-23",April,Toys,20,51.0,UPI
+"2024-04-24",April,Beauty,5,232.0,Credit Card
+"2024-04-24",April,Books,50,14.0,Credit Card
+"2024-04-24",April,Books,50,291.0,Net Banking
+"2024-04-24",April,Electronics,0,134.0,Cash on Delivery
+"2024-04-24",April,Home & Kitchen,80,176.0,Debit Card
+"2024-04-24",April,Home & Kitchen,50,250.0,Net Banking
+"2024-04-24",April,Sports,40,477.0,Cash on Delivery
+"2024-04-24",April,Sports,0,57.0,Debit Card
+"2024-04-25",April,Beauty,10,358.0,Debit Card
+"2024-04-25",April,Beauty,10,14.0,UPI
+"2024-04-25",April,Books,20,548.0,Cash on Delivery
+"2024-04-25",April,Clothing,25,704.0,Cash on Delivery
+"2024-04-25",April,Clothing,30,130.0,Credit Card
+"2024-04-25",April,Clothing,15,399.0,Net Banking
+"2024-04-25",April,Home & Kitchen,30,345.0,Cash on Delivery
+"2024-04-25",April,Home & Kitchen,30,74.0,Credit Card
+"2024-04-25",April,Home & Kitchen,15,285.0,Debit Card
+"2024-04-25",April,Sports,5,263.0,Credit Card
+"2024-04-25",April,Sports,25,225.0,Debit Card
+"2024-04-25",April,Toys,5,369.0,Cash on Delivery
+"2024-04-26",April,Books,20,283.0,Credit Card
+"2024-04-26",April,Books,10,344.0,Debit Card
+"2024-04-26",April,Books,30,198.0,UPI
+"2024-04-26",April,Clothing,75,640.0,Credit Card
+"2024-04-26",April,Clothing,50,208.0,Debit Card
+"2024-04-26",April,Electronics,5,14.0,Net Banking
+"2024-04-26",April,Home & Kitchen,35,378.0,Credit Card
+"2024-04-26",April,Home & Kitchen,50,102.0,Debit Card
+"2024-04-26",April,Sports,30,78.0,Cash on Delivery
+"2024-04-26",April,Sports,20,207.0,Net Banking
+"2024-04-26",April,Toys,5,117.0,UPI
+"2024-04-27",April,Beauty,0,67.0,Cash on Delivery
+"2024-04-27",April,Beauty,5,363.0,Credit Card
+"2024-04-27",April,Books,30,153.0,Debit Card
+"2024-04-27",April,Clothing,10,230.0,Cash on Delivery
+"2024-04-27",April,Clothing,40,112.0,Credit Card
+"2024-04-27",April,Electronics,50,179.0,Cash on Delivery
+"2024-04-27",April,Electronics,30,218.0,Net Banking
+"2024-04-27",April,Toys,10,46.0,Cash on Delivery
+"2024-04-27",April,Toys,40,165.0,Net Banking
+"2024-04-28",April,Beauty,0,450.0,Credit Card
+"2024-04-28",April,Beauty,25,60.0,Net Banking
+"2024-04-28",April,Books,10,202.0,Debit Card
+"2024-04-28",April,Books,30,309.0,Net Banking
+"2024-04-28",April,Clothing,15,414.0,Debit Card
+"2024-04-28",April,Clothing,20,338.0,Net Banking
+"2024-04-28",April,Clothing,10,320.0,UPI
+"2024-04-28",April,Electronics,15,383.0,Cash on Delivery
+"2024-04-28",April,Electronics,10,381.0,Debit Card
+"2024-04-28",April,Home & Kitchen,0,264.0,Cash on Delivery
+"2024-04-28",April,Home & Kitchen,5,108.0,Credit Card
+"2024-04-28",April,Home & Kitchen,30,112.0,Net Banking
+"2024-04-28",April,Sports,60,366.0,Credit Card
+"2024-04-28",April,Sports,25,237.0,Debit Card
+"2024-04-28",April,Toys,20,142.0,Debit Card
+"2024-04-28",April,Toys,50,15.0,UPI
+"2024-04-29",April,Beauty,0,420.0,Debit Card
+"2024-04-29",April,Beauty,50,141.0,Net Banking
+"2024-04-29",April,Beauty,50,17.0,UPI
+"2024-04-29",April,Books,25,372.0,Debit Card
+"2024-04-29",April,Clothing,5,23.0,Net Banking
+"2024-04-29",April,Electronics,5,322.0,UPI
+"2024-04-29",April,Home & Kitchen,50,136.0,Debit Card
+"2024-04-29",April,Sports,50,71.0,Cash on Delivery
+"2024-04-29",April,Toys,30,75.0,Net Banking
+"2024-04-30",April,Beauty,15,379.0,Net Banking
+"2024-04-30",April,Books,30,142.0,Net Banking
+"2024-04-30",April,Clothing,0,408.0,Credit Card
+"2024-04-30",April,Clothing,0,495.0,Debit Card
+"2024-04-30",April,Electronics,15,64.0,Credit Card
+"2024-04-30",April,Home & Kitchen,25,127.0,Net Banking
+"2024-04-30",April,Sports,20,27.0,Net Banking
+"2024-04-30",April,Toys,50,19.0,Credit Card
+"2024-04-30",April,Toys,15,394.0,UPI
+"2024-05-01",Mei,Beauty,5,77.0,Net Banking
+"2024-05-01",Mei,Books,30,119.0,Cash on Delivery
+"2024-05-01",Mei,Books,20,388.0,Credit Card
+"2024-05-01",Mei,Books,10,328.0,Net Banking
+"2024-05-01",Mei,Home & Kitchen,55,368.0,Debit Card
+"2024-05-01",Mei,Home & Kitchen,20,106.0,UPI
+"2024-05-01",Mei,Sports,5,414.0,Debit Card
+"2024-05-02",Mei,Books,25,304.0,Credit Card
+"2024-05-02",Mei,Clothing,20,22.0,Net Banking
+"2024-05-02",Mei,Clothing,40,705.0,UPI
+"2024-05-02",Mei,Sports,15,124.0,Cash on Delivery
+"2024-05-02",Mei,Sports,50,74.0,Credit Card
+"2024-05-02",Mei,Sports,0,290.0,UPI
+"2024-05-02",Mei,Toys,25,322.0,Cash on Delivery
+"2024-05-02",Mei,Toys,45,454.0,UPI
+"2024-05-03",Mei,Beauty,10,441.0,Net Banking
+"2024-05-03",Mei,Books,25,29.0,Cash on Delivery
+"2024-05-03",Mei,Books,35,426.0,Net Banking
+"2024-05-03",Mei,Clothing,50,86.0,Debit Card
+"2024-05-03",Mei,Clothing,30,340.0,Net Banking
+"2024-05-03",Mei,Electronics,25,83.0,Debit Card
+"2024-05-03",Mei,Sports,30,109.0,Credit Card
+"2024-05-03",Mei,Toys,55,503.0,Net Banking
+"2024-05-04",Mei,Beauty,30,168.0,UPI
+"2024-05-04",Mei,Books,65,479.0,Debit Card
+"2024-05-04",Mei,Electronics,30,279.0,Credit Card
+"2024-05-04",Mei,Electronics,25,23.0,Debit Card
+"2024-05-04",Mei,Home & Kitchen,10,124.0,Credit Card
+"2024-05-04",Mei,Toys,25,32.0,UPI
+"2024-05-05",Mei,Electronics,25,41.0,Credit Card
+"2024-05-05",Mei,Electronics,5,328.0,Debit Card
+"2024-05-05",Mei,Electronics,50,242.0,Net Banking
+"2024-05-05",Mei,Electronics,10,75.0,UPI
+"2024-05-05",Mei,Home & Kitchen,25,93.0,UPI
+"2024-05-05",Mei,Sports,25,18.0,Debit Card
+"2024-05-05",Mei,Toys,20,279.0,Debit Card
+"2024-05-05",Mei,Toys,30,240.0,UPI
+"2024-05-06",Mei,Beauty,0,471.0,UPI
+"2024-05-06",Mei,Books,15,218.0,Debit Card
+"2024-05-06",Mei,Clothing,20,385.0,Cash on Delivery
+"2024-05-06",Mei,Clothing,0,265.0,UPI
+"2024-05-06",Mei,Electronics,10,429.0,Net Banking
+"2024-05-06",Mei,Home & Kitchen,50,471.0,UPI
+"2024-05-06",Mei,Toys,25,374.0,Debit Card
+"2024-05-07",Mei,Beauty,20,108.0,Credit Card
+"2024-05-07",Mei,Books,20,371.0,Credit Card
+"2024-05-07",Mei,Books,50,106.0,Net Banking
+"2024-05-07",Mei,Books,30,158.0,UPI
+"2024-05-07",Mei,Clothing,15,284.0,Cash on Delivery
+"2024-05-07",Mei,Clothing,15,593.0,Credit Card
+"2024-05-07",Mei,Clothing,0,216.0,UPI
+"2024-05-07",Mei,Home & Kitchen,0,90.0,Credit Card
+"2024-05-07",Mei,Toys,25,9.0,Credit Card
+"2024-05-08",Mei,Beauty,5,394.0,Cash on Delivery
+"2024-05-08",Mei,Beauty,15,143.0,Credit Card
+"2024-05-08",Mei,Beauty,25,295.0,Debit Card
+"2024-05-08",Mei,Books,20,362.0,UPI
+"2024-05-08",Mei,Clothing,0,432.0,Credit Card
+"2024-05-08",Mei,Electronics,25,194.0,Cash on Delivery
+"2024-05-08",Mei,Electronics,25,362.0,Net Banking
+"2024-05-08",Mei,Electronics,25,12.0,UPI
+"2024-05-08",Mei,Home & Kitchen,30,191.0,Credit Card
+"2024-05-08",Mei,Sports,5,438.0,Credit Card
+"2024-05-08",Mei,Toys,10,231.0,Cash on Delivery
+"2024-05-08",Mei,Toys,30,246.0,Debit Card
+"2024-05-08",Mei,Toys,20,43.0,UPI
+"2024-05-09",Mei,Beauty,20,364.0,Cash on Delivery
+"2024-05-09",Mei,Beauty,10,95.0,Debit Card
+"2024-05-09",Mei,Electronics,5,391.0,Cash on Delivery
+"2024-05-09",Mei,Electronics,20,269.0,Net Banking
+"2024-05-09",Mei,Toys,25,100.0,Debit Card
+"2024-05-09",Mei,Toys,25,201.0,UPI
+"2024-05-10",Mei,Beauty,25,316.0,Debit Card
+"2024-05-10",Mei,Books,30,89.0,Cash on Delivery
+"2024-05-10",Mei,Books,55,122.0,UPI
+"2024-05-10",Mei,Electronics,15,211.0,Cash on Delivery
+"2024-05-10",Mei,Electronics,15,206.0,Net Banking
+"2024-05-10",Mei,Home & Kitchen,10,449.0,Credit Card
+"2024-05-10",Mei,Sports,55,485.0,Credit Card
+"2024-05-10",Mei,Sports,10,308.0,UPI
+"2024-05-10",Mei,Toys,15,394.0,Credit Card
+"2024-05-11",Mei,Beauty,35,349.0,Cash on Delivery
+"2024-05-11",Mei,Beauty,20,26.0,Credit Card
+"2024-05-11",Mei,Books,30,147.0,Debit Card
+"2024-05-11",Mei,Clothing,15,341.0,Cash on Delivery
+"2024-05-11",Mei,Clothing,15,10.0,Debit Card
+"2024-05-11",Mei,Clothing,30,173.0,UPI
+"2024-05-11",Mei,Electronics,5,422.0,Cash on Delivery
+"2024-05-11",Mei,Home & Kitchen,10,164.0,Cash on Delivery
+"2024-05-11",Mei,Home & Kitchen,5,282.0,Credit Card
+"2024-05-11",Mei,Home & Kitchen,15,209.0,Debit Card
+"2024-05-12",Mei,Beauty,5,311.0,Net Banking
+"2024-05-12",Mei,Books,50,197.0,Net Banking
+"2024-05-12",Mei,Clothing,50,247.0,Cash on Delivery
+"2024-05-12",Mei,Clothing,30,252.0,UPI
+"2024-05-12",Mei,Sports,30,191.0,Net Banking
+"2024-05-13",Mei,Beauty,30,780.0,UPI
+"2024-05-13",Mei,Books,25,132.0,Credit Card
+"2024-05-13",Mei,Electronics,25,76.0,Cash on Delivery
+"2024-05-13",Mei,Electronics,0,301.0,Net Banking
+"2024-05-13",Mei,Home & Kitchen,45,277.0,Credit Card
+"2024-05-13",Mei,Home & Kitchen,50,131.0,Net Banking
+"2024-05-13",Mei,Sports,15,288.0,Net Banking
+"2024-05-13",Mei,Toys,15,10.0,Credit Card
+"2024-05-13",Mei,Toys,25,102.0,Debit Card
+"2024-05-13",Mei,Toys,0,447.0,Net Banking
+"2024-05-13",Mei,Toys,20,196.0,UPI
+"2024-05-14",Mei,Beauty,20,285.0,Credit Card
+"2024-05-14",Mei,Beauty,0,487.0,UPI
+"2024-05-14",Mei,Books,10,429.0,Credit Card
+"2024-05-14",Mei,Books,60,348.0,Net Banking
+"2024-05-14",Mei,Clothing,20,187.0,Cash on Delivery
+"2024-05-14",Mei,Clothing,10,215.0,UPI
+"2024-05-14",Mei,Electronics,70,204.0,Cash on Delivery
+"2024-05-14",Mei,Electronics,5,315.0,Credit Card
+"2024-05-14",Mei,Sports,40,194.0,Credit Card
+"2024-05-14",Mei,Sports,50,220.0,Debit Card
+"2024-05-14",Mei,Sports,15,327.0,Net Banking
+"2024-05-15",Mei,Books,15,239.0,Debit Card
+"2024-05-15",Mei,Books,25,273.0,Net Banking
+"2024-05-15",Mei,Clothing,50,47.0,Cash on Delivery
+"2024-05-15",Mei,Clothing,100,84.0,Credit Card
+"2024-05-15",Mei,Clothing,30,347.0,Debit Card
+"2024-05-15",Mei,Electronics,25,224.0,Credit Card
+"2024-05-15",Mei,Sports,25,176.0,Cash on Delivery
+"2024-05-15",Mei,Sports,20,244.0,Credit Card
+"2024-05-15",Mei,Toys,30,12.0,Debit Card
+"2024-05-16",Mei,Clothing,30,350.0,Credit Card
+"2024-05-16",Mei,Clothing,25,70.0,Net Banking
+"2024-05-16",Mei,Home & Kitchen,0,457.0,Net Banking
+"2024-05-16",Mei,Home & Kitchen,25,66.0,UPI
+"2024-05-16",Mei,Sports,30,164.0,Credit Card
+"2024-05-16",Mei,Toys,15,135.0,Net Banking
+"2024-05-17",Mei,Beauty,75,667.0,Debit Card
+"2024-05-17",Mei,Books,50,238.0,Cash on Delivery
+"2024-05-17",Mei,Books,30,334.0,UPI
+"2024-05-17",Mei,Electronics,0,303.0,Debit Card
+"2024-05-17",Mei,Home & Kitchen,20,142.0,Credit Card
+"2024-05-17",Mei,Home & Kitchen,60,262.0,UPI
+"2024-05-17",Mei,Sports,15,410.0,Credit Card
+"2024-05-17",Mei,Sports,80,484.0,Debit Card
+"2024-05-17",Mei,Toys,20,290.0,Cash on Delivery
+"2024-05-18",Mei,Books,10,348.0,UPI
+"2024-05-18",Mei,Clothing,75,337.0,Cash on Delivery
+"2024-05-18",Mei,Clothing,15,28.0,Debit Card
+"2024-05-18",Mei,Electronics,50,200.0,UPI
+"2024-05-18",Mei,Home & Kitchen,50,205.0,Cash on Delivery
+"2024-05-18",Mei,Home & Kitchen,25,727.0,Debit Card
+"2024-05-18",Mei,Sports,5,343.0,Credit Card
+"2024-05-18",Mei,Toys,25,269.0,Debit Card
+"2024-05-18",Mei,Toys,10,106.0,Net Banking
+"2024-05-18",Mei,Toys,20,303.0,UPI
+"2024-05-19",Mei,Beauty,15,362.0,Cash on Delivery
+"2024-05-19",Mei,Beauty,5,394.0,Debit Card
+"2024-05-19",Mei,Beauty,0,282.0,Net Banking
+"2024-05-19",Mei,Beauty,20,334.0,UPI
+"2024-05-19",Mei,Books,5,458.0,Credit Card
+"2024-05-19",Mei,Books,20,202.0,Net Banking
+"2024-05-19",Mei,Clothing,15,147.0,Net Banking
+"2024-05-19",Mei,Electronics,30,125.0,Debit Card
+"2024-05-19",Mei,Electronics,25,344.0,Net Banking
+"2024-05-19",Mei,Home & Kitchen,15,223.0,Credit Card
+"2024-05-19",Mei,Home & Kitchen,10,243.0,Debit Card
+"2024-05-19",Mei,Toys,5,127.0,Credit Card
+"2024-05-19",Mei,Toys,50,210.0,Debit Card
+"2024-05-19",Mei,Toys,50,169.0,Net Banking
+"2024-05-20",Mei,Beauty,30,375.0,Cash on Delivery
+"2024-05-20",Mei,Books,25,361.0,Cash on Delivery
+"2024-05-20",Mei,Books,25,71.0,Debit Card
+"2024-05-20",Mei,Books,50,124.0,UPI
+"2024-05-20",Mei,Clothing,10,236.0,Net Banking
+"2024-05-20",Mei,Electronics,50,121.0,Net Banking
+"2024-05-20",Mei,Home & Kitchen,15,326.0,Net Banking
+"2024-05-20",Mei,Home & Kitchen,50,58.0,UPI
+"2024-05-20",Mei,Sports,15,181.0,Cash on Delivery
+"2024-05-20",Mei,Sports,50,20.0,Credit Card
+"2024-05-20",Mei,Sports,5,410.0,Debit Card
+"2024-05-20",Mei,Sports,30,234.0,Net Banking
+"2024-05-20",Mei,Sports,30,118.0,UPI
+"2024-05-20",Mei,Toys,25,324.0,Credit Card
+"2024-05-21",Mei,Beauty,20,171.0,Credit Card
+"2024-05-21",Mei,Clothing,20,60.0,Cash on Delivery
+"2024-05-21",Mei,Clothing,20,12.0,Debit Card
+"2024-05-21",Mei,Electronics,30,313.0,UPI
+"2024-05-21",Mei,Home & Kitchen,70,405.0,Cash on Delivery
+"2024-05-21",Mei,Home & Kitchen,50,112.0,Debit Card
+"2024-05-21",Mei,Sports,0,273.0,Credit Card
+"2024-05-21",Mei,Toys,20,49.0,Credit Card
+"2024-05-21",Mei,Toys,30,36.0,Debit Card
+"2024-05-21",Mei,Toys,20,311.0,Net Banking
+"2024-05-22",Mei,Beauty,30,128.0,Credit Card
+"2024-05-22",Mei,Beauty,15,295.0,Net Banking
+"2024-05-22",Mei,Books,30,319.0,Credit Card
+"2024-05-22",Mei,Books,15,331.0,Debit Card
+"2024-05-22",Mei,Clothing,50,74.0,Debit Card
+"2024-05-22",Mei,Clothing,10,386.0,Net Banking
+"2024-05-22",Mei,Electronics,0,550.0,Cash on Delivery
+"2024-05-22",Mei,Electronics,25,296.0,Debit Card
+"2024-05-22",Mei,Home & Kitchen,75,190.0,Debit Card
+"2024-05-22",Mei,Sports,0,187.0,Credit Card
+"2024-05-22",Mei,Sports,25,232.0,Net Banking
+"2024-05-23",Mei,Books,20,216.0,Credit Card
+"2024-05-23",Mei,Books,30,303.0,Net Banking
+"2024-05-23",Mei,Clothing,15,366.0,Debit Card
+"2024-05-23",Mei,Electronics,25,149.0,Cash on Delivery
+"2024-05-23",Mei,Home & Kitchen,50,300.0,Net Banking
+"2024-05-23",Mei,Sports,30,155.0,Net Banking
+"2024-05-23",Mei,Sports,30,274.0,UPI
+"2024-05-23",Mei,Toys,15,522.0,Cash on Delivery
+"2024-05-23",Mei,Toys,5,581.0,Debit Card
+"2024-05-24",Mei,Beauty,15,205.0,Cash on Delivery
+"2024-05-24",Mei,Beauty,10,70.0,Debit Card
+"2024-05-24",Mei,Books,5,86.0,Cash on Delivery
+"2024-05-24",Mei,Books,5,92.0,Credit Card
+"2024-05-24",Mei,Electronics,30,263.0,Debit Card
+"2024-05-24",Mei,Electronics,30,12.0,Net Banking
+"2024-05-24",Mei,Electronics,15,79.0,UPI
+"2024-05-24",Mei,Home & Kitchen,0,52.0,Debit Card
+"2024-05-24",Mei,Home & Kitchen,0,285.0,Net Banking
+"2024-05-24",Mei,Sports,25,259.0,Credit Card
+"2024-05-24",Mei,Sports,20,346.0,Debit Card
+"2024-05-24",Mei,Sports,5,155.0,UPI
+"2024-05-24",Mei,Toys,5,307.0,Cash on Delivery
+"2024-05-24",Mei,Toys,20,262.0,Credit Card
+"2024-05-24",Mei,Toys,30,679.0,UPI
+"2024-05-25",Mei,Beauty,20,351.0,UPI
+"2024-05-25",Mei,Books,15,374.0,Net Banking
+"2024-05-25",Mei,Books,25,73.0,UPI
+"2024-05-25",Mei,Clothing,25,167.0,Cash on Delivery
+"2024-05-25",Mei,Electronics,20,148.0,Credit Card
+"2024-05-25",Mei,Electronics,25,238.0,Debit Card
+"2024-05-25",Mei,Home & Kitchen,20,246.0,Net Banking
+"2024-05-25",Mei,Sports,50,93.0,UPI
+"2024-05-25",Mei,Toys,50,189.0,Credit Card
+"2024-05-26",Mei,Beauty,30,332.0,Credit Card
+"2024-05-26",Mei,Beauty,10,132.0,Debit Card
+"2024-05-26",Mei,Beauty,5,79.0,UPI
+"2024-05-26",Mei,Books,15,473.0,Cash on Delivery
+"2024-05-26",Mei,Clothing,5,321.0,Credit Card
+"2024-05-26",Mei,Electronics,0,183.0,Cash on Delivery
+"2024-05-26",Mei,Electronics,20,27.0,UPI
+"2024-05-26",Mei,Sports,15,163.0,UPI
+"2024-05-26",Mei,Toys,25,44.0,UPI
+"2024-05-27",Mei,Beauty,15,281.0,Credit Card
+"2024-05-27",Mei,Books,50,65.0,Credit Card
+"2024-05-27",Mei,Home & Kitchen,15,81.0,Net Banking
+"2024-05-27",Mei,Sports,50,37.0,Cash on Delivery
+"2024-05-27",Mei,Sports,20,261.0,Debit Card
+"2024-05-27",Mei,Toys,20,163.0,Credit Card
+"2024-05-27",Mei,Toys,30,36.0,Net Banking
+"2024-05-28",Mei,Beauty,55,585.0,Credit Card
+"2024-05-28",Mei,Beauty,20,161.0,UPI
+"2024-05-28",Mei,Home & Kitchen,20,169.0,UPI
+"2024-05-28",Mei,Sports,0,140.0,Cash on Delivery
+"2024-05-28",Mei,Sports,20,177.0,Debit Card
+"2024-05-28",Mei,Sports,20,189.0,Net Banking
+"2024-05-28",Mei,Toys,25,140.0,Net Banking
+"2024-05-28",Mei,Toys,0,217.0,UPI
+"2024-05-29",Mei,Beauty,0,124.0,UPI
+"2024-05-29",Mei,Books,5,54.0,Debit Card
+"2024-05-29",Mei,Electronics,10,141.0,Credit Card
+"2024-05-29",Mei,Home & Kitchen,20,214.0,Debit Card
+"2024-05-29",Mei,Sports,15,507.0,Cash on Delivery
+"2024-05-29",Mei,Sports,20,171.0,Net Banking
+"2024-05-29",Mei,Toys,30,246.0,UPI
+"2024-05-30",Mei,Beauty,50,136.0,Cash on Delivery
+"2024-05-30",Mei,Books,50,229.0,Credit Card
+"2024-05-30",Mei,Books,30,128.0,UPI
+"2024-05-30",Mei,Clothing,5,459.0,Net Banking
+"2024-05-30",Mei,Electronics,25,250.0,Cash on Delivery
+"2024-05-30",Mei,Electronics,50,338.0,Credit Card
+"2024-05-30",Mei,Electronics,15,410.0,Debit Card
+"2024-05-30",Mei,Electronics,5,276.0,UPI
+"2024-05-30",Mei,Home & Kitchen,20,274.0,Cash on Delivery
+"2024-05-30",Mei,Home & Kitchen,15,170.0,Net Banking
+"2024-05-30",Mei,Home & Kitchen,30,312.0,UPI
+"2024-05-30",Mei,Sports,50,202.0,UPI
+"2024-05-30",Mei,Toys,0,121.0,Cash on Delivery
+"2024-05-30",Mei,Toys,50,108.0,Debit Card
+"2024-05-31",Mei,Beauty,30,114.0,Credit Card
+"2024-05-31",Mei,Books,50,50.0,Net Banking
+"2024-05-31",Mei,Home & Kitchen,0,247.0,Debit Card
+"2024-05-31",Mei,Sports,40,330.0,Cash on Delivery
+"2024-05-31",Mei,Sports,5,344.0,Credit Card
+"2024-05-31",Mei,Sports,50,198.0,Debit Card
+"2024-05-31",Mei,Sports,5,438.0,UPI
+"2024-06-01",Juni,Beauty,80,182.0,Net Banking
+"2024-06-01",Juni,Beauty,0,128.0,UPI
+"2024-06-01",Juni,Books,5,286.0,Debit Card
+"2024-06-01",Juni,Clothing,15,45.0,Cash on Delivery
+"2024-06-01",Juni,Clothing,5,164.0,Debit Card
+"2024-06-01",Juni,Electronics,15,268.0,Cash on Delivery
+"2024-06-01",Juni,Electronics,10,414.0,Debit Card
+"2024-06-01",Juni,Home & Kitchen,15,66.0,Cash on Delivery
+"2024-06-01",Juni,Home & Kitchen,30,188.0,Credit Card
+"2024-06-01",Juni,Home & Kitchen,20,81.0,Debit Card
+"2024-06-01",Juni,Home & Kitchen,20,228.0,Net Banking
+"2024-06-01",Juni,Sports,30,40.0,Cash on Delivery
+"2024-06-01",Juni,Sports,25,72.0,Credit Card
+"2024-06-01",Juni,Sports,20,198.0,UPI
+"2024-06-01",Juni,Toys,45,912.0,Cash on Delivery
+"2024-06-01",Juni,Toys,20,193.0,Credit Card
+"2024-06-02",Juni,Beauty,15,27.0,Debit Card
+"2024-06-02",Juni,Beauty,30,246.0,Net Banking
+"2024-06-02",Juni,Books,50,205.0,Credit Card
+"2024-06-02",Juni,Books,0,268.0,Debit Card
+"2024-06-02",Juni,Clothing,30,125.0,Credit Card
+"2024-06-02",Juni,Clothing,10,437.0,Debit Card
+"2024-06-02",Juni,Clothing,0,113.0,UPI
+"2024-06-02",Juni,Home & Kitchen,5,440.0,Cash on Delivery
+"2024-06-02",Juni,Home & Kitchen,5,265.0,Credit Card
+"2024-06-02",Juni,Sports,10,279.0,Credit Card
+"2024-06-02",Juni,Sports,30,21.0,UPI
+"2024-06-02",Juni,Toys,0,256.0,Debit Card
+"2024-06-02",Juni,Toys,20,50.0,UPI
+"2024-06-03",Juni,Beauty,25,71.0,Debit Card
+"2024-06-03",Juni,Beauty,5,251.0,UPI
+"2024-06-03",Juni,Books,20,158.0,Cash on Delivery
+"2024-06-03",Juni,Electronics,20,135.0,Credit Card
+"2024-06-03",Juni,Electronics,0,106.0,Debit Card
+"2024-06-03",Juni,Electronics,25,255.0,UPI
+"2024-06-03",Juni,Home & Kitchen,5,320.0,Credit Card
+"2024-06-03",Juni,Home & Kitchen,10,316.0,Debit Card
+"2024-06-03",Juni,Sports,10,428.0,Cash on Delivery
+"2024-06-03",Juni,Toys,10,97.0,Cash on Delivery
+"2024-06-04",Juni,Beauty,35,586.0,UPI
+"2024-06-04",Juni,Books,25,318.0,Cash on Delivery
+"2024-06-04",Juni,Books,25,101.0,Debit Card
+"2024-06-04",Juni,Books,50,197.0,Net Banking
+"2024-06-04",Juni,Books,45,212.0,UPI
+"2024-06-04",Juni,Clothing,0,390.0,Debit Card
+"2024-06-04",Juni,Electronics,75,381.0,UPI
+"2024-06-04",Juni,Home & Kitchen,30,49.0,Credit Card
+"2024-06-04",Juni,Home & Kitchen,5,194.0,UPI
+"2024-06-04",Juni,Toys,20,433.0,Cash on Delivery
+"2024-06-04",Juni,Toys,10,370.0,Credit Card
+"2024-06-04",Juni,Toys,45,308.0,Net Banking
+"2024-06-04",Juni,Toys,15,697.0,UPI
+"2024-06-05",Juni,Beauty,15,14.0,Cash on Delivery
+"2024-06-05",Juni,Beauty,30,200.0,Net Banking
+"2024-06-05",Juni,Books,30,19.0,Cash on Delivery
+"2024-06-05",Juni,Books,15,164.0,Credit Card
+"2024-06-05",Juni,Clothing,40,594.0,UPI
+"2024-06-05",Juni,Electronics,30,40.0,Credit Card
+"2024-06-05",Juni,Electronics,20,351.0,UPI
+"2024-06-05",Juni,Sports,10,196.0,Net Banking
+"2024-06-05",Juni,Toys,5,19.0,Net Banking
+"2024-06-06",Juni,Beauty,50,48.0,Net Banking
+"2024-06-06",Juni,Clothing,15,276.0,Credit Card
+"2024-06-06",Juni,Clothing,15,232.0,Debit Card
+"2024-06-06",Juni,Clothing,30,8.0,Net Banking
+"2024-06-06",Juni,Electronics,0,255.0,Debit Card
+"2024-06-06",Juni,Electronics,5,431.0,UPI
+"2024-06-06",Juni,Toys,15,403.0,Debit Card
+"2024-06-07",Juni,Beauty,20,389.0,Credit Card
+"2024-06-07",Juni,Books,25,81.0,Cash on Delivery
+"2024-06-07",Juni,Books,30,295.0,Debit Card
+"2024-06-07",Juni,Clothing,5,33.0,Cash on Delivery
+"2024-06-07",Juni,Clothing,10,345.0,UPI
+"2024-06-07",Juni,Electronics,30,329.0,Cash on Delivery
+"2024-06-07",Juni,Home & Kitchen,25,42.0,Cash on Delivery
+"2024-06-07",Juni,Home & Kitchen,15,47.0,Credit Card
+"2024-06-07",Juni,Sports,25,108.0,Debit Card
+"2024-06-07",Juni,Toys,0,201.0,Credit Card
+"2024-06-07",Juni,Toys,5,867.0,Net Banking
+"2024-06-08",Juni,Books,0,138.0,Debit Card
+"2024-06-08",Juni,Books,0,362.0,Net Banking
+"2024-06-08",Juni,Electronics,50,138.0,Credit Card
+"2024-06-08",Juni,Electronics,50,108.0,Net Banking
+"2024-06-08",Juni,Home & Kitchen,0,53.0,Credit Card
+"2024-06-08",Juni,Home & Kitchen,5,402.0,Net Banking
+"2024-06-08",Juni,Sports,0,107.0,Debit Card
+"2024-06-08",Juni,Toys,0,280.0,Debit Card
+"2024-06-09",Juni,Books,15,92.0,Debit Card
+"2024-06-09",Juni,Books,25,59.0,Net Banking
+"2024-06-09",Juni,Electronics,0,148.0,Net Banking
+"2024-06-09",Juni,Home & Kitchen,10,403.0,Credit Card
+"2024-06-09",Juni,Home & Kitchen,10,87.0,Debit Card
+"2024-06-09",Juni,Home & Kitchen,20,165.0,Net Banking
+"2024-06-09",Juni,Sports,10,176.0,Cash on Delivery
+"2024-06-09",Juni,Sports,5,38.0,Credit Card
+"2024-06-09",Juni,Sports,20,392.0,UPI
+"2024-06-09",Juni,Toys,20,294.0,Net Banking
+"2024-06-09",Juni,Toys,5,323.0,UPI
+"2024-06-10",Juni,Beauty,30,341.0,Cash on Delivery
+"2024-06-10",Juni,Beauty,25,178.0,Credit Card
+"2024-06-10",Juni,Clothing,50,122.0,Debit Card
+"2024-06-10",Juni,Electronics,10,359.0,Debit Card
+"2024-06-10",Juni,Electronics,30,316.0,Net Banking
+"2024-06-10",Juni,Home & Kitchen,5,19.0,UPI
+"2024-06-10",Juni,Sports,10,304.0,Credit Card
+"2024-06-10",Juni,Toys,15,296.0,Cash on Delivery
+"2024-06-11",Juni,Clothing,20,32.0,Cash on Delivery
+"2024-06-11",Juni,Clothing,15,422.0,Debit Card
+"2024-06-11",Juni,Electronics,15,129.0,Cash on Delivery
+"2024-06-11",Juni,Electronics,10,407.0,Credit Card
+"2024-06-11",Juni,Electronics,80,449.0,UPI
+"2024-06-11",Juni,Home & Kitchen,25,188.0,Cash on Delivery
+"2024-06-11",Juni,Home & Kitchen,50,40.0,Credit Card
+"2024-06-11",Juni,Home & Kitchen,50,28.0,Net Banking
+"2024-06-11",Juni,Sports,10,174.0,UPI
+"2024-06-11",Juni,Toys,20,199.0,Credit Card
+"2024-06-11",Juni,Toys,10,120.0,Debit Card
+"2024-06-11",Juni,Toys,25,53.0,Net Banking
+"2024-06-12",Juni,Books,35,525.0,Credit Card
+"2024-06-12",Juni,Clothing,5,144.0,Credit Card
+"2024-06-12",Juni,Clothing,25,295.0,Net Banking
+"2024-06-12",Juni,Electronics,20,361.0,Cash on Delivery
+"2024-06-12",Juni,Electronics,30,533.0,Credit Card
+"2024-06-12",Juni,Electronics,0,112.0,UPI
+"2024-06-12",Juni,Home & Kitchen,25,332.0,Credit Card
+"2024-06-12",Juni,Sports,40,527.0,Cash on Delivery
+"2024-06-12",Juni,Sports,5,129.0,Credit Card
+"2024-06-12",Juni,Sports,30,167.0,Debit Card
+"2024-06-12",Juni,Sports,0,354.0,Net Banking
+"2024-06-12",Juni,Sports,20,51.0,UPI
+"2024-06-12",Juni,Toys,10,239.0,Credit Card
+"2024-06-12",Juni,Toys,60,245.0,Debit Card
+"2024-06-12",Juni,Toys,10,167.0,Net Banking
+"2024-06-13",Juni,Beauty,25,109.0,Credit Card
+"2024-06-13",Juni,Beauty,50,107.0,UPI
+"2024-06-13",Juni,Books,50,291.0,Cash on Delivery
+"2024-06-13",Juni,Books,5,494.0,Credit Card
+"2024-06-13",Juni,Books,5,73.0,Debit Card
+"2024-06-13",Juni,Books,20,366.0,Net Banking
+"2024-06-13",Juni,Electronics,0,224.0,Cash on Delivery
+"2024-06-13",Juni,Electronics,0,39.0,Debit Card
+"2024-06-13",Juni,Home & Kitchen,30,300.0,Debit Card
+"2024-06-13",Juni,Toys,50,96.0,UPI
+"2024-06-14",Juni,Beauty,30,122.0,Credit Card
+"2024-06-14",Juni,Books,5,39.0,Cash on Delivery
+"2024-06-14",Juni,Books,0,419.0,Debit Card
+"2024-06-14",Juni,Clothing,20,101.0,Net Banking
+"2024-06-14",Juni,Clothing,15,395.0,UPI
+"2024-06-14",Juni,Home & Kitchen,50,62.0,Debit Card
+"2024-06-14",Juni,Sports,15,335.0,Cash on Delivery
+"2024-06-15",Juni,Beauty,5,451.0,Cash on Delivery
+"2024-06-15",Juni,Beauty,25,36.0,Net Banking
+"2024-06-15",Juni,Clothing,5,219.0,Debit Card
+"2024-06-15",Juni,Clothing,15,387.0,UPI
+"2024-06-15",Juni,Electronics,30,63.0,Debit Card
+"2024-06-15",Juni,Home & Kitchen,45,196.0,Cash on Delivery
+"2024-06-15",Juni,Home & Kitchen,50,222.0,Credit Card
+"2024-06-15",Juni,Sports,35,440.0,Cash on Delivery
+"2024-06-15",Juni,Sports,15,160.0,Debit Card
+"2024-06-15",Juni,Toys,5,90.0,Cash on Delivery
+"2024-06-15",Juni,Toys,10,123.0,Net Banking
+"2024-06-16",Juni,Books,20,434.0,Cash on Delivery
+"2024-06-16",Juni,Electronics,50,206.0,Net Banking
+"2024-06-16",Juni,Electronics,15,241.0,UPI
+"2024-06-17",Juni,Books,10,261.0,Credit Card
+"2024-06-17",Juni,Clothing,0,19.0,Credit Card
+"2024-06-17",Juni,Clothing,10,182.0,Debit Card
+"2024-06-17",Juni,Electronics,10,136.0,Credit Card
+"2024-06-17",Juni,Electronics,5,66.0,Debit Card
+"2024-06-17",Juni,Electronics,15,447.0,UPI
+"2024-06-17",Juni,Sports,30,469.0,Cash on Delivery
+"2024-06-17",Juni,Sports,5,40.0,Credit Card
+"2024-06-18",Juni,Books,0,29.0,Net Banking
+"2024-06-18",Juni,Clothing,0,277.0,Debit Card
+"2024-06-18",Juni,Electronics,35,127.0,Cash on Delivery
+"2024-06-18",Juni,Home & Kitchen,25,253.0,Credit Card
+"2024-06-18",Juni,Home & Kitchen,70,379.0,Debit Card
+"2024-06-18",Juni,Home & Kitchen,15,316.0,UPI
+"2024-06-18",Juni,Sports,10,367.0,Credit Card
+"2024-06-18",Juni,Toys,5,418.0,Cash on Delivery
+"2024-06-18",Juni,Toys,15,312.0,Debit Card
+"2024-06-18",Juni,Toys,10,125.0,Net Banking
+"2024-06-19",Juni,Beauty,15,166.0,Cash on Delivery
+"2024-06-19",Juni,Beauty,25,194.0,Net Banking
+"2024-06-19",Juni,Books,0,460.0,Credit Card
+"2024-06-19",Juni,Books,50,62.0,UPI
+"2024-06-19",Juni,Clothing,0,215.0,Debit Card
+"2024-06-19",Juni,Electronics,0,369.0,Credit Card
+"2024-06-19",Juni,Electronics,5,125.0,Net Banking
+"2024-06-19",Juni,Electronics,30,222.0,UPI
+"2024-06-19",Juni,Home & Kitchen,10,81.0,Net Banking
+"2024-06-19",Juni,Sports,10,332.0,Debit Card
+"2024-06-19",Juni,Toys,30,288.0,Cash on Delivery
+"2024-06-19",Juni,Toys,10,158.0,Debit Card
+"2024-06-19",Juni,Toys,5,25.0,UPI
+"2024-06-20",Juni,Beauty,10,418.0,Cash on Delivery
+"2024-06-20",Juni,Beauty,50,11.0,Credit Card
+"2024-06-20",Juni,Books,10,107.0,UPI
+"2024-06-20",Juni,Clothing,20,41.0,Credit Card
+"2024-06-20",Juni,Clothing,75,699.0,UPI
+"2024-06-20",Juni,Electronics,50,118.0,Credit Card
+"2024-06-20",Juni,Electronics,30,289.0,Debit Card
+"2024-06-20",Juni,Sports,50,26.0,Debit Card
+"2024-06-20",Juni,Toys,30,294.0,UPI
+"2024-06-21",Juni,Beauty,30,171.0,Credit Card
+"2024-06-21",Juni,Books,0,19.0,UPI
+"2024-06-21",Juni,Clothing,20,172.0,UPI
+"2024-06-21",Juni,Electronics,0,275.0,Net Banking
+"2024-06-21",Juni,Home & Kitchen,15,319.0,Cash on Delivery
+"2024-06-21",Juni,Home & Kitchen,30,318.0,UPI
+"2024-06-21",Juni,Sports,0,288.0,Net Banking
+"2024-06-22",Juni,Beauty,30,138.0,UPI
+"2024-06-22",Juni,Books,50,158.0,Net Banking
+"2024-06-22",Juni,Books,0,260.0,UPI
+"2024-06-22",Juni,Clothing,55,388.0,Debit Card
+"2024-06-22",Juni,Electronics,15,405.0,Cash on Delivery
+"2024-06-22",Juni,Electronics,15,170.0,Credit Card
+"2024-06-22",Juni,Home & Kitchen,50,34.0,Debit Card
+"2024-06-22",Juni,Home & Kitchen,50,108.0,UPI
+"2024-06-22",Juni,Toys,20,274.0,Debit Card
+"2024-06-23",Juni,Beauty,10,75.0,Credit Card
+"2024-06-23",Juni,Beauty,10,87.0,Net Banking
+"2024-06-23",Juni,Books,30,144.0,Debit Card
+"2024-06-23",Juni,Books,20,222.0,UPI
+"2024-06-23",Juni,Sports,30,91.0,Cash on Delivery
+"2024-06-23",Juni,Sports,25,178.0,Net Banking
+"2024-06-23",Juni,Sports,0,346.0,UPI
+"2024-06-23",Juni,Toys,10,449.0,Credit Card
+"2024-06-23",Juni,Toys,50,223.0,Net Banking
+"2024-06-24",Juni,Beauty,50,235.0,Debit Card
+"2024-06-24",Juni,Beauty,25,161.0,Net Banking
+"2024-06-24",Juni,Books,15,50.0,Debit Card
+"2024-06-24",Juni,Clothing,40,428.0,Debit Card
+"2024-06-24",Juni,Clothing,25,97.0,Net Banking
+"2024-06-24",Juni,Clothing,20,153.0,UPI
+"2024-06-24",Juni,Toys,0,303.0,Net Banking
+"2024-06-25",Juni,Beauty,5,75.0,Debit Card
+"2024-06-25",Juni,Beauty,50,229.0,Net Banking
+"2024-06-25",Juni,Clothing,10,96.0,Debit Card
+"2024-06-25",Juni,Electronics,0,352.0,Net Banking
+"2024-06-25",Juni,Home & Kitchen,20,165.0,Debit Card
+"2024-06-25",Juni,Sports,15,408.0,Credit Card
+"2024-06-25",Juni,Sports,5,462.0,Net Banking
+"2024-06-25",Juni,Toys,10,297.0,Credit Card
+"2024-06-25",Juni,Toys,0,248.0,Debit Card
+"2024-06-25",Juni,Toys,5,420.0,Net Banking
+"2024-06-26",Juni,Beauty,25,280.0,Cash on Delivery
+"2024-06-26",Juni,Books,0,125.0,Cash on Delivery
+"2024-06-26",Juni,Clothing,50,91.0,Cash on Delivery
+"2024-06-26",Juni,Clothing,25,93.0,Credit Card
+"2024-06-26",Juni,Clothing,10,187.0,Debit Card
+"2024-06-26",Juni,Electronics,25,215.0,Net Banking
+"2024-06-26",Juni,Electronics,25,155.0,UPI
+"2024-06-26",Juni,Home & Kitchen,5,351.0,Debit Card
+"2024-06-26",Juni,Toys,50,22.0,Debit Card
+"2024-06-27",Juni,Books,60,268.0,UPI
+"2024-06-27",Juni,Home & Kitchen,15,272.0,Credit Card
+"2024-06-27",Juni,Home & Kitchen,20,300.0,Debit Card
+"2024-06-27",Juni,Sports,10,140.0,Credit Card
+"2024-06-27",Juni,Sports,50,34.0,Net Banking
+"2024-06-28",Juni,Beauty,30,208.0,Debit Card
+"2024-06-28",Juni,Books,0,108.0,Credit Card
+"2024-06-28",Juni,Clothing,20,94.0,Net Banking
+"2024-06-28",Juni,Electronics,5,239.0,Credit Card
+"2024-06-28",Juni,Electronics,25,215.0,Net Banking
+"2024-06-28",Juni,Home & Kitchen,0,227.0,Net Banking
+"2024-06-28",Juni,Sports,0,195.0,UPI
+"2024-06-28",Juni,Toys,55,712.0,Cash on Delivery
+"2024-06-28",Juni,Toys,25,366.0,Credit Card
+"2024-06-29",Juni,Books,20,608.0,Credit Card
+"2024-06-29",Juni,Books,0,354.0,Debit Card
+"2024-06-29",Juni,Electronics,10,423.0,Credit Card
+"2024-06-29",Juni,Electronics,20,25.0,UPI
+"2024-06-29",Juni,Sports,15,83.0,Cash on Delivery
+"2024-06-29",Juni,Sports,0,46.0,Net Banking
+"2024-06-29",Juni,Toys,5,457.0,Net Banking
+"2024-06-30",Juni,Books,5,86.0,UPI
+"2024-06-30",Juni,Electronics,5,469.0,Debit Card
+"2024-06-30",Juni,Home & Kitchen,5,176.0,Cash on Delivery
+"2024-06-30",Juni,Sports,30,35.0,Credit Card
+"2024-06-30",Juni,Toys,0,318.0,Debit Card
+"2024-06-30",Juni,Toys,5,351.0,UPI
+"2024-07-01",Juli,Books,10,231.0,Credit Card
+"2024-07-01",Juli,Books,25,129.0,Net Banking
+"2024-07-01",Juli,Clothing,10,160.0,Credit Card
+"2024-07-01",Juli,Electronics,50,94.0,Debit Card
+"2024-07-01",Juli,Electronics,50,19.0,UPI
+"2024-07-01",Juli,Sports,0,434.0,Cash on Delivery
+"2024-07-01",Juli,Sports,35,601.0,Debit Card
+"2024-07-01",Juli,Toys,60,681.0,Credit Card
+"2024-07-01",Juli,Toys,15,343.0,UPI
+"2024-07-02",Juli,Beauty,20,370.0,Cash on Delivery
+"2024-07-02",Juli,Beauty,60,275.0,UPI
+"2024-07-02",Juli,Clothing,0,77.0,Debit Card
+"2024-07-02",Juli,Clothing,25,111.0,Net Banking
+"2024-07-02",Juli,Clothing,15,398.0,UPI
+"2024-07-03",Juli,Beauty,30,12.0,Credit Card
+"2024-07-03",Juli,Beauty,40,654.0,Net Banking
+"2024-07-03",Juli,Beauty,30,299.0,UPI
+"2024-07-03",Juli,Books,0,41.0,Credit Card
+"2024-07-03",Juli,Electronics,15,167.0,Credit Card
+"2024-07-03",Juli,Sports,50,233.0,Debit Card
+"2024-07-03",Juli,Sports,20,453.0,Net Banking
+"2024-07-03",Juli,Toys,30,30.0,Credit Card
+"2024-07-03",Juli,Toys,10,291.0,Debit Card
+"2024-07-04",Juli,Beauty,0,229.0,UPI
+"2024-07-04",Juli,Books,30,488.0,UPI
+"2024-07-04",Juli,Sports,25,300.0,Cash on Delivery
+"2024-07-04",Juli,Sports,15,297.0,Debit Card
+"2024-07-05",Juli,Beauty,15,354.0,Net Banking
+"2024-07-05",Juli,Books,50,161.0,Debit Card
+"2024-07-05",Juli,Sports,0,272.0,Debit Card
+"2024-07-05",Juli,Toys,0,393.0,Cash on Delivery
+"2024-07-05",Juli,Toys,45,467.0,UPI
+"2024-07-06",Juli,Beauty,30,322.0,Cash on Delivery
+"2024-07-06",Juli,Beauty,0,82.0,Debit Card
+"2024-07-06",Juli,Electronics,10,128.0,Cash on Delivery
+"2024-07-06",Juli,Electronics,30,17.0,UPI
+"2024-07-06",Juli,Toys,10,293.0,Cash on Delivery
+"2024-07-07",Juli,Beauty,15,421.0,Credit Card
+"2024-07-07",Juli,Beauty,10,174.0,Net Banking
+"2024-07-07",Juli,Books,25,111.0,Credit Card
+"2024-07-07",Juli,Clothing,0,248.0,UPI
+"2024-07-07",Juli,Electronics,20,305.0,Debit Card
+"2024-07-07",Juli,Electronics,5,369.0,Net Banking
+"2024-07-07",Juli,Electronics,50,106.0,UPI
+"2024-07-07",Juli,Home & Kitchen,75,639.0,Credit Card
+"2024-07-07",Juli,Sports,0,88.0,Credit Card
+"2024-07-07",Juli,Toys,30,280.0,Credit Card
+"2024-07-07",Juli,Toys,5,229.0,Debit Card
+"2024-07-07",Juli,Toys,10,311.0,Net Banking
+"2024-07-08",Juli,Books,20,220.0,Cash on Delivery
+"2024-07-08",Juli,Books,10,439.0,Net Banking
+"2024-07-08",Juli,Books,10,190.0,UPI
+"2024-07-08",Juli,Electronics,0,371.0,UPI
+"2024-07-08",Juli,Home & Kitchen,20,257.0,Cash on Delivery
+"2024-07-08",Juli,Sports,30,409.0,Credit Card
+"2024-07-08",Juli,Sports,50,68.0,Debit Card
+"2024-07-08",Juli,Toys,45,329.0,Credit Card
+"2024-07-09",Juli,Beauty,30,324.0,Debit Card
+"2024-07-09",Juli,Books,5,319.0,Net Banking
+"2024-07-09",Juli,Books,20,342.0,UPI
+"2024-07-09",Juli,Clothing,30,337.0,UPI
+"2024-07-09",Juli,Electronics,25,205.0,Credit Card
+"2024-07-09",Juli,Electronics,0,176.0,Debit Card
+"2024-07-09",Juli,Electronics,30,496.0,Net Banking
+"2024-07-09",Juli,Home & Kitchen,15,258.0,Cash on Delivery
+"2024-07-09",Juli,Home & Kitchen,50,229.0,UPI
+"2024-07-09",Juli,Sports,50,181.0,Credit Card
+"2024-07-10",Juli,Clothing,0,407.0,UPI
+"2024-07-10",Juli,Electronics,50,30.0,Credit Card
+"2024-07-10",Juli,Electronics,5,36.0,Debit Card
+"2024-07-10",Juli,Home & Kitchen,5,471.0,Debit Card
+"2024-07-10",Juli,Home & Kitchen,5,418.0,UPI
+"2024-07-10",Juli,Sports,15,386.0,Credit Card
+"2024-07-10",Juli,Sports,30,96.0,Debit Card
+"2024-07-10",Juli,Sports,0,347.0,UPI
+"2024-07-11",Juli,Beauty,60,446.0,Credit Card
+"2024-07-11",Juli,Books,5,286.0,Cash on Delivery
+"2024-07-11",Juli,Clothing,20,507.0,Credit Card
+"2024-07-11",Juli,Clothing,50,245.0,Debit Card
+"2024-07-11",Juli,Electronics,15,388.0,Credit Card
+"2024-07-11",Juli,Electronics,10,762.0,Net Banking
+"2024-07-11",Juli,Home & Kitchen,0,233.0,Credit Card
+"2024-07-11",Juli,Home & Kitchen,100,354.0,Debit Card
+"2024-07-11",Juli,Sports,0,285.0,Cash on Delivery
+"2024-07-11",Juli,Sports,30,358.0,Net Banking
+"2024-07-11",Juli,Sports,30,271.0,UPI
+"2024-07-12",Juli,Beauty,30,367.0,Credit Card
+"2024-07-12",Juli,Clothing,10,427.0,Net Banking
+"2024-07-12",Juli,Clothing,10,252.0,UPI
+"2024-07-12",Juli,Electronics,10,134.0,Cash on Delivery
+"2024-07-12",Juli,Home & Kitchen,20,150.0,Net Banking
+"2024-07-12",Juli,Home & Kitchen,25,147.0,UPI
+"2024-07-12",Juli,Sports,60,341.0,Cash on Delivery
+"2024-07-12",Juli,Sports,10,44.0,Credit Card
+"2024-07-12",Juli,Sports,50,60.0,Debit Card
+"2024-07-12",Juli,Toys,30,334.0,Credit Card
+"2024-07-12",Juli,Toys,0,343.0,Net Banking
+"2024-07-12",Juli,Toys,50,154.0,UPI
+"2024-07-13",Juli,Books,10,95.0,Cash on Delivery
+"2024-07-13",Juli,Books,30,311.0,Debit Card
+"2024-07-13",Juli,Books,15,93.0,Net Banking
+"2024-07-13",Juli,Books,30,451.0,UPI
+"2024-07-13",Juli,Electronics,10,46.0,UPI
+"2024-07-13",Juli,Home & Kitchen,20,195.0,Credit Card
+"2024-07-13",Juli,Home & Kitchen,30,259.0,UPI
+"2024-07-13",Juli,Toys,50,141.0,UPI
+"2024-07-14",Juli,Books,5,248.0,Net Banking
+"2024-07-14",Juli,Clothing,35,314.0,Cash on Delivery
+"2024-07-14",Juli,Clothing,10,191.0,Credit Card
+"2024-07-14",Juli,Clothing,30,184.0,Debit Card
+"2024-07-14",Juli,Electronics,5,139.0,Net Banking
+"2024-07-14",Juli,Home & Kitchen,10,305.0,Credit Card
+"2024-07-14",Juli,Sports,30,45.0,Credit Card
+"2024-07-14",Juli,Sports,15,297.0,UPI
+"2024-07-14",Juli,Toys,45,192.0,Cash on Delivery
+"2024-07-15",Juli,Beauty,0,271.0,Credit Card
+"2024-07-15",Juli,Beauty,15,61.0,UPI
+"2024-07-15",Juli,Books,20,716.0,Credit Card
+"2024-07-15",Juli,Books,10,476.0,Net Banking
+"2024-07-15",Juli,Books,10,249.0,UPI
+"2024-07-15",Juli,Clothing,50,214.0,Credit Card
+"2024-07-15",Juli,Clothing,30,63.0,UPI
+"2024-07-15",Juli,Electronics,25,188.0,Credit Card
+"2024-07-15",Juli,Electronics,15,59.0,Debit Card
+"2024-07-15",Juli,Electronics,50,108.0,Net Banking
+"2024-07-15",Juli,Electronics,10,136.0,UPI
+"2024-07-15",Juli,Home & Kitchen,5,130.0,Net Banking
+"2024-07-15",Juli,Home & Kitchen,20,115.0,UPI
+"2024-07-15",Juli,Sports,0,480.0,Cash on Delivery
+"2024-07-15",Juli,Sports,30,302.0,Credit Card
+"2024-07-15",Juli,Sports,0,255.0,Debit Card
+"2024-07-16",Juli,Clothing,50,134.0,UPI
+"2024-07-16",Juli,Electronics,15,155.0,Credit Card
+"2024-07-16",Juli,Electronics,65,547.0,UPI
+"2024-07-16",Juli,Sports,30,107.0,Debit Card
+"2024-07-16",Juli,Toys,20,106.0,Cash on Delivery
+"2024-07-17",Juli,Beauty,25,478.0,UPI
+"2024-07-17",Juli,Electronics,20,80.0,Debit Card
+"2024-07-17",Juli,Electronics,5,83.0,Net Banking
+"2024-07-17",Juli,Home & Kitchen,10,218.0,Cash on Delivery
+"2024-07-17",Juli,Home & Kitchen,15,322.0,Net Banking
+"2024-07-17",Juli,Home & Kitchen,0,156.0,UPI
+"2024-07-17",Juli,Sports,5,169.0,Credit Card
+"2024-07-17",Juli,Sports,0,144.0,Debit Card
+"2024-07-18",Juli,Beauty,35,789.0,Cash on Delivery
+"2024-07-18",Juli,Books,25,372.0,Cash on Delivery
+"2024-07-18",Juli,Books,0,429.0,Net Banking
+"2024-07-18",Juli,Books,15,156.0,UPI
+"2024-07-18",Juli,Clothing,25,304.0,UPI
+"2024-07-18",Juli,Electronics,5,428.0,Credit Card
+"2024-07-18",Juli,Electronics,0,210.0,Debit Card
+"2024-07-18",Juli,Electronics,25,14.0,UPI
+"2024-07-18",Juli,Home & Kitchen,10,389.0,Credit Card
+"2024-07-18",Juli,Home & Kitchen,25,370.0,Net Banking
+"2024-07-18",Juli,Home & Kitchen,20,12.0,UPI
+"2024-07-18",Juli,Sports,15,105.0,Cash on Delivery
+"2024-07-18",Juli,Sports,30,291.0,Credit Card
+"2024-07-18",Juli,Toys,30,108.0,Cash on Delivery
+"2024-07-18",Juli,Toys,25,165.0,Debit Card
+"2024-07-18",Juli,Toys,20,229.0,Net Banking
+"2024-07-18",Juli,Toys,10,326.0,UPI
+"2024-07-19",Juli,Books,40,357.0,Debit Card
+"2024-07-19",Juli,Clothing,0,422.0,Credit Card
+"2024-07-19",Juli,Clothing,20,98.0,Net Banking
+"2024-07-19",Juli,Clothing,10,14.0,UPI
+"2024-07-19",Juli,Electronics,30,632.0,Credit Card
+"2024-07-19",Juli,Electronics,30,249.0,UPI
+"2024-07-19",Juli,Home & Kitchen,5,251.0,Cash on Delivery
+"2024-07-19",Juli,Home & Kitchen,5,408.0,Debit Card
+"2024-07-19",Juli,Toys,25,343.0,Credit Card
+"2024-07-19",Juli,Toys,5,384.0,Debit Card
+"2024-07-20",Juli,Books,25,342.0,Debit Card
+"2024-07-20",Juli,Clothing,5,428.0,Debit Card
+"2024-07-20",Juli,Electronics,50,147.0,Cash on Delivery
+"2024-07-20",Juli,Electronics,50,17.0,Net Banking
+"2024-07-20",Juli,Home & Kitchen,25,168.0,Cash on Delivery
+"2024-07-20",Juli,Home & Kitchen,30,273.0,Net Banking
+"2024-07-20",Juli,Sports,60,561.0,Cash on Delivery
+"2024-07-20",Juli,Toys,50,131.0,Debit Card
+"2024-07-21",Juli,Beauty,15,305.0,Net Banking
+"2024-07-21",Juli,Books,25,185.0,Cash on Delivery
+"2024-07-21",Juli,Books,50,94.0,Net Banking
+"2024-07-21",Juli,Books,5,257.0,UPI
+"2024-07-21",Juli,Clothing,25,295.0,Net Banking
+"2024-07-21",Juli,Electronics,0,159.0,Cash on Delivery
+"2024-07-21",Juli,Electronics,30,29.0,Credit Card
+"2024-07-21",Juli,Electronics,30,279.0,Net Banking
+"2024-07-21",Juli,Home & Kitchen,45,396.0,Credit Card
+"2024-07-21",Juli,Home & Kitchen,10,26.0,Debit Card
+"2024-07-21",Juli,Home & Kitchen,50,54.0,Net Banking
+"2024-07-21",Juli,Sports,25,115.0,UPI
+"2024-07-21",Juli,Toys,0,268.0,Debit Card
+"2024-07-22",Juli,Books,0,301.0,Cash on Delivery
+"2024-07-22",Juli,Books,50,99.0,Credit Card
+"2024-07-22",Juli,Clothing,15,28.0,Cash on Delivery
+"2024-07-22",Juli,Clothing,25,235.0,Net Banking
+"2024-07-22",Juli,Electronics,50,160.0,UPI
+"2024-07-22",Juli,Home & Kitchen,25,291.0,Cash on Delivery
+"2024-07-22",Juli,Home & Kitchen,25,59.0,Credit Card
+"2024-07-22",Juli,Home & Kitchen,0,212.0,Net Banking
+"2024-07-22",Juli,Toys,50,78.0,Credit Card
+"2024-07-22",Juli,Toys,0,222.0,Net Banking
+"2024-07-22",Juli,Toys,25,122.0,UPI
+"2024-07-23",Juli,Beauty,30,52.0,Cash on Delivery
+"2024-07-23",Juli,Books,5,151.0,Debit Card
+"2024-07-23",Juli,Clothing,20,359.0,Credit Card
+"2024-07-23",Juli,Clothing,50,154.0,Debit Card
+"2024-07-23",Juli,Clothing,0,42.0,Net Banking
+"2024-07-23",Juli,Electronics,10,40.0,Net Banking
+"2024-07-23",Juli,Home & Kitchen,50,218.0,Debit Card
+"2024-07-23",Juli,Home & Kitchen,50,19.0,Net Banking
+"2024-07-23",Juli,Home & Kitchen,40,333.0,UPI
+"2024-07-23",Juli,Sports,5,302.0,Credit Card
+"2024-07-23",Juli,Toys,10,235.0,Credit Card
+"2024-07-23",Juli,Toys,20,177.0,Net Banking
+"2024-07-24",Juli,Beauty,50,90.0,Credit Card
+"2024-07-24",Juli,Beauty,30,240.0,UPI
+"2024-07-24",Juli,Books,15,265.0,Debit Card
+"2024-07-24",Juli,Books,10,225.0,Net Banking
+"2024-07-24",Juli,Clothing,5,218.0,Credit Card
+"2024-07-24",Juli,Clothing,0,430.0,UPI
+"2024-07-24",Juli,Electronics,20,260.0,Cash on Delivery
+"2024-07-24",Juli,Electronics,15,93.0,Credit Card
+"2024-07-24",Juli,Electronics,30,116.0,Debit Card
+"2024-07-24",Juli,Home & Kitchen,25,126.0,Debit Card
+"2024-07-24",Juli,Home & Kitchen,50,88.0,Net Banking
+"2024-07-24",Juli,Home & Kitchen,20,113.0,UPI
+"2024-07-24",Juli,Sports,15,346.0,Net Banking
+"2024-07-24",Juli,Toys,15,281.0,Credit Card
+"2024-07-25",Juli,Beauty,10,450.0,Debit Card
+"2024-07-25",Juli,Books,5,648.0,Credit Card
+"2024-07-25",Juli,Books,0,333.0,Net Banking
+"2024-07-25",Juli,Books,0,437.0,UPI
+"2024-07-25",Juli,Clothing,25,164.0,UPI
+"2024-07-25",Juli,Electronics,15,563.0,Debit Card
+"2024-07-25",Juli,Sports,50,184.0,Cash on Delivery
+"2024-07-25",Juli,Sports,30,40.0,Credit Card
+"2024-07-25",Juli,Sports,30,201.0,Debit Card
+"2024-07-25",Juli,Toys,15,280.0,Debit Card
+"2024-07-25",Juli,Toys,30,215.0,Net Banking
+"2024-07-26",Juli,Beauty,10,340.0,Debit Card
+"2024-07-26",Juli,Books,5,80.0,Cash on Delivery
+"2024-07-26",Juli,Books,10,373.0,UPI
+"2024-07-26",Juli,Clothing,30,251.0,Credit Card
+"2024-07-26",Juli,Clothing,20,218.0,Net Banking
+"2024-07-26",Juli,Clothing,10,43.0,UPI
+"2024-07-26",Juli,Electronics,20,137.0,UPI
+"2024-07-26",Juli,Sports,0,210.0,UPI
+"2024-07-26",Juli,Toys,25,86.0,UPI
+"2024-07-27",Juli,Beauty,0,373.0,Cash on Delivery
+"2024-07-27",Juli,Beauty,30,205.0,Net Banking
+"2024-07-27",Juli,Beauty,50,201.0,UPI
+"2024-07-27",Juli,Books,5,160.0,Credit Card
+"2024-07-27",Juli,Clothing,25,304.0,Cash on Delivery
+"2024-07-27",Juli,Clothing,25,321.0,Credit Card
+"2024-07-27",Juli,Clothing,0,254.0,UPI
+"2024-07-27",Juli,Sports,50,125.0,Debit Card
+"2024-07-27",Juli,Toys,25,223.0,Net Banking
+"2024-07-28",Juli,Books,25,127.0,Cash on Delivery
+"2024-07-28",Juli,Electronics,20,143.0,Cash on Delivery
+"2024-07-28",Juli,Electronics,0,565.0,UPI
+"2024-07-28",Juli,Home & Kitchen,30,581.0,Cash on Delivery
+"2024-07-28",Juli,Home & Kitchen,5,147.0,Net Banking
+"2024-07-28",Juli,Home & Kitchen,65,366.0,UPI
+"2024-07-28",Juli,Sports,15,64.0,Credit Card
+"2024-07-28",Juli,Toys,0,66.0,Credit Card
+"2024-07-28",Juli,Toys,10,261.0,Net Banking
+"2024-07-29",Juli,Beauty,30,537.0,Cash on Delivery
+"2024-07-29",Juli,Books,25,20.0,Cash on Delivery
+"2024-07-29",Juli,Books,0,98.0,Debit Card
+"2024-07-29",Juli,Clothing,10,229.0,Credit Card
+"2024-07-29",Juli,Electronics,25,358.0,Credit Card
+"2024-07-29",Juli,Electronics,55,326.0,Debit Card
+"2024-07-29",Juli,Home & Kitchen,5,446.0,Cash on Delivery
+"2024-07-29",Juli,Sports,30,21.0,UPI
+"2024-07-29",Juli,Toys,35,463.0,Cash on Delivery
+"2024-07-29",Juli,Toys,0,104.0,Debit Card
+"2024-07-29",Juli,Toys,25,81.0,UPI
+"2024-07-30",Juli,Beauty,15,17.0,Net Banking
+"2024-07-30",Juli,Books,15,353.0,Cash on Delivery
+"2024-07-30",Juli,Electronics,0,402.0,Net Banking
+"2024-07-30",Juli,Home & Kitchen,100,90.0,Net Banking
+"2024-07-30",Juli,Home & Kitchen,5,252.0,UPI
+"2024-07-30",Juli,Sports,25,372.0,Credit Card
+"2024-07-30",Juli,Sports,10,261.0,Debit Card
+"2024-07-31",Juli,Beauty,30,157.0,Net Banking
+"2024-07-31",Juli,Clothing,50,93.0,Credit Card
+"2024-07-31",Juli,Clothing,40,666.0,Net Banking
+"2024-07-31",Juli,Electronics,30,221.0,Net Banking
+"2024-07-31",Juli,Home & Kitchen,50,126.0,UPI
+"2024-07-31",Juli,Sports,10,228.0,Net Banking
+"2024-07-31",Juli,Sports,5,90.0,UPI
+"2024-07-31",Juli,Toys,0,437.0,Debit Card
+"2024-08-01",Agustus,Books,25,374.0,UPI
+"2024-08-01",Agustus,Clothing,20,310.0,Cash on Delivery
+"2024-08-01",Agustus,Electronics,0,71.0,Net Banking
+"2024-08-02",Agustus,Beauty,25,351.0,Debit Card
+"2024-08-02",Agustus,Electronics,10,116.0,Debit Card
+"2024-08-02",Agustus,Electronics,30,344.0,Net Banking
+"2024-08-02",Agustus,Electronics,60,312.0,UPI
+"2024-08-02",Agustus,Home & Kitchen,50,54.0,Cash on Delivery
+"2024-08-02",Agustus,Home & Kitchen,60,421.0,UPI
+"2024-08-02",Agustus,Sports,50,78.0,UPI
+"2024-08-02",Agustus,Toys,50,105.0,Credit Card
+"2024-08-02",Agustus,Toys,25,166.0,UPI
+"2024-08-03",Agustus,Books,0,285.0,Credit Card
+"2024-08-03",Agustus,Books,10,219.0,UPI
+"2024-08-03",Agustus,Clothing,10,442.0,UPI
+"2024-08-03",Agustus,Electronics,5,256.0,Credit Card
+"2024-08-03",Agustus,Electronics,50,232.0,UPI
+"2024-08-03",Agustus,Sports,25,142.0,Debit Card
+"2024-08-03",Agustus,Sports,30,176.0,Net Banking
+"2024-08-03",Agustus,Toys,25,300.0,Net Banking
+"2024-08-04",Agustus,Clothing,30,72.0,Debit Card
+"2024-08-04",Agustus,Clothing,0,15.0,UPI
+"2024-08-04",Agustus,Electronics,50,215.0,Credit Card
+"2024-08-04",Agustus,Electronics,50,388.0,UPI
+"2024-08-04",Agustus,Home & Kitchen,30,219.0,Cash on Delivery
+"2024-08-04",Agustus,Home & Kitchen,25,116.0,Credit Card
+"2024-08-04",Agustus,Home & Kitchen,30,209.0,UPI
+"2024-08-04",Agustus,Sports,25,59.0,UPI
+"2024-08-04",Agustus,Toys,50,338.0,Cash on Delivery
+"2024-08-05",Agustus,Beauty,20,118.0,Cash on Delivery
+"2024-08-05",Agustus,Beauty,0,222.0,Debit Card
+"2024-08-05",Agustus,Beauty,50,191.0,Net Banking
+"2024-08-05",Agustus,Books,5,419.0,UPI
+"2024-08-05",Agustus,Electronics,50,176.0,UPI
+"2024-08-05",Agustus,Home & Kitchen,20,172.0,Cash on Delivery
+"2024-08-05",Agustus,Sports,30,204.0,Cash on Delivery
+"2024-08-05",Agustus,Toys,50,37.0,Debit Card
+"2024-08-06",Agustus,Beauty,25,176.0,UPI
+"2024-08-06",Agustus,Books,40,230.0,Credit Card
+"2024-08-06",Agustus,Books,50,60.0,Debit Card
+"2024-08-06",Agustus,Books,5,199.0,UPI
+"2024-08-06",Agustus,Clothing,20,148.0,Debit Card
+"2024-08-06",Agustus,Clothing,5,374.0,UPI
+"2024-08-06",Agustus,Electronics,25,322.0,Cash on Delivery
+"2024-08-06",Agustus,Electronics,20,150.0,Credit Card
+"2024-08-06",Agustus,Electronics,30,263.0,Debit Card
+"2024-08-06",Agustus,Home & Kitchen,0,395.0,Cash on Delivery
+"2024-08-06",Agustus,Home & Kitchen,0,301.0,Credit Card
+"2024-08-06",Agustus,Home & Kitchen,5,208.0,Debit Card
+"2024-08-06",Agustus,Home & Kitchen,25,152.0,Net Banking
+"2024-08-06",Agustus,Sports,50,135.0,UPI
+"2024-08-06",Agustus,Toys,30,261.0,Net Banking
+"2024-08-07",Agustus,Beauty,25,285.0,UPI
+"2024-08-07",Agustus,Books,5,13.0,Debit Card
+"2024-08-07",Agustus,Clothing,15,351.0,Cash on Delivery
+"2024-08-07",Agustus,Electronics,20,326.0,Credit Card
+"2024-08-07",Agustus,Electronics,0,192.0,Debit Card
+"2024-08-07",Agustus,Electronics,20,308.0,UPI
+"2024-08-07",Agustus,Home & Kitchen,5,291.0,Cash on Delivery
+"2024-08-07",Agustus,Home & Kitchen,10,527.0,Net Banking
+"2024-08-07",Agustus,Sports,50,32.0,Net Banking
+"2024-08-07",Agustus,Toys,5,427.0,Debit Card
+"2024-08-07",Agustus,Toys,10,237.0,Net Banking
+"2024-08-08",Agustus,Beauty,50,63.0,Cash on Delivery
+"2024-08-08",Agustus,Beauty,5,340.0,Net Banking
+"2024-08-08",Agustus,Beauty,10,130.0,UPI
+"2024-08-08",Agustus,Books,20,189.0,Cash on Delivery
+"2024-08-08",Agustus,Books,50,121.0,UPI
+"2024-08-08",Agustus,Clothing,10,337.0,Net Banking
+"2024-08-08",Agustus,Clothing,20,336.0,UPI
+"2024-08-08",Agustus,Home & Kitchen,10,351.0,Credit Card
+"2024-08-08",Agustus,Home & Kitchen,10,148.0,Debit Card
+"2024-08-08",Agustus,Home & Kitchen,0,53.0,Net Banking
+"2024-08-08",Agustus,Sports,10,184.0,Credit Card
+"2024-08-08",Agustus,Sports,50,249.0,Debit Card
+"2024-08-08",Agustus,Toys,10,379.0,Cash on Delivery
+"2024-08-08",Agustus,Toys,25,148.0,Net Banking
+"2024-08-09",Agustus,Beauty,55,139.0,Credit Card
+"2024-08-09",Agustus,Books,30,155.0,Cash on Delivery
+"2024-08-09",Agustus,Clothing,35,504.0,Cash on Delivery
+"2024-08-09",Agustus,Clothing,5,111.0,Credit Card
+"2024-08-09",Agustus,Electronics,25,161.0,Net Banking
+"2024-08-09",Agustus,Home & Kitchen,30,79.0,Net Banking
+"2024-08-09",Agustus,Sports,50,165.0,Debit Card
+"2024-08-09",Agustus,Sports,10,222.0,UPI
+"2024-08-09",Agustus,Toys,0,467.0,UPI
+"2024-08-10",Agustus,Beauty,5,272.0,Credit Card
+"2024-08-10",Agustus,Books,0,466.0,Debit Card
+"2024-08-10",Agustus,Books,60,414.0,UPI
+"2024-08-10",Agustus,Electronics,30,60.0,Net Banking
+"2024-08-10",Agustus,Home & Kitchen,20,166.0,Cash on Delivery
+"2024-08-10",Agustus,Toys,50,197.0,Cash on Delivery
+"2024-08-11",Agustus,Beauty,0,479.0,Debit Card
+"2024-08-11",Agustus,Beauty,25,88.0,Net Banking
+"2024-08-11",Agustus,Books,30,128.0,Cash on Delivery
+"2024-08-11",Agustus,Books,5,234.0,Credit Card
+"2024-08-11",Agustus,Clothing,5,358.0,Credit Card
+"2024-08-11",Agustus,Electronics,20,342.0,Credit Card
+"2024-08-11",Agustus,Electronics,50,217.0,UPI
+"2024-08-11",Agustus,Home & Kitchen,20,367.0,Credit Card
+"2024-08-11",Agustus,Home & Kitchen,50,317.0,UPI
+"2024-08-11",Agustus,Sports,50,26.0,Net Banking
+"2024-08-11",Agustus,Toys,30,67.0,Cash on Delivery
+"2024-08-11",Agustus,Toys,5,267.0,Credit Card
+"2024-08-11",Agustus,Toys,5,250.0,Net Banking
+"2024-08-12",Agustus,Beauty,45,129.0,Debit Card
+"2024-08-12",Agustus,Books,25,317.0,UPI
+"2024-08-12",Agustus,Clothing,5,406.0,Credit Card
+"2024-08-12",Agustus,Home & Kitchen,10,50.0,Credit Card
+"2024-08-12",Agustus,Home & Kitchen,0,182.0,Debit Card
+"2024-08-12",Agustus,Sports,30,328.0,UPI
+"2024-08-12",Agustus,Toys,30,313.0,Debit Card
+"2024-08-13",Agustus,Beauty,20,117.0,Debit Card
+"2024-08-13",Agustus,Beauty,25,102.0,UPI
+"2024-08-13",Agustus,Books,25,154.0,Cash on Delivery
+"2024-08-13",Agustus,Clothing,10,356.0,Cash on Delivery
+"2024-08-13",Agustus,Clothing,20,63.0,UPI
+"2024-08-13",Agustus,Electronics,5,253.0,Cash on Delivery
+"2024-08-13",Agustus,Sports,20,124.0,Cash on Delivery
+"2024-08-13",Agustus,Sports,20,10.0,Debit Card
+"2024-08-13",Agustus,Toys,0,253.0,UPI
+"2024-08-14",Agustus,Beauty,10,41.0,Cash on Delivery
+"2024-08-14",Agustus,Beauty,30,305.0,UPI
+"2024-08-14",Agustus,Books,15,367.0,Net Banking
+"2024-08-14",Agustus,Clothing,15,316.0,Net Banking
+"2024-08-14",Agustus,Clothing,55,121.0,UPI
+"2024-08-14",Agustus,Electronics,0,182.0,Debit Card
+"2024-08-14",Agustus,Home & Kitchen,20,137.0,Net Banking
+"2024-08-14",Agustus,Sports,30,398.0,Net Banking
+"2024-08-14",Agustus,Sports,0,230.0,UPI
+"2024-08-14",Agustus,Toys,25,155.0,Debit Card
+"2024-08-14",Agustus,Toys,30,251.0,UPI
+"2024-08-15",Agustus,Beauty,20,46.0,Cash on Delivery
+"2024-08-15",Agustus,Beauty,5,453.0,Credit Card
+"2024-08-15",Agustus,Beauty,10,333.0,UPI
+"2024-08-15",Agustus,Books,60,135.0,Credit Card
+"2024-08-15",Agustus,Electronics,75,303.0,Cash on Delivery
+"2024-08-15",Agustus,Home & Kitchen,50,85.0,Net Banking
+"2024-08-15",Agustus,Home & Kitchen,5,458.0,UPI
+"2024-08-15",Agustus,Sports,15,158.0,UPI
+"2024-08-15",Agustus,Toys,15,53.0,Cash on Delivery
+"2024-08-15",Agustus,Toys,30,183.0,Credit Card
+"2024-08-15",Agustus,Toys,10,152.0,Debit Card
+"2024-08-15",Agustus,Toys,50,17.0,Net Banking
+"2024-08-15",Agustus,Toys,0,302.0,UPI
+"2024-08-16",Agustus,Beauty,55,75.0,Cash on Delivery
+"2024-08-16",Agustus,Beauty,5,94.0,Net Banking
+"2024-08-16",Agustus,Electronics,0,328.0,Debit Card
+"2024-08-16",Agustus,Electronics,10,230.0,Net Banking
+"2024-08-16",Agustus,Electronics,5,11.0,UPI
+"2024-08-16",Agustus,Home & Kitchen,10,104.0,Debit Card
+"2024-08-16",Agustus,Home & Kitchen,10,170.0,UPI
+"2024-08-17",Agustus,Books,5,387.0,Credit Card
+"2024-08-17",Agustus,Books,0,487.0,Net Banking
+"2024-08-17",Agustus,Clothing,5,75.0,UPI
+"2024-08-17",Agustus,Home & Kitchen,50,239.0,Net Banking
+"2024-08-17",Agustus,Toys,30,620.0,Net Banking
+"2024-08-17",Agustus,Toys,5,321.0,UPI
+"2024-08-18",Agustus,Books,20,854.0,Debit Card
+"2024-08-18",Agustus,Clothing,50,105.0,Cash on Delivery
+"2024-08-18",Agustus,Clothing,50,125.0,Debit Card
+"2024-08-18",Agustus,Clothing,15,371.0,UPI
+"2024-08-18",Agustus,Electronics,0,174.0,Debit Card
+"2024-08-18",Agustus,Home & Kitchen,30,229.0,UPI
+"2024-08-18",Agustus,Sports,5,123.0,Cash on Delivery
+"2024-08-18",Agustus,Sports,0,251.0,Credit Card
+"2024-08-18",Agustus,Sports,25,219.0,Net Banking
+"2024-08-18",Agustus,Toys,0,234.0,Cash on Delivery
+"2024-08-18",Agustus,Toys,10,445.0,Credit Card
+"2024-08-18",Agustus,Toys,0,437.0,Debit Card
+"2024-08-19",Agustus,Beauty,30,113.0,Cash on Delivery
+"2024-08-19",Agustus,Beauty,5,317.0,Net Banking
+"2024-08-19",Agustus,Books,10,417.0,Cash on Delivery
+"2024-08-19",Agustus,Books,50,202.0,UPI
+"2024-08-19",Agustus,Clothing,25,152.0,Net Banking
+"2024-08-19",Agustus,Home & Kitchen,15,691.0,Credit Card
+"2024-08-19",Agustus,Home & Kitchen,30,341.0,Net Banking
+"2024-08-19",Agustus,Home & Kitchen,0,269.0,UPI
+"2024-08-19",Agustus,Sports,5,359.0,Debit Card
+"2024-08-20",Agustus,Beauty,15,331.0,Net Banking
+"2024-08-20",Agustus,Clothing,15,338.0,Debit Card
+"2024-08-20",Agustus,Sports,50,245.0,Cash on Delivery
+"2024-08-20",Agustus,Sports,10,94.0,Credit Card
+"2024-08-20",Agustus,Toys,5,215.0,Debit Card
+"2024-08-20",Agustus,Toys,50,42.0,Net Banking
+"2024-08-21",Agustus,Beauty,50,85.0,Net Banking
+"2024-08-21",Agustus,Beauty,0,275.0,UPI
+"2024-08-21",Agustus,Books,25,82.0,Debit Card
+"2024-08-21",Agustus,Books,0,303.0,Net Banking
+"2024-08-21",Agustus,Electronics,50,383.0,Cash on Delivery
+"2024-08-21",Agustus,Electronics,50,197.0,Net Banking
+"2024-08-21",Agustus,Electronics,50,246.0,UPI
+"2024-08-21",Agustus,Home & Kitchen,30,274.0,Credit Card
+"2024-08-21",Agustus,Home & Kitchen,0,296.0,Debit Card
+"2024-08-21",Agustus,Home & Kitchen,20,330.0,UPI
+"2024-08-21",Agustus,Sports,5,339.0,Credit Card
+"2024-08-21",Agustus,Sports,100,721.0,UPI
+"2024-08-21",Agustus,Toys,55,851.0,Debit Card
+"2024-08-21",Agustus,Toys,25,172.0,UPI
+"2024-08-22",Agustus,Beauty,5,468.0,Credit Card
+"2024-08-22",Agustus,Books,50,74.0,Net Banking
+"2024-08-22",Agustus,Electronics,15,224.0,Debit Card
+"2024-08-22",Agustus,Home & Kitchen,25,148.0,Credit Card
+"2024-08-22",Agustus,Sports,40,227.0,Net Banking
+"2024-08-22",Agustus,Sports,5,406.0,UPI
+"2024-08-22",Agustus,Toys,30,86.0,UPI
+"2024-08-23",Agustus,Books,15,105.0,Credit Card
+"2024-08-23",Agustus,Clothing,20,137.0,Cash on Delivery
+"2024-08-23",Agustus,Clothing,30,492.0,UPI
+"2024-08-23",Agustus,Electronics,15,279.0,UPI
+"2024-08-23",Agustus,Home & Kitchen,30,96.0,Cash on Delivery
+"2024-08-23",Agustus,Home & Kitchen,50,177.0,Credit Card
+"2024-08-23",Agustus,Home & Kitchen,50,237.0,Net Banking
+"2024-08-23",Agustus,Sports,10,220.0,Net Banking
+"2024-08-23",Agustus,Sports,0,182.0,UPI
+"2024-08-23",Agustus,Toys,0,298.0,Cash on Delivery
+"2024-08-23",Agustus,Toys,5,152.0,UPI
+"2024-08-24",Agustus,Beauty,70,493.0,Net Banking
+"2024-08-24",Agustus,Books,5,413.0,Cash on Delivery
+"2024-08-24",Agustus,Electronics,10,45.0,Cash on Delivery
+"2024-08-24",Agustus,Electronics,20,349.0,Net Banking
+"2024-08-24",Agustus,Home & Kitchen,25,71.0,Net Banking
+"2024-08-24",Agustus,Sports,0,136.0,Cash on Delivery
+"2024-08-24",Agustus,Sports,5,373.0,Credit Card
+"2024-08-24",Agustus,Sports,20,184.0,Debit Card
+"2024-08-24",Agustus,Sports,105,428.0,Net Banking
+"2024-08-24",Agustus,Toys,50,201.0,Net Banking
+"2024-08-25",Agustus,Books,25,40.0,Cash on Delivery
+"2024-08-25",Agustus,Books,75,481.0,UPI
+"2024-08-25",Agustus,Electronics,15,258.0,Net Banking
+"2024-08-25",Agustus,Home & Kitchen,20,294.0,Cash on Delivery
+"2024-08-25",Agustus,Home & Kitchen,10,51.0,Credit Card
+"2024-08-25",Agustus,Home & Kitchen,20,218.0,Debit Card
+"2024-08-25",Agustus,Home & Kitchen,60,262.0,Net Banking
+"2024-08-25",Agustus,Home & Kitchen,60,704.0,UPI
+"2024-08-25",Agustus,Toys,30,231.0,Cash on Delivery
+"2024-08-25",Agustus,Toys,30,234.0,Debit Card
+"2024-08-25",Agustus,Toys,10,363.0,Net Banking
+"2024-08-26",Agustus,Beauty,0,335.0,Credit Card
+"2024-08-26",Agustus,Beauty,10,115.0,UPI
+"2024-08-26",Agustus,Books,5,468.0,Debit Card
+"2024-08-26",Agustus,Clothing,20,185.0,Cash on Delivery
+"2024-08-26",Agustus,Clothing,20,317.0,Debit Card
+"2024-08-26",Agustus,Home & Kitchen,30,320.0,Cash on Delivery
+"2024-08-26",Agustus,Toys,25,48.0,Credit Card
+"2024-08-26",Agustus,Toys,25,48.0,Net Banking
+"2024-08-27",Agustus,Beauty,30,516.0,Debit Card
+"2024-08-27",Agustus,Books,20,399.0,Debit Card
+"2024-08-27",Agustus,Books,5,100.0,Net Banking
+"2024-08-27",Agustus,Clothing,5,455.0,Credit Card
+"2024-08-27",Agustus,Electronics,30,218.0,Credit Card
+"2024-08-27",Agustus,Electronics,0,221.0,UPI
+"2024-08-27",Agustus,Home & Kitchen,5,69.0,Credit Card
+"2024-08-27",Agustus,Home & Kitchen,5,221.0,UPI
+"2024-08-27",Agustus,Sports,30,142.0,Net Banking
+"2024-08-28",Agustus,Books,5,387.0,Cash on Delivery
+"2024-08-28",Agustus,Clothing,0,471.0,Credit Card
+"2024-08-28",Agustus,Clothing,45,330.0,UPI
+"2024-08-28",Agustus,Electronics,25,328.0,Debit Card
+"2024-08-28",Agustus,Toys,5,290.0,Debit Card
+"2024-08-29",Agustus,Books,15,406.0,Credit Card
+"2024-08-29",Agustus,Books,35,217.0,Debit Card
+"2024-08-29",Agustus,Clothing,0,166.0,Cash on Delivery
+"2024-08-29",Agustus,Electronics,20,361.0,Debit Card
+"2024-08-29",Agustus,Electronics,5,381.0,Net Banking
+"2024-08-29",Agustus,Electronics,15,389.0,UPI
+"2024-08-29",Agustus,Home & Kitchen,5,458.0,UPI
+"2024-08-29",Agustus,Toys,0,418.0,Debit Card
+"2024-08-29",Agustus,Toys,15,37.0,Net Banking
+"2024-08-30",Agustus,Beauty,50,318.0,UPI
+"2024-08-30",Agustus,Books,5,54.0,Debit Card
+"2024-08-30",Agustus,Clothing,15,110.0,Cash on Delivery
+"2024-08-30",Agustus,Electronics,15,142.0,Debit Card
+"2024-08-30",Agustus,Electronics,5,24.0,Net Banking
+"2024-08-30",Agustus,Sports,20,127.0,Cash on Delivery
+"2024-08-30",Agustus,Sports,50,258.0,Credit Card
+"2024-08-30",Agustus,Sports,25,225.0,Debit Card
+"2024-08-30",Agustus,Toys,10,295.0,Credit Card
+"2024-08-30",Agustus,Toys,5,172.0,UPI
+"2024-08-31",Agustus,Beauty,5,189.0,UPI
+"2024-08-31",Agustus,Books,25,83.0,Cash on Delivery
+"2024-08-31",Agustus,Clothing,10,239.0,Cash on Delivery
+"2024-08-31",Agustus,Clothing,25,167.0,Net Banking
+"2024-08-31",Agustus,Electronics,45,616.0,Cash on Delivery
+"2024-08-31",Agustus,Home & Kitchen,5,194.0,Cash on Delivery
+"2024-08-31",Agustus,Home & Kitchen,30,84.0,Credit Card
+"2024-08-31",Agustus,Home & Kitchen,15,774.0,Net Banking
+"2024-08-31",Agustus,Home & Kitchen,30,36.0,UPI
+"2024-08-31",Agustus,Sports,15,393.0,Cash on Delivery
+"2024-08-31",Agustus,Sports,80,360.0,Debit Card
+"2024-08-31",Agustus,Toys,5,239.0,Debit Card
+"2024-09-01",September,Beauty,5,91.0,Net Banking
+"2024-09-01",September,Beauty,50,143.0,UPI
+"2024-09-01",September,Books,20,369.0,Net Banking
+"2024-09-01",September,Books,30,168.0,UPI
+"2024-09-01",September,Clothing,15,123.0,Cash on Delivery
+"2024-09-01",September,Home & Kitchen,30,204.0,Debit Card
+"2024-09-01",September,Home & Kitchen,60,158.0,UPI
+"2024-09-01",September,Sports,25,238.0,Credit Card
+"2024-09-01",September,Toys,20,48.0,Net Banking
+"2024-09-01",September,Toys,10,65.0,UPI
+"2024-09-02",September,Beauty,15,145.0,Cash on Delivery
+"2024-09-02",September,Beauty,0,217.0,Debit Card
+"2024-09-02",September,Beauty,20,306.0,UPI
+"2024-09-02",September,Books,20,395.0,Cash on Delivery
+"2024-09-02",September,Clothing,50,200.0,UPI
+"2024-09-02",September,Home & Kitchen,20,332.0,Net Banking
+"2024-09-02",September,Sports,5,380.0,Credit Card
+"2024-09-02",September,Sports,50,208.0,Debit Card
+"2024-09-02",September,Toys,20,179.0,Credit Card
+"2024-09-03",September,Beauty,0,71.0,Credit Card
+"2024-09-03",September,Beauty,0,436.0,Net Banking
+"2024-09-03",September,Clothing,10,434.0,Credit Card
+"2024-09-03",September,Electronics,5,358.0,Credit Card
+"2024-09-03",September,Home & Kitchen,20,398.0,Cash on Delivery
+"2024-09-03",September,Home & Kitchen,5,100.0,Net Banking
+"2024-09-03",September,Home & Kitchen,20,80.0,UPI
+"2024-09-03",September,Sports,50,111.0,Credit Card
+"2024-09-03",September,Sports,20,22.0,Debit Card
+"2024-09-03",September,Sports,20,347.0,Net Banking
+"2024-09-03",September,Toys,15,103.0,UPI
+"2024-09-04",September,Beauty,70,417.0,Credit Card
+"2024-09-04",September,Beauty,15,250.0,UPI
+"2024-09-04",September,Books,30,94.0,Cash on Delivery
+"2024-09-04",September,Books,25,232.0,UPI
+"2024-09-04",September,Clothing,25,46.0,Cash on Delivery
+"2024-09-04",September,Clothing,30,345.0,Credit Card
+"2024-09-04",September,Electronics,5,264.0,Debit Card
+"2024-09-04",September,Sports,5,341.0,Net Banking
+"2024-09-04",September,Toys,25,341.0,Credit Card
+"2024-09-05",September,Beauty,20,162.0,Cash on Delivery
+"2024-09-05",September,Beauty,5,265.0,UPI
+"2024-09-05",September,Books,50,166.0,Cash on Delivery
+"2024-09-05",September,Books,0,372.0,Credit Card
+"2024-09-05",September,Electronics,50,91.0,Cash on Delivery
+"2024-09-05",September,Home & Kitchen,30,172.0,Net Banking
+"2024-09-05",September,Home & Kitchen,0,147.0,UPI
+"2024-09-05",September,Toys,50,205.0,Cash on Delivery
+"2024-09-05",September,Toys,5,244.0,UPI
+"2024-09-06",September,Beauty,30,19.0,Cash on Delivery
+"2024-09-06",September,Beauty,30,297.0,Credit Card
+"2024-09-06",September,Beauty,10,26.0,Debit Card
+"2024-09-06",September,Home & Kitchen,20,154.0,UPI
+"2024-09-06",September,Sports,10,59.0,Debit Card
+"2024-09-06",September,Sports,5,347.0,UPI
+"2024-09-06",September,Toys,50,212.0,Debit Card
+"2024-09-07",September,Beauty,25,133.0,Credit Card
+"2024-09-07",September,Beauty,15,388.0,UPI
+"2024-09-07",September,Books,25,488.0,Cash on Delivery
+"2024-09-07",September,Books,5,217.0,Debit Card
+"2024-09-07",September,Clothing,20,102.0,Debit Card
+"2024-09-07",September,Home & Kitchen,25,232.0,Debit Card
+"2024-09-07",September,Home & Kitchen,15,126.0,UPI
+"2024-09-07",September,Sports,0,172.0,Cash on Delivery
+"2024-09-07",September,Toys,20,309.0,UPI
+"2024-09-08",September,Books,50,206.0,Net Banking
+"2024-09-08",September,Clothing,50,15.0,Cash on Delivery
+"2024-09-08",September,Clothing,15,343.0,Net Banking
+"2024-09-08",September,Clothing,25,267.0,UPI
+"2024-09-08",September,Home & Kitchen,20,389.0,UPI
+"2024-09-08",September,Sports,20,373.0,Credit Card
+"2024-09-08",September,Toys,20,294.0,Cash on Delivery
+"2024-09-08",September,Toys,20,41.0,Credit Card
+"2024-09-08",September,Toys,25,9.0,UPI
+"2024-09-09",September,Beauty,15,325.0,Credit Card
+"2024-09-09",September,Books,25,50.0,Cash on Delivery
+"2024-09-09",September,Books,10,11.0,Credit Card
+"2024-09-09",September,Clothing,10,66.0,Credit Card
+"2024-09-09",September,Clothing,15,383.0,Debit Card
+"2024-09-09",September,Clothing,50,235.0,UPI
+"2024-09-09",September,Electronics,15,103.0,Cash on Delivery
+"2024-09-09",September,Electronics,10,124.0,Debit Card
+"2024-09-09",September,Home & Kitchen,30,342.0,Credit Card
+"2024-09-09",September,Home & Kitchen,5,387.0,UPI
+"2024-09-09",September,Sports,10,305.0,Debit Card
+"2024-09-09",September,Sports,25,42.0,Net Banking
+"2024-09-09",September,Sports,20,620.0,UPI
+"2024-09-09",September,Toys,10,185.0,Credit Card
+"2024-09-09",September,Toys,25,312.0,UPI
+"2024-09-10",September,Beauty,30,701.0,Cash on Delivery
+"2024-09-10",September,Beauty,50,295.0,Debit Card
+"2024-09-10",September,Beauty,30,146.0,UPI
+"2024-09-10",September,Clothing,0,351.0,Credit Card
+"2024-09-10",September,Electronics,10,326.0,Credit Card
+"2024-09-10",September,Home & Kitchen,10,151.0,Cash on Delivery
+"2024-09-10",September,Home & Kitchen,15,378.0,Credit Card
+"2024-09-10",September,Sports,20,141.0,Debit Card
+"2024-09-10",September,Sports,25,167.0,UPI
+"2024-09-10",September,Toys,30,239.0,Debit Card
+"2024-09-11",September,Beauty,20,150.0,Debit Card
+"2024-09-11",September,Beauty,35,335.0,Net Banking
+"2024-09-11",September,Books,50,161.0,Credit Card
+"2024-09-11",September,Books,30,229.0,Debit Card
+"2024-09-11",September,Books,15,196.0,Net Banking
+"2024-09-11",September,Books,0,323.0,UPI
+"2024-09-11",September,Clothing,0,111.0,Debit Card
+"2024-09-11",September,Sports,30,309.0,Cash on Delivery
+"2024-09-11",September,Sports,20,245.0,Debit Card
+"2024-09-11",September,Sports,25,169.0,Net Banking
+"2024-09-11",September,Toys,5,141.0,Credit Card
+"2024-09-11",September,Toys,5,37.0,UPI
+"2024-09-12",September,Beauty,15,248.0,Credit Card
+"2024-09-12",September,Beauty,10,141.0,Net Banking
+"2024-09-12",September,Books,50,46.0,Cash on Delivery
+"2024-09-12",September,Clothing,0,297.0,Cash on Delivery
+"2024-09-12",September,Electronics,50,194.0,Credit Card
+"2024-09-12",September,Home & Kitchen,50,9.0,Credit Card
+"2024-09-12",September,Home & Kitchen,10,397.0,Net Banking
+"2024-09-12",September,Home & Kitchen,45,503.0,UPI
+"2024-09-12",September,Sports,10,257.0,Cash on Delivery
+"2024-09-12",September,Sports,0,64.0,Credit Card
+"2024-09-12",September,Sports,15,311.0,Net Banking
+"2024-09-12",September,Toys,15,411.0,Cash on Delivery
+"2024-09-13",September,Beauty,5,121.0,Cash on Delivery
+"2024-09-13",September,Beauty,15,128.0,UPI
+"2024-09-13",September,Books,50,198.0,Cash on Delivery
+"2024-09-13",September,Books,50,204.0,Net Banking
+"2024-09-13",September,Books,25,350.0,UPI
+"2024-09-13",September,Electronics,25,251.0,Net Banking
+"2024-09-13",September,Sports,25,91.0,Cash on Delivery
+"2024-09-13",September,Toys,45,394.0,Cash on Delivery
+"2024-09-13",September,Toys,10,262.0,Debit Card
+"2024-09-13",September,Toys,15,258.0,Net Banking
+"2024-09-14",September,Beauty,30,77.0,Credit Card
+"2024-09-14",September,Books,50,243.0,Credit Card
+"2024-09-14",September,Clothing,40,334.0,Credit Card
+"2024-09-14",September,Clothing,15,259.0,Net Banking
+"2024-09-14",September,Clothing,5,377.0,UPI
+"2024-09-14",September,Electronics,10,61.0,Net Banking
+"2024-09-14",September,Sports,5,184.0,UPI
+"2024-09-14",September,Toys,0,185.0,Cash on Delivery
+"2024-09-14",September,Toys,10,361.0,Debit Card
+"2024-09-14",September,Toys,20,206.0,Net Banking
+"2024-09-15",September,Beauty,10,244.0,Cash on Delivery
+"2024-09-15",September,Books,50,22.0,Cash on Delivery
+"2024-09-15",September,Clothing,10,405.0,Cash on Delivery
+"2024-09-15",September,Home & Kitchen,80,285.0,Debit Card
+"2024-09-15",September,Home & Kitchen,30,142.0,Net Banking
+"2024-09-15",September,Sports,20,66.0,Credit Card
+"2024-09-15",September,Sports,50,36.0,Debit Card
+"2024-09-15",September,Toys,5,216.0,Net Banking
+"2024-09-15",September,Toys,5,61.0,UPI
+"2024-09-16",September,Beauty,0,237.0,Cash on Delivery
+"2024-09-16",September,Beauty,10,346.0,UPI
+"2024-09-16",September,Books,15,123.0,Credit Card
+"2024-09-16",September,Books,15,64.0,Net Banking
+"2024-09-16",September,Books,50,33.0,UPI
+"2024-09-16",September,Clothing,15,383.0,Cash on Delivery
+"2024-09-16",September,Clothing,15,852.0,Debit Card
+"2024-09-16",September,Clothing,10,205.0,UPI
+"2024-09-16",September,Electronics,0,422.0,Net Banking
+"2024-09-16",September,Electronics,15,401.0,UPI
+"2024-09-16",September,Home & Kitchen,30,243.0,Debit Card
+"2024-09-16",September,Home & Kitchen,0,54.0,UPI
+"2024-09-16",September,Sports,30,158.0,Cash on Delivery
+"2024-09-16",September,Toys,30,40.0,Credit Card
+"2024-09-17",September,Beauty,25,34.0,Debit Card
+"2024-09-17",September,Books,15,209.0,Cash on Delivery
+"2024-09-17",September,Books,20,309.0,Debit Card
+"2024-09-17",September,Books,65,160.0,Net Banking
+"2024-09-17",September,Clothing,25,303.0,UPI
+"2024-09-17",September,Electronics,15,200.0,Credit Card
+"2024-09-17",September,Electronics,50,26.0,Debit Card
+"2024-09-17",September,Home & Kitchen,5,316.0,UPI
+"2024-09-17",September,Sports,0,418.0,Credit Card
+"2024-09-17",September,Sports,10,317.0,Net Banking
+"2024-09-18",September,Beauty,10,394.0,Cash on Delivery
+"2024-09-18",September,Books,15,390.0,Net Banking
+"2024-09-18",September,Clothing,15,28.0,UPI
+"2024-09-18",September,Electronics,15,278.0,Net Banking
+"2024-09-18",September,Home & Kitchen,20,175.0,UPI
+"2024-09-19",September,Beauty,5,18.0,Debit Card
+"2024-09-19",September,Books,20,358.0,Credit Card
+"2024-09-19",September,Books,25,291.0,Net Banking
+"2024-09-19",September,Clothing,5,354.0,Cash on Delivery
+"2024-09-19",September,Electronics,0,125.0,Cash on Delivery
+"2024-09-19",September,Home & Kitchen,50,64.0,Cash on Delivery
+"2024-09-19",September,Home & Kitchen,5,418.0,Debit Card
+"2024-09-19",September,Home & Kitchen,25,21.0,UPI
+"2024-09-19",September,Sports,5,331.0,UPI
+"2024-09-19",September,Toys,10,426.0,Cash on Delivery
+"2024-09-20",September,Beauty,10,297.0,Debit Card
+"2024-09-20",September,Beauty,5,89.0,Net Banking
+"2024-09-20",September,Books,15,362.0,Cash on Delivery
+"2024-09-20",September,Clothing,25,165.0,Credit Card
+"2024-09-20",September,Electronics,20,317.0,Cash on Delivery
+"2024-09-20",September,Home & Kitchen,20,22.0,UPI
+"2024-09-20",September,Sports,30,28.0,Debit Card
+"2024-09-20",September,Toys,20,275.0,Credit Card
+"2024-09-20",September,Toys,0,423.0,Debit Card
+"2024-09-20",September,Toys,5,248.0,Net Banking
+"2024-09-21",September,Beauty,5,449.0,Debit Card
+"2024-09-21",September,Beauty,15,12.0,Net Banking
+"2024-09-21",September,Books,30,197.0,Net Banking
+"2024-09-21",September,Books,10,393.0,UPI
+"2024-09-21",September,Clothing,30,72.0,Debit Card
+"2024-09-21",September,Electronics,25,240.0,UPI
+"2024-09-21",September,Home & Kitchen,20,76.0,Cash on Delivery
+"2024-09-21",September,Sports,10,221.0,Debit Card
+"2024-09-22",September,Beauty,30,287.0,Debit Card
+"2024-09-22",September,Beauty,15,153.0,Net Banking
+"2024-09-22",September,Beauty,50,43.0,UPI
+"2024-09-22",September,Books,25,254.0,Cash on Delivery
+"2024-09-22",September,Books,25,101.0,Credit Card
+"2024-09-22",September,Clothing,10,132.0,Cash on Delivery
+"2024-09-22",September,Clothing,10,151.0,Net Banking
+"2024-09-22",September,Electronics,5,237.0,Cash on Delivery
+"2024-09-22",September,Electronics,50,84.0,UPI
+"2024-09-22",September,Home & Kitchen,15,33.0,Credit Card
+"2024-09-22",September,Home & Kitchen,5,350.0,Net Banking
+"2024-09-22",September,Sports,15,453.0,UPI
+"2024-09-22",September,Toys,15,422.0,Net Banking
+"2024-09-23",September,Beauty,5,453.0,Credit Card
+"2024-09-23",September,Beauty,50,215.0,Debit Card
+"2024-09-23",September,Beauty,15,307.0,UPI
+"2024-09-23",September,Books,20,310.0,Credit Card
+"2024-09-23",September,Books,50,181.0,Net Banking
+"2024-09-23",September,Clothing,0,167.0,Debit Card
+"2024-09-23",September,Clothing,55,283.0,Net Banking
+"2024-09-23",September,Electronics,40,400.0,Credit Card
+"2024-09-23",September,Home & Kitchen,5,193.0,Debit Card
+"2024-09-23",September,Home & Kitchen,30,331.0,Net Banking
+"2024-09-23",September,Sports,10,76.0,Cash on Delivery
+"2024-09-23",September,Sports,25,215.0,Credit Card
+"2024-09-23",September,Sports,30,253.0,Debit Card
+"2024-09-23",September,Toys,10,359.0,Debit Card
+"2024-09-23",September,Toys,0,437.0,UPI
+"2024-09-24",September,Beauty,0,175.0,Credit Card
+"2024-09-24",September,Books,15,355.0,Debit Card
+"2024-09-24",September,Books,50,107.0,UPI
+"2024-09-24",September,Clothing,30,183.0,Cash on Delivery
+"2024-09-24",September,Clothing,5,104.0,Credit Card
+"2024-09-24",September,Electronics,45,279.0,UPI
+"2024-09-24",September,Home & Kitchen,15,717.0,Cash on Delivery
+"2024-09-24",September,Home & Kitchen,0,181.0,UPI
+"2024-09-24",September,Sports,50,220.0,Net Banking
+"2024-09-24",September,Toys,50,71.0,Credit Card
+"2024-09-24",September,Toys,20,300.0,Net Banking
+"2024-09-25",September,Beauty,10,67.0,Credit Card
+"2024-09-25",September,Beauty,15,393.0,Debit Card
+"2024-09-25",September,Beauty,5,433.0,UPI
+"2024-09-25",September,Books,15,408.0,UPI
+"2024-09-25",September,Clothing,10,194.0,Cash on Delivery
+"2024-09-25",September,Home & Kitchen,50,79.0,Debit Card
+"2024-09-25",September,Toys,15,63.0,Credit Card
+"2024-09-26",September,Beauty,10,62.0,Cash on Delivery
+"2024-09-26",September,Beauty,0,198.0,Net Banking
+"2024-09-26",September,Books,5,349.0,Net Banking
+"2024-09-26",September,Books,50,417.0,UPI
+"2024-09-26",September,Home & Kitchen,5,311.0,Net Banking
+"2024-09-26",September,Sports,5,391.0,Credit Card
+"2024-09-26",September,Toys,15,38.0,Net Banking
+"2024-09-26",September,Toys,30,213.0,UPI
+"2024-09-27",September,Beauty,30,304.0,Net Banking
+"2024-09-27",September,Books,75,559.0,Credit Card
+"2024-09-27",September,Books,15,168.0,Net Banking
+"2024-09-27",September,Electronics,5,151.0,Net Banking
+"2024-09-27",September,Home & Kitchen,25,133.0,Cash on Delivery
+"2024-09-27",September,Home & Kitchen,15,297.0,Credit Card
+"2024-09-27",September,Sports,0,302.0,Cash on Delivery
+"2024-09-27",September,Sports,0,185.0,Credit Card
+"2024-09-27",September,Toys,0,141.0,Credit Card
+"2024-09-27",September,Toys,25,206.0,Net Banking
+"2024-09-28",September,Books,30,211.0,Net Banking
+"2024-09-28",September,Clothing,20,94.0,Cash on Delivery
+"2024-09-28",September,Clothing,10,296.0,Credit Card
+"2024-09-28",September,Home & Kitchen,5,239.0,Debit Card
+"2024-09-28",September,Home & Kitchen,50,67.0,UPI
+"2024-09-28",September,Sports,20,216.0,Net Banking
+"2024-09-28",September,Toys,20,67.0,Credit Card
+"2024-09-29",September,Books,5,30.0,Cash on Delivery
+"2024-09-29",September,Clothing,15,389.0,Cash on Delivery
+"2024-09-29",September,Clothing,0,14.0,Debit Card
+"2024-09-29",September,Electronics,30,182.0,Cash on Delivery
+"2024-09-29",September,Electronics,30,9.0,UPI
+"2024-09-29",September,Home & Kitchen,25,271.0,Cash on Delivery
+"2024-09-29",September,Home & Kitchen,15,230.0,Credit Card
+"2024-09-29",September,Home & Kitchen,55,378.0,UPI
+"2024-09-29",September,Sports,20,207.0,Debit Card
+"2024-09-29",September,Toys,5,234.0,Credit Card
+"2024-09-29",September,Toys,35,403.0,Debit Card
+"2024-09-30",September,Beauty,20,187.0,Debit Card
+"2024-09-30",September,Books,15,109.0,Debit Card
+"2024-09-30",September,Books,5,71.0,UPI
+"2024-09-30",September,Clothing,20,263.0,Cash on Delivery
+"2024-09-30",September,Clothing,50,28.0,Debit Card
+"2024-09-30",September,Electronics,25,199.0,UPI
+"2024-09-30",September,Home & Kitchen,20,729.0,Cash on Delivery
+"2024-09-30",September,Home & Kitchen,10,327.0,Debit Card
+"2024-09-30",September,Toys,50,7.0,Net Banking
+"2024-09-30",September,Toys,0,55.0,UPI
+"2024-10-01",Oktober,Beauty,50,24.0,Cash on Delivery
+"2024-10-01",Oktober,Books,30,129.0,Debit Card
+"2024-10-01",Oktober,Clothing,15,265.0,Net Banking
+"2024-10-01",Oktober,Electronics,10,73.0,Credit Card
+"2024-10-01",Oktober,Electronics,20,81.0,Debit Card
+"2024-10-01",Oktober,Electronics,15,231.0,UPI
+"2024-10-01",Oktober,Home & Kitchen,15,362.0,Net Banking
+"2024-10-01",Oktober,Sports,5,43.0,Credit Card
+"2024-10-01",Oktober,Toys,10,390.0,Cash on Delivery
+"2024-10-01",Oktober,Toys,10,438.0,Debit Card
+"2024-10-01",Oktober,Toys,10,242.0,UPI
+"2024-10-02",Oktober,Beauty,5,216.0,Net Banking
+"2024-10-02",Oktober,Books,20,387.0,Cash on Delivery
+"2024-10-02",Oktober,Books,50,462.0,Net Banking
+"2024-10-02",Oktober,Clothing,30,37.0,Debit Card
+"2024-10-02",Oktober,Electronics,15,237.0,Credit Card
+"2024-10-02",Oktober,Electronics,10,436.0,Net Banking
+"2024-10-02",Oktober,Home & Kitchen,30,229.0,Credit Card
+"2024-10-02",Oktober,Home & Kitchen,0,465.0,Net Banking
+"2024-10-02",Oktober,Home & Kitchen,0,430.0,UPI
+"2024-10-02",Oktober,Sports,30,82.0,Cash on Delivery
+"2024-10-02",Oktober,Toys,80,252.0,Credit Card
+"2024-10-02",Oktober,Toys,5,434.0,Net Banking
+"2024-10-03",Oktober,Books,30,83.0,Debit Card
+"2024-10-03",Oktober,Clothing,30,245.0,Credit Card
+"2024-10-03",Oktober,Electronics,90,512.0,Cash on Delivery
+"2024-10-03",Oktober,Electronics,15,396.0,Net Banking
+"2024-10-03",Oktober,Home & Kitchen,20,303.0,Net Banking
+"2024-10-03",Oktober,Sports,50,360.0,Debit Card
+"2024-10-04",Oktober,Beauty,15,269.0,Net Banking
+"2024-10-04",Oktober,Books,25,73.0,UPI
+"2024-10-04",Oktober,Clothing,5,435.0,Cash on Delivery
+"2024-10-04",Oktober,Clothing,20,182.0,Credit Card
+"2024-10-04",Oktober,Clothing,50,232.0,Net Banking
+"2024-10-04",Oktober,Clothing,15,115.0,UPI
+"2024-10-04",Oktober,Home & Kitchen,65,43.0,Debit Card
+"2024-10-04",Oktober,Home & Kitchen,40,302.0,UPI
+"2024-10-04",Oktober,Sports,20,650.0,Debit Card
+"2024-10-04",Oktober,Toys,40,370.0,Credit Card
+"2024-10-05",Oktober,Beauty,25,310.0,Cash on Delivery
+"2024-10-05",Oktober,Beauty,50,187.0,UPI
+"2024-10-05",Oktober,Books,15,324.0,Cash on Delivery
+"2024-10-05",Oktober,Books,10,162.0,Credit Card
+"2024-10-05",Oktober,Books,15,118.0,UPI
+"2024-10-05",Oktober,Clothing,20,157.0,Credit Card
+"2024-10-05",Oktober,Clothing,15,387.0,Net Banking
+"2024-10-05",Oktober,Electronics,15,180.0,Cash on Delivery
+"2024-10-05",Oktober,Electronics,0,205.0,UPI
+"2024-10-05",Oktober,Home & Kitchen,45,501.0,Credit Card
+"2024-10-05",Oktober,Home & Kitchen,20,44.0,UPI
+"2024-10-05",Oktober,Toys,50,121.0,Net Banking
+"2024-10-06",Oktober,Beauty,30,44.0,Net Banking
+"2024-10-06",Oktober,Beauty,25,72.0,UPI
+"2024-10-06",Oktober,Books,5,305.0,Debit Card
+"2024-10-06",Oktober,Clothing,20,369.0,Credit Card
+"2024-10-06",Oktober,Clothing,15,401.0,UPI
+"2024-10-06",Oktober,Electronics,20,330.0,Debit Card
+"2024-10-06",Oktober,Sports,15,62.0,Credit Card
+"2024-10-06",Oktober,Sports,50,198.0,Net Banking
+"2024-10-06",Oktober,Toys,30,123.0,Credit Card
+"2024-10-06",Oktober,Toys,20,80.0,UPI
+"2024-10-07",Oktober,Beauty,10,343.0,Debit Card
+"2024-10-07",Oktober,Beauty,10,128.0,UPI
+"2024-10-07",Oktober,Books,50,151.0,UPI
+"2024-10-07",Oktober,Clothing,30,48.0,UPI
+"2024-10-07",Oktober,Electronics,0,336.0,Cash on Delivery
+"2024-10-07",Oktober,Electronics,40,548.0,Credit Card
+"2024-10-07",Oktober,Electronics,15,110.0,Net Banking
+"2024-10-07",Oktober,Home & Kitchen,20,22.0,Credit Card
+"2024-10-07",Oktober,Home & Kitchen,30,377.0,UPI
+"2024-10-07",Oktober,Sports,5,196.0,Credit Card
+"2024-10-07",Oktober,Sports,50,240.0,Debit Card
+"2024-10-07",Oktober,Toys,20,266.0,UPI
+"2024-10-08",Oktober,Beauty,20,111.0,Credit Card
+"2024-10-08",Oktober,Beauty,30,157.0,Debit Card
+"2024-10-08",Oktober,Beauty,30,317.0,UPI
+"2024-10-08",Oktober,Books,15,327.0,Debit Card
+"2024-10-08",Oktober,Books,50,77.0,Net Banking
+"2024-10-08",Oktober,Clothing,0,44.0,Credit Card
+"2024-10-08",Oktober,Electronics,5,226.0,Cash on Delivery
+"2024-10-08",Oktober,Electronics,0,33.0,Credit Card
+"2024-10-08",Oktober,Toys,15,294.0,Debit Card
+"2024-10-09",Oktober,Books,25,331.0,Net Banking
+"2024-10-09",Oktober,Books,20,328.0,UPI
+"2024-10-09",Oktober,Clothing,0,215.0,Net Banking
+"2024-10-09",Oktober,Home & Kitchen,30,188.0,UPI
+"2024-10-09",Oktober,Sports,0,251.0,Cash on Delivery
+"2024-10-09",Oktober,Toys,50,76.0,Debit Card
+"2024-10-10",Oktober,Books,30,66.0,Cash on Delivery
+"2024-10-10",Oktober,Books,30,317.0,Credit Card
+"2024-10-10",Oktober,Books,20,118.0,Debit Card
+"2024-10-10",Oktober,Books,30,267.0,Net Banking
+"2024-10-10",Oktober,Clothing,20,93.0,UPI
+"2024-10-10",Oktober,Electronics,10,97.0,Credit Card
+"2024-10-10",Oktober,Home & Kitchen,5,282.0,Debit Card
+"2024-10-10",Oktober,Sports,20,19.0,Cash on Delivery
+"2024-10-10",Oktober,Sports,40,197.0,Credit Card
+"2024-10-10",Oktober,Sports,65,516.0,Debit Card
+"2024-10-11",Oktober,Beauty,0,126.0,UPI
+"2024-10-11",Oktober,Books,50,16.0,Credit Card
+"2024-10-11",Oktober,Books,30,259.0,Debit Card
+"2024-10-11",Oktober,Books,50,201.0,Net Banking
+"2024-10-11",Oktober,Clothing,30,278.0,Cash on Delivery
+"2024-10-11",Oktober,Clothing,20,168.0,Credit Card
+"2024-10-11",Oktober,Clothing,50,219.0,UPI
+"2024-10-11",Oktober,Electronics,0,418.0,Credit Card
+"2024-10-11",Oktober,Electronics,10,667.0,UPI
+"2024-10-11",Oktober,Home & Kitchen,50,26.0,Debit Card
+"2024-10-11",Oktober,Home & Kitchen,15,47.0,UPI
+"2024-10-11",Oktober,Sports,50,225.0,Credit Card
+"2024-10-11",Oktober,Sports,15,287.0,UPI
+"2024-10-11",Oktober,Toys,15,45.0,Net Banking
+"2024-10-11",Oktober,Toys,30,315.0,UPI
+"2024-10-12",Oktober,Beauty,30,46.0,Cash on Delivery
+"2024-10-12",Oktober,Beauty,35,455.0,UPI
+"2024-10-12",Oktober,Books,50,29.0,Debit Card
+"2024-10-12",Oktober,Electronics,10,635.0,Debit Card
+"2024-10-12",Oktober,Home & Kitchen,15,200.0,UPI
+"2024-10-12",Oktober,Sports,10,288.0,Credit Card
+"2024-10-12",Oktober,Sports,50,62.0,UPI
+"2024-10-12",Oktober,Toys,10,206.0,Credit Card
+"2024-10-13",Oktober,Beauty,0,293.0,Debit Card
+"2024-10-13",Oktober,Beauty,40,352.0,Net Banking
+"2024-10-13",Oktober,Beauty,5,333.0,UPI
+"2024-10-13",Oktober,Books,50,356.0,Debit Card
+"2024-10-13",Oktober,Books,0,162.0,Net Banking
+"2024-10-13",Oktober,Clothing,30,332.0,Credit Card
+"2024-10-13",Oktober,Clothing,20,131.0,Debit Card
+"2024-10-13",Oktober,Clothing,0,32.0,UPI
+"2024-10-13",Oktober,Toys,5,26.0,Cash on Delivery
+"2024-10-13",Oktober,Toys,5,209.0,Credit Card
+"2024-10-14",Oktober,Beauty,35,606.0,Net Banking
+"2024-10-14",Oktober,Beauty,10,445.0,UPI
+"2024-10-14",Oktober,Books,30,343.0,Cash on Delivery
+"2024-10-14",Oktober,Books,20,322.0,Debit Card
+"2024-10-14",Oktober,Books,15,281.0,Net Banking
+"2024-10-14",Oktober,Books,0,324.0,UPI
+"2024-10-14",Oktober,Clothing,30,195.0,Credit Card
+"2024-10-14",Oktober,Electronics,20,198.0,Cash on Delivery
+"2024-10-14",Oktober,Home & Kitchen,10,155.0,Cash on Delivery
+"2024-10-14",Oktober,Home & Kitchen,50,141.0,UPI
+"2024-10-14",Oktober,Sports,10,97.0,UPI
+"2024-10-14",Oktober,Toys,30,183.0,Net Banking
+"2024-10-15",Oktober,Beauty,0,206.0,Cash on Delivery
+"2024-10-15",Oktober,Beauty,20,47.0,Credit Card
+"2024-10-15",Oktober,Books,40,462.0,Credit Card
+"2024-10-15",Oktober,Books,55,496.0,Debit Card
+"2024-10-15",Oktober,Books,5,424.0,UPI
+"2024-10-15",Oktober,Clothing,10,305.0,Credit Card
+"2024-10-15",Oktober,Electronics,15,237.0,Debit Card
+"2024-10-15",Oktober,Electronics,5,83.0,UPI
+"2024-10-15",Oktober,Home & Kitchen,25,269.0,Debit Card
+"2024-10-16",Oktober,Beauty,50,142.0,Debit Card
+"2024-10-16",Oktober,Clothing,5,80.0,Cash on Delivery
+"2024-10-16",Oktober,Clothing,35,444.0,UPI
+"2024-10-16",Oktober,Electronics,10,225.0,UPI
+"2024-10-16",Oktober,Home & Kitchen,5,10.0,Credit Card
+"2024-10-16",Oktober,Home & Kitchen,5,142.0,UPI
+"2024-10-16",Oktober,Sports,5,45.0,Debit Card
+"2024-10-16",Oktober,Sports,50,23.0,Net Banking
+"2024-10-16",Oktober,Toys,30,155.0,UPI
+"2024-10-17",Oktober,Beauty,10,324.0,Credit Card
+"2024-10-17",Oktober,Books,10,37.0,Cash on Delivery
+"2024-10-17",Oktober,Clothing,15,330.0,Cash on Delivery
+"2024-10-17",Oktober,Clothing,0,395.0,Credit Card
+"2024-10-17",Oktober,Clothing,0,448.0,Debit Card
+"2024-10-17",Oktober,Clothing,30,230.0,Net Banking
+"2024-10-17",Oktober,Electronics,15,569.0,Credit Card
+"2024-10-17",Oktober,Electronics,10,13.0,Debit Card
+"2024-10-17",Oktober,Electronics,25,182.0,Net Banking
+"2024-10-17",Oktober,Home & Kitchen,45,260.0,Credit Card
+"2024-10-17",Oktober,Sports,0,116.0,Net Banking
+"2024-10-17",Oktober,Toys,10,284.0,Credit Card
+"2024-10-17",Oktober,Toys,15,68.0,Debit Card
+"2024-10-17",Oktober,Toys,50,46.0,Net Banking
+"2024-10-18",Oktober,Beauty,80,317.0,UPI
+"2024-10-18",Oktober,Books,0,184.0,Debit Card
+"2024-10-18",Oktober,Clothing,10,395.0,Cash on Delivery
+"2024-10-18",Oktober,Clothing,0,117.0,Net Banking
+"2024-10-18",Oktober,Electronics,20,512.0,Credit Card
+"2024-10-18",Oktober,Electronics,15,266.0,Debit Card
+"2024-10-18",Oktober,Home & Kitchen,15,127.0,Cash on Delivery
+"2024-10-18",Oktober,Home & Kitchen,10,13.0,Net Banking
+"2024-10-18",Oktober,Sports,25,14.0,Cash on Delivery
+"2024-10-18",Oktober,Toys,100,378.0,Debit Card
+"2024-10-19",Oktober,Beauty,50,90.0,Cash on Delivery
+"2024-10-19",Oktober,Books,30,200.0,Net Banking
+"2024-10-19",Oktober,Electronics,75,470.0,Cash on Delivery
+"2024-10-19",Oktober,Electronics,15,250.0,Net Banking
+"2024-10-19",Oktober,Home & Kitchen,10,275.0,Cash on Delivery
+"2024-10-19",Oktober,Sports,5,350.0,Debit Card
+"2024-10-19",Oktober,Toys,5,446.0,Cash on Delivery
+"2024-10-19",Oktober,Toys,5,13.0,Debit Card
+"2024-10-19",Oktober,Toys,50,95.0,Net Banking
+"2024-10-20",Oktober,Beauty,10,190.0,Credit Card
+"2024-10-20",Oktober,Books,10,297.0,Cash on Delivery
+"2024-10-20",Oktober,Clothing,15,113.0,Cash on Delivery
+"2024-10-20",Oktober,Clothing,25,272.0,Credit Card
+"2024-10-20",Oktober,Clothing,15,422.0,Debit Card
+"2024-10-20",Oktober,Clothing,10,225.0,Net Banking
+"2024-10-20",Oktober,Electronics,15,16.0,Cash on Delivery
+"2024-10-20",Oktober,Electronics,25,285.0,Debit Card
+"2024-10-20",Oktober,Electronics,50,71.0,UPI
+"2024-10-20",Oktober,Home & Kitchen,30,349.0,Cash on Delivery
+"2024-10-20",Oktober,Sports,50,66.0,Debit Card
+"2024-10-20",Oktober,Toys,30,32.0,Credit Card
+"2024-10-21",Oktober,Beauty,30,201.0,Credit Card
+"2024-10-21",Oktober,Beauty,0,197.0,Debit Card
+"2024-10-21",Oktober,Books,10,66.0,Cash on Delivery
+"2024-10-21",Oktober,Books,0,458.0,UPI
+"2024-10-21",Oktober,Electronics,30,335.0,Debit Card
+"2024-10-21",Oktober,Home & Kitchen,0,69.0,Debit Card
+"2024-10-21",Oktober,Home & Kitchen,0,443.0,Net Banking
+"2024-10-21",Oktober,Sports,0,526.0,UPI
+"2024-10-21",Oktober,Toys,25,112.0,Credit Card
+"2024-10-21",Oktober,Toys,50,591.0,UPI
+"2024-10-22",Oktober,Beauty,25,313.0,Net Banking
+"2024-10-22",Oktober,Books,10,153.0,Cash on Delivery
+"2024-10-22",Oktober,Books,15,202.0,Net Banking
+"2024-10-22",Oktober,Electronics,0,146.0,Credit Card
+"2024-10-22",Oktober,Electronics,65,225.0,Debit Card
+"2024-10-22",Oktober,Home & Kitchen,30,334.0,UPI
+"2024-10-22",Oktober,Toys,20,241.0,Debit Card
+"2024-10-22",Oktober,Toys,10,458.0,UPI
+"2024-10-23",Oktober,Beauty,20,191.0,Credit Card
+"2024-10-23",Oktober,Books,15,365.0,Cash on Delivery
+"2024-10-23",Oktober,Electronics,40,389.0,Cash on Delivery
+"2024-10-23",Oktober,Home & Kitchen,40,298.0,Net Banking
+"2024-10-23",Oktober,Sports,15,413.0,UPI
+"2024-10-23",Oktober,Toys,25,201.0,UPI
+"2024-10-24",Oktober,Books,50,200.0,Credit Card
+"2024-10-24",Oktober,Books,25,652.0,Net Banking
+"2024-10-24",Oktober,Clothing,20,411.0,Credit Card
+"2024-10-24",Oktober,Electronics,50,91.0,Credit Card
+"2024-10-24",Oktober,Sports,55,1062.0,Debit Card
+"2024-10-24",Oktober,Sports,25,81.0,Net Banking
+"2024-10-25",Oktober,Beauty,45,554.0,Net Banking
+"2024-10-25",Oktober,Beauty,70,156.0,UPI
+"2024-10-25",Oktober,Books,45,395.0,Cash on Delivery
+"2024-10-25",Oktober,Books,15,266.0,Debit Card
+"2024-10-25",Oktober,Books,0,244.0,Net Banking
+"2024-10-25",Oktober,Books,5,161.0,UPI
+"2024-10-25",Oktober,Clothing,15,681.0,Net Banking
+"2024-10-25",Oktober,Clothing,5,293.0,UPI
+"2024-10-25",Oktober,Home & Kitchen,0,207.0,Net Banking
+"2024-10-25",Oktober,Sports,0,379.0,Cash on Delivery
+"2024-10-25",Oktober,Sports,5,333.0,Net Banking
+"2024-10-25",Oktober,Toys,5,241.0,Debit Card
+"2024-10-25",Oktober,Toys,0,477.0,UPI
+"2024-10-26",Oktober,Beauty,0,244.0,Cash on Delivery
+"2024-10-26",Oktober,Beauty,5,56.0,Debit Card
+"2024-10-26",Oktober,Books,50,223.0,Cash on Delivery
+"2024-10-26",Oktober,Books,10,284.0,Debit Card
+"2024-10-26",Oktober,Clothing,20,66.0,Cash on Delivery
+"2024-10-26",Oktober,Clothing,10,207.0,Net Banking
+"2024-10-26",Oktober,Home & Kitchen,5,109.0,Cash on Delivery
+"2024-10-26",Oktober,Home & Kitchen,15,76.0,Credit Card
+"2024-10-26",Oktober,Sports,35,622.0,Debit Card
+"2024-10-26",Oktober,Toys,0,168.0,Debit Card
+"2024-10-26",Oktober,Toys,10,183.0,Net Banking
+"2024-10-26",Oktober,Toys,5,348.0,UPI
+"2024-10-27",Oktober,Beauty,15,221.0,UPI
+"2024-10-27",Oktober,Books,20,373.0,Credit Card
+"2024-10-27",Oktober,Books,10,124.0,Debit Card
+"2024-10-27",Oktober,Clothing,15,370.0,Debit Card
+"2024-10-27",Oktober,Clothing,15,281.0,Net Banking
+"2024-10-27",Oktober,Electronics,50,175.0,UPI
+"2024-10-27",Oktober,Home & Kitchen,15,359.0,Debit Card
+"2024-10-27",Oktober,Home & Kitchen,15,90.0,Net Banking
+"2024-10-27",Oktober,Sports,0,286.0,Net Banking
+"2024-10-27",Oktober,Toys,20,176.0,Cash on Delivery
+"2024-10-27",Oktober,Toys,25,194.0,UPI
+"2024-10-28",Oktober,Beauty,50,197.0,Credit Card
+"2024-10-28",Oktober,Beauty,0,198.0,Debit Card
+"2024-10-28",Oktober,Beauty,5,305.0,UPI
+"2024-10-28",Oktober,Books,15,326.0,Net Banking
+"2024-10-28",Oktober,Books,30,791.0,UPI
+"2024-10-28",Oktober,Clothing,50,71.0,Net Banking
+"2024-10-28",Oktober,Home & Kitchen,30,105.0,Net Banking
+"2024-10-28",Oktober,Toys,50,116.0,Credit Card
+"2024-10-29",Oktober,Books,10,445.0,Credit Card
+"2024-10-29",Oktober,Books,60,544.0,UPI
+"2024-10-29",Oktober,Clothing,5,403.0,Cash on Delivery
+"2024-10-29",Oktober,Clothing,25,167.0,Debit Card
+"2024-10-29",Oktober,Home & Kitchen,20,196.0,Debit Card
+"2024-10-29",Oktober,Toys,20,311.0,Cash on Delivery
+"2024-10-30",Oktober,Beauty,20,358.0,Cash on Delivery
+"2024-10-30",Oktober,Books,0,69.0,Debit Card
+"2024-10-30",Oktober,Books,25,295.0,Net Banking
+"2024-10-30",Oktober,Electronics,10,200.0,Credit Card
+"2024-10-30",Oktober,Electronics,30,120.0,Debit Card
+"2024-10-30",Oktober,Electronics,50,204.0,UPI
+"2024-10-30",Oktober,Home & Kitchen,10,379.0,UPI
+"2024-10-30",Oktober,Sports,30,68.0,Credit Card
+"2024-10-30",Oktober,Sports,10,386.0,UPI
+"2024-10-31",Oktober,Beauty,15,154.0,Debit Card
+"2024-10-31",Oktober,Beauty,65,483.0,Net Banking
+"2024-10-31",Oktober,Books,50,215.0,Credit Card
+"2024-10-31",Oktober,Clothing,5,385.0,Cash on Delivery
+"2024-10-31",Oktober,Clothing,10,300.0,Credit Card
+"2024-10-31",Oktober,Electronics,75,599.0,UPI
+"2024-10-31",Oktober,Home & Kitchen,10,425.0,Cash on Delivery
+"2024-10-31",Oktober,Home & Kitchen,20,388.0,UPI
+"2024-10-31",Oktober,Sports,20,189.0,Net Banking
+"2024-11-01",November,Beauty,50,57.0,UPI
+"2024-11-01",November,Books,20,45.0,Cash on Delivery
+"2024-11-01",November,Clothing,5,416.0,Net Banking
+"2024-11-01",November,Clothing,0,247.0,UPI
+"2024-11-01",November,Home & Kitchen,30,236.0,Debit Card
+"2024-11-01",November,Sports,15,152.0,Net Banking
+"2024-11-01",November,Sports,30,339.0,UPI
+"2024-11-01",November,Toys,25,84.0,Cash on Delivery
+"2024-11-01",November,Toys,0,443.0,Credit Card
+"2024-11-02",November,Beauty,40,426.0,Cash on Delivery
+"2024-11-02",November,Books,15,195.0,Cash on Delivery
+"2024-11-02",November,Books,20,388.0,Credit Card
+"2024-11-02",November,Books,35,542.0,Debit Card
+"2024-11-02",November,Books,10,355.0,Net Banking
+"2024-11-02",November,Clothing,20,84.0,Cash on Delivery
+"2024-11-02",November,Home & Kitchen,5,15.0,Credit Card
+"2024-11-02",November,Home & Kitchen,15,117.0,Debit Card
+"2024-11-02",November,Sports,10,45.0,Credit Card
+"2024-11-02",November,Toys,25,85.0,UPI
+"2024-11-03",November,Beauty,50,241.0,Credit Card
+"2024-11-03",November,Beauty,0,17.0,Debit Card
+"2024-11-03",November,Beauty,55,299.0,UPI
+"2024-11-03",November,Books,25,334.0,Cash on Delivery
+"2024-11-03",November,Books,0,95.0,Debit Card
+"2024-11-03",November,Books,40,520.0,Net Banking
+"2024-11-03",November,Electronics,5,255.0,Cash on Delivery
+"2024-11-03",November,Electronics,25,128.0,Credit Card
+"2024-11-03",November,Toys,10,313.0,Debit Card
+"2024-11-03",November,Toys,5,383.0,UPI
+"2024-11-04",November,Beauty,0,347.0,Cash on Delivery
+"2024-11-04",November,Beauty,15,301.0,Debit Card
+"2024-11-04",November,Beauty,5,469.0,UPI
+"2024-11-04",November,Books,5,467.0,Debit Card
+"2024-11-04",November,Home & Kitchen,25,203.0,Cash on Delivery
+"2024-11-04",November,Home & Kitchen,25,132.0,Credit Card
+"2024-11-04",November,Home & Kitchen,0,258.0,Debit Card
+"2024-11-04",November,Home & Kitchen,25,337.0,UPI
+"2024-11-04",November,Sports,25,100.0,UPI
+"2024-11-04",November,Toys,30,266.0,Credit Card
+"2024-11-05",November,Books,0,124.0,Credit Card
+"2024-11-05",November,Books,10,88.0,Net Banking
+"2024-11-05",November,Books,50,247.0,UPI
+"2024-11-05",November,Electronics,0,442.0,Net Banking
+"2024-11-05",November,Home & Kitchen,25,315.0,Credit Card
+"2024-11-05",November,Home & Kitchen,25,361.0,Net Banking
+"2024-11-05",November,Sports,40,48.0,Credit Card
+"2024-11-05",November,Sports,25,204.0,Debit Card
+"2024-11-05",November,Toys,15,417.0,Cash on Delivery
+"2024-11-05",November,Toys,5,893.0,Debit Card
+"2024-11-06",November,Beauty,10,656.0,Cash on Delivery
+"2024-11-06",November,Beauty,10,180.0,Credit Card
+"2024-11-06",November,Books,50,6.0,UPI
+"2024-11-06",November,Clothing,25,248.0,Cash on Delivery
+"2024-11-06",November,Electronics,0,288.0,Debit Card
+"2024-11-06",November,Sports,50,69.0,Credit Card
+"2024-11-06",November,Toys,0,170.0,Net Banking
+"2024-11-07",November,Books,15,336.0,Cash on Delivery
+"2024-11-07",November,Clothing,25,401.0,Credit Card
+"2024-11-07",November,Electronics,15,285.0,Cash on Delivery
+"2024-11-07",November,Electronics,5,428.0,Debit Card
+"2024-11-07",November,Electronics,50,184.0,Net Banking
+"2024-11-07",November,Sports,15,692.0,Cash on Delivery
+"2024-11-07",November,Toys,10,319.0,Debit Card
+"2024-11-08",November,Beauty,20,289.0,Cash on Delivery
+"2024-11-08",November,Books,30,155.0,Cash on Delivery
+"2024-11-08",November,Books,0,72.0,Net Banking
+"2024-11-08",November,Books,50,76.0,UPI
+"2024-11-08",November,Clothing,25,97.0,Cash on Delivery
+"2024-11-08",November,Clothing,45,509.0,Debit Card
+"2024-11-08",November,Electronics,50,118.0,Cash on Delivery
+"2024-11-08",November,Home & Kitchen,25,321.0,Debit Card
+"2024-11-08",November,Sports,20,350.0,Cash on Delivery
+"2024-11-08",November,Sports,20,220.0,Debit Card
+"2024-11-08",November,Toys,0,337.0,Debit Card
+"2024-11-09",November,Beauty,45,484.0,Cash on Delivery
+"2024-11-09",November,Beauty,0,121.0,Debit Card
+"2024-11-09",November,Books,30,108.0,UPI
+"2024-11-09",November,Home & Kitchen,15,114.0,Net Banking
+"2024-11-09",November,Sports,60,575.0,Credit Card
+"2024-11-09",November,Sports,25,763.0,Debit Card
+"2024-11-09",November,Toys,50,182.0,Cash on Delivery
+"2024-11-09",November,Toys,25,175.0,Debit Card
+"2024-11-09",November,Toys,5,125.0,Net Banking
+"2024-11-10",November,Beauty,20,66.0,Credit Card
+"2024-11-10",November,Books,15,145.0,Cash on Delivery
+"2024-11-10",November,Clothing,30,114.0,Credit Card
+"2024-11-10",November,Clothing,15,277.0,Debit Card
+"2024-11-10",November,Electronics,15,273.0,Credit Card
+"2024-11-10",November,Home & Kitchen,50,160.0,Credit Card
+"2024-11-10",November,Home & Kitchen,50,132.0,Debit Card
+"2024-11-10",November,Sports,25,93.0,Credit Card
+"2024-11-10",November,Sports,35,410.0,Net Banking
+"2024-11-11",November,Beauty,30,185.0,Credit Card
+"2024-11-11",November,Beauty,20,269.0,Net Banking
+"2024-11-11",November,Beauty,15,79.0,UPI
+"2024-11-11",November,Clothing,10,298.0,Debit Card
+"2024-11-11",November,Clothing,10,426.0,UPI
+"2024-11-11",November,Home & Kitchen,10,259.0,Cash on Delivery
+"2024-11-11",November,Home & Kitchen,30,122.0,Net Banking
+"2024-11-11",November,Sports,30,219.0,Debit Card
+"2024-11-11",November,Toys,10,162.0,Credit Card
+"2024-11-11",November,Toys,15,239.0,Debit Card
+"2024-11-12",November,Books,25,226.0,UPI
+"2024-11-12",November,Clothing,10,150.0,Cash on Delivery
+"2024-11-12",November,Clothing,20,33.0,Debit Card
+"2024-11-12",November,Clothing,45,378.0,UPI
+"2024-11-12",November,Electronics,10,31.0,Cash on Delivery
+"2024-11-12",November,Electronics,65,424.0,Net Banking
+"2024-11-12",November,Home & Kitchen,25,179.0,Cash on Delivery
+"2024-11-12",November,Home & Kitchen,30,268.0,Credit Card
+"2024-11-12",November,Home & Kitchen,60,404.0,Debit Card
+"2024-11-12",November,Sports,50,201.0,Credit Card
+"2024-11-12",November,Sports,15,31.0,Net Banking
+"2024-11-12",November,Sports,55,202.0,UPI
+"2024-11-12",November,Toys,0,182.0,Credit Card
+"2024-11-13",November,Beauty,50,22.0,Credit Card
+"2024-11-13",November,Beauty,15,211.0,Net Banking
+"2024-11-13",November,Beauty,20,12.0,UPI
+"2024-11-13",November,Books,0,237.0,Cash on Delivery
+"2024-11-13",November,Books,50,129.0,Credit Card
+"2024-11-13",November,Books,25,383.0,Debit Card
+"2024-11-13",November,Books,5,318.0,Net Banking
+"2024-11-13",November,Books,25,23.0,UPI
+"2024-11-13",November,Clothing,10,136.0,Net Banking
+"2024-11-13",November,Home & Kitchen,20,209.0,Cash on Delivery
+"2024-11-13",November,Home & Kitchen,30,48.0,Net Banking
+"2024-11-13",November,Sports,0,23.0,Cash on Delivery
+"2024-11-13",November,Sports,50,222.0,Credit Card
+"2024-11-13",November,Sports,0,348.0,Debit Card
+"2024-11-13",November,Toys,60,494.0,Net Banking
+"2024-11-13",November,Toys,20,185.0,UPI
+"2024-11-14",November,Beauty,20,350.0,Net Banking
+"2024-11-14",November,Beauty,0,266.0,UPI
+"2024-11-14",November,Clothing,15,18.0,Net Banking
+"2024-11-14",November,Home & Kitchen,50,167.0,Cash on Delivery
+"2024-11-14",November,Home & Kitchen,25,370.0,Debit Card
+"2024-11-14",November,Home & Kitchen,25,372.0,Net Banking
+"2024-11-15",November,Beauty,5,94.0,Credit Card
+"2024-11-15",November,Beauty,20,191.0,Debit Card
+"2024-11-15",November,Clothing,5,367.0,Cash on Delivery
+"2024-11-15",November,Clothing,15,26.0,Debit Card
+"2024-11-15",November,Clothing,15,177.0,UPI
+"2024-11-15",November,Electronics,5,277.0,Debit Card
+"2024-11-15",November,Electronics,30,39.0,UPI
+"2024-11-15",November,Sports,15,207.0,UPI
+"2024-11-15",November,Toys,25,134.0,Cash on Delivery
+"2024-11-15",November,Toys,50,86.0,Net Banking
+"2024-11-16",November,Books,80,555.0,Credit Card
+"2024-11-16",November,Books,20,264.0,Net Banking
+"2024-11-16",November,Clothing,40,565.0,Cash on Delivery
+"2024-11-16",November,Clothing,30,319.0,Credit Card
+"2024-11-16",November,Clothing,20,149.0,UPI
+"2024-11-16",November,Electronics,35,528.0,Credit Card
+"2024-11-16",November,Home & Kitchen,30,246.0,Debit Card
+"2024-11-16",November,Sports,0,109.0,Net Banking
+"2024-11-16",November,Toys,50,72.0,Debit Card
+"2024-11-17",November,Beauty,25,256.0,Cash on Delivery
+"2024-11-17",November,Beauty,10,30.0,Credit Card
+"2024-11-17",November,Beauty,5,473.0,Net Banking
+"2024-11-17",November,Books,20,218.0,Cash on Delivery
+"2024-11-17",November,Books,15,265.0,Debit Card
+"2024-11-17",November,Books,15,412.0,Net Banking
+"2024-11-17",November,Clothing,30,791.0,Cash on Delivery
+"2024-11-17",November,Clothing,15,391.0,UPI
+"2024-11-17",November,Electronics,30,313.0,Debit Card
+"2024-11-17",November,Electronics,10,413.0,UPI
+"2024-11-17",November,Sports,45,316.0,Cash on Delivery
+"2024-11-17",November,Toys,60,202.0,Cash on Delivery
+"2024-11-17",November,Toys,25,370.0,Debit Card
+"2024-11-18",November,Books,50,103.0,Net Banking
+"2024-11-18",November,Books,10,291.0,UPI
+"2024-11-18",November,Clothing,5,330.0,Net Banking
+"2024-11-18",November,Electronics,30,44.0,Debit Card
+"2024-11-18",November,Home & Kitchen,20,118.0,Credit Card
+"2024-11-18",November,Home & Kitchen,25,294.0,Debit Card
+"2024-11-18",November,Home & Kitchen,20,48.0,UPI
+"2024-11-18",November,Sports,15,22.0,Debit Card
+"2024-11-18",November,Toys,60,354.0,UPI
+"2024-11-19",November,Beauty,60,214.0,UPI
+"2024-11-19",November,Books,10,107.0,Cash on Delivery
+"2024-11-19",November,Books,20,286.0,Credit Card
+"2024-11-19",November,Clothing,20,383.0,Net Banking
+"2024-11-19",November,Electronics,50,56.0,Debit Card
+"2024-11-19",November,Home & Kitchen,15,110.0,Credit Card
+"2024-11-19",November,Toys,15,181.0,Cash on Delivery
+"2024-11-19",November,Toys,25,280.0,UPI
+"2024-11-20",November,Books,5,130.0,Cash on Delivery
+"2024-11-20",November,Books,10,316.0,Credit Card
+"2024-11-20",November,Books,55,509.0,Net Banking
+"2024-11-20",November,Clothing,10,677.0,Net Banking
+"2024-11-20",November,Clothing,20,376.0,UPI
+"2024-11-20",November,Electronics,30,248.0,Cash on Delivery
+"2024-11-20",November,Electronics,25,358.0,Net Banking
+"2024-11-20",November,Home & Kitchen,15,351.0,Cash on Delivery
+"2024-11-21",November,Books,15,327.0,Debit Card
+"2024-11-21",November,Clothing,20,303.0,Credit Card
+"2024-11-21",November,Clothing,5,403.0,Debit Card
+"2024-11-21",November,Electronics,65,178.0,Cash on Delivery
+"2024-11-21",November,Home & Kitchen,30,78.0,Cash on Delivery
+"2024-11-21",November,Home & Kitchen,15,332.0,Debit Card
+"2024-11-21",November,Home & Kitchen,0,399.0,Net Banking
+"2024-11-21",November,Sports,0,363.0,Cash on Delivery
+"2024-11-21",November,Sports,25,363.0,Net Banking
+"2024-11-21",November,Toys,5,230.0,Credit Card
+"2024-11-21",November,Toys,25,395.0,Net Banking
